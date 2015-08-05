@@ -14,7 +14,7 @@
 * [2.1 Elementary Derivative Rules](https://teacher.desmos.com/activitybuilder/custom/55c0358656b796534d11adee)
 * [2.2 Sine and Cosine Derivatives](https://teacher.desmos.com/activitybuilder/custom/55c03bc8f70d1b1606e4a81e)
 * [2.3 Product and Quotient Rules](https://teacher.desmos.com/activitybuilder/custom/55c0dcaef70d1b1606e4c905)
-* [2.4 Other Trig Derivatives](ttps://teacher.desmos.com/activitybuilder/custom/55c132d056b796534d1202a8)
+* [2.4 Other Trig Derivatives](https://teacher.desmos.com/activitybuilder/custom/55c132d056b796534d1202a8)
 * [2.5 Chain Rule](https://teacher.desmos.com/activitybuilder/custom/55c1381ff70d1b1606e51142)
 * [2.6 Derivatives of Inverse Functions](https://teacher.desmos.com/activitybuilder/custom/55c2332d4dbbd3931836e13f)
 * [2.7 Implicit Function Derivatives](https://teacher.desmos.com/activitybuilder/custom/55c23d494dbbd3931836e97e)
