@@ -21,3 +21,8 @@
 * [2.8 L'Hospital's Rule](https://teacher.desmos.com/activitybuilder/custom/55c246064dbbd3931836eaa3)
 * [3.1 Using Derivatives to find Extrema](https://teacher.desmos.com/activitybuilder/custom/55c278748930851906033c6f)
 * [3.2 Families of Functions](https://teacher.desmos.com/activitybuilder/custom/55c27e3b8930851906033cce)
+
+
+##Number Theory/Algebra
+* [Visible Points](https://teacher.desmos.com/activitybuilder/custom/55c2b7f7893085190603468a)
+* [Die Hard Water Problem](https://teacher.desmos.com/activitybuilder/custom/55bc3cc5adf21bde5ee2266c)
