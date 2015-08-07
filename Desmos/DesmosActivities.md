@@ -21,6 +21,13 @@
 * [2.8 L'Hospital's Rule](https://teacher.desmos.com/activitybuilder/custom/55c246064dbbd3931836eaa3)
 * [3.1 Using Derivatives to find Extrema](https://teacher.desmos.com/activitybuilder/custom/55c278748930851906033c6f)
 * [3.2 Families of Functions](https://teacher.desmos.com/activitybuilder/custom/55c27e3b8930851906033cce)
+* [3.3 Global Extrema](https://teacher.desmos.com/activitybuilder/custom/55c2d86c8930851906034973)
+* [3.4 Optimization](https://teacher.desmos.com/activitybuilder/custom/55c384de3c35758b2b2ea102)
+* [3.5 Related Rates of Change](https://teacher.desmos.com/activitybuilder/custom/55c393676f0091a533ff90bc)
+* [4.1 Determining Distance from Velocity](https://teacher.desmos.com/activitybuilder/custom/55c39adf3c35758b2b2eaaf4)
+* [4.2 Riemann Sums](https://teacher.desmos.com/activitybuilder/custom/55c410ed42cce4263045ec68)
+* [4.3 Definite Integrals](https://teacher.desmos.com/activitybuilder/custom/55c41b475b3911893f80e713)
+* [4.4 First Fundamental Theorem of Calculus](https://teacher.desmos.com/activitybuilder/custom/55c529e088a1570a43103e15)
 
 
 ##Number Theory/Algebra
