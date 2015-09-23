@@ -31,5 +31,9 @@
 
 
 ##Number Theory/Algebra
-* [Visible Points](https://teacher.desmos.com/activitybuilder/custom/55c2b7f7893085190603468a)
-* [Die Hard Water Problem](https://teacher.desmos.com/activitybuilder/custom/55bc3cc5adf21bde5ee2266c)
+* [Visible Points](https://teacher.desmos.com/activitybuilder/custom/55c2b7f7893085190603468a) - Explore which lattice points have an unimpeded view of the origin. 
+* [Die Hard Water Problem](https://teacher.desmos.com/activitybuilder/custom/55bc3cc5adf21bde5ee2266c) - Can you get 4 L from an 8 L container and a 5 L container?
+
+## Algebra
+* [Allowable Dating Ages](https://teacher.desmos.com/activitybuilder/custom/55f242b9aec16ef50abcde34) - Use inverse functions and inequalities to explore a mathematical model of appropriate dating ages.
+* [Awkward Urinal Situations](https://teacher.desmos.com/activitybuilder/custom/55f1f50c05db543a06e985f1) - Learn about the floor function and ceiling function as you model a men's room that is reaching capacity.
