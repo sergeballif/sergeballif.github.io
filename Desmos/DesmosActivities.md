@@ -28,7 +28,9 @@
 * [4.2 Riemann Sums](https://teacher.desmos.com/activitybuilder/custom/55c410ed42cce4263045ec68)
 * [4.3 Definite Integrals](https://teacher.desmos.com/activitybuilder/custom/55c41b475b3911893f80e713)
 * [4.4 First Fundamental Theorem of Calculus](https://teacher.desmos.com/activitybuilder/custom/55c529e088a1570a43103e15)
-
+* [5.1 Graphing an Antiderivative](https://teacher.desmos.com/activitybuilder/custom/55c5415e7dcbc37f54b94a75)
+* [5.2 Second Fundamental Theorem of Calculus](https://teacher.desmos.com/activitybuilder/custom/55c5ff8556c77afa48c6bafe)
+* [5.3 Integration by Substitution](https://teacher.desmos.com/activitybuilder/custom/5616c2769f60801b06700082)
 
 ##Number Theory/Algebra
 * [Visible Points](https://teacher.desmos.com/activitybuilder/custom/55c2b7f7893085190603468a) - Explore which lattice points have an unimpeded view of the origin. 
