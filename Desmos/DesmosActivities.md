@@ -61,4 +61,7 @@
 
 ## Statistics
 * [Best Fit Lines](https://teacher.desmos.com/activitybuilder/custom/568c094deb18576d1dda2320) - Students try to eyeball a best fit line to some data points. Then they get to interpret a best fit line to predict some outcomes.
+
+## Complex Analysis
+* [Limits of Complex Functions](https://teacher.desmos.com/activitybuilder/custom/573f3462bead29a80809129e) - Students learn to view a complex function by exploring the image of a subset. Then they check to see if particular limits exist using an epsilon-delta argument.
  
