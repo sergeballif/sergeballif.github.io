@@ -3,10 +3,8 @@ layout: page
 permalink: /about/index.html
 title: Serge Ballif
 tags: 
-  - Hossain
-  - Mohd
-  - Faysal
-  - hmfaysal
+  - Serge
+  - Ballif
 imagefeature: fourseasons.jpg
 chart: true
 published: true
