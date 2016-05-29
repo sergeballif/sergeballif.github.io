@@ -13,7 +13,6 @@ published: true
 ---
 <figure>
   <img src="{{ site.url }}/images/SergeBallif.jpg" alt="Serge Ballif">
-  <figcaption>Serge Ballif smiling</figcaption>
 </figure>
 
 {% assign total_words = 0 %}
