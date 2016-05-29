@@ -118,6 +118,8 @@ prose:
               value: personal
             - name: "Math"
               value: math
+            - name: "Teaching"
+              value: teaching
             - name: "Fun"
               value: fun
             - name: "Writing"
