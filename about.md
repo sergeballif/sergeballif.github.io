@@ -31,6 +31,6 @@ published: true
     {% endif %}
 {% endfor %}
 
-My name is **Serge Ballif**, and I am a mathematician at Nevada State College. I love teaching and sharing ideas. I am a strong believer that everyone can enjoy and succeed in mathematics. I have a Ph.D. in Mathematics from The Pennsylvania State University, a M.S. in Mathematics from Utah State University, and a B.S. in Mathematics from Utah State University. I have a wonderful wife and three entertaining children. 
+My name is **Serge Ballif**, and I am a mathematician at Nevada State College. I love teaching and sharing ideas. I am a strong believer that everyone can enjoy and succeed in mathematics. I have a Ph.D. in Mathematics from The Pennsylvania State University, a M.S. in Mathematics from Utah State University, and a B.S. in Mathematics from Utah State University. I have a wonderful wife and three entertaining children who are good at keeping me busy and smiling. 
 
 
