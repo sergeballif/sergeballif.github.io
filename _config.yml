@@ -81,7 +81,7 @@ prose:
         field:
           label: "Published"
           element: "checkbox"
-          value: "true"
+          value: "false"
       - name: "layout"
         field:
           element: "hidden"
