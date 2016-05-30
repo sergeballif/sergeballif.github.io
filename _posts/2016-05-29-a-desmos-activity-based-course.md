@@ -11,6 +11,7 @@ categories:
   - math
   - Teaching
 tags: teaching math desmos
+modified: "2016-01-16"
 ---
 I recently created a course based off of Desmos activities. The course provides supplementary once-a-week content to the Introduction to College Math course at Nevada State College. The outline of the course is below.
 
@@ -54,7 +55,7 @@ Then have students complete the activity [**Slope**](https://teacher.desmos.com/
 
 ### Friday 6
 
-1. It's important to understand the relationship between a model and the thing that we are modeling. For some practice try activity [**Function Carnival**]](https://teacher.desmos.com/carnival).
+1. It's important to understand the relationship between a model and the thing that we are modeling. For some practice try activity [**Function Carnival**](https://teacher.desmos.com/carnival).
 2. Talk about plotting points in the plane. Show students how to create a table in Desmos and then connect the consecutive points in the table. Then do the activity [**Animation**](https://teacher.desmos.com/activitybuilder/custom/56889574f489315635d22fb7).
 
 ### Friday 7
@@ -93,5 +94,3 @@ Spring Break
 ### Friday 15
 1. We close the semester by using our geometry kung fu to create a model and put it to use. This activity is something of a capstone of all the skills they have practiced throughout the semester. Go to the activity [**Laying Cable**](https://teacher.desmos.com/activitybuilder/custom/568993a413626ee57720dc7f) and talk through the problem on the first screen with the students to make sure they understand the task.
 2. Devote the rest of the class to reviewing for the QUEST.
-
-
