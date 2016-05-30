@@ -12,7 +12,7 @@ categories:
   - Teaching
 tags: teaching math desmos
 ---
-I have created a course based off of Desmos activities. The course provides supplementary once-a-week content to the Introduction to College Math course at Nevada State College. The outline of the course is below.
+I recently created a course based off of Desmos activities. The course provides supplementary once-a-week content to the Introduction to College Math course at Nevada State College. The outline of the course is below.
 
 ## Course Outline
 Students should bring laptops or tablets to every class. They can work in pairs, but they will need a computer.
