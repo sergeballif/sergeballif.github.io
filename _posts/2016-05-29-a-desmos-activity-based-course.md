@@ -9,7 +9,7 @@ description: A Desmos based course
 headline: An Activity Based Course
 categories: 
   - math
-  - Teaching
+  - teaching
 tags: teaching math desmos
 modified: "2016-01-16"
 ---
