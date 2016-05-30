@@ -11,7 +11,7 @@ categories:
   - math
   - teaching
 tags: teaching math desmos
-modified: "2016-01-16"
+modified: "2016-05-29"
 ---
 I recently created a course based off of Desmos activities. The course provides supplementary once-a-week content to the Introduction to College Math course at Nevada State College. The outline of the course is below.
 
