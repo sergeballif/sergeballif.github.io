@@ -3,10 +3,12 @@ layout: post
 title: Documentation
 description: Instructions on how to install and customize the HMFAYSAL Notepad Theme.
 category: theme
-tags: 
-  - "how-to"
+tags: "how-to"
 imagefeature: cover10.jpg
-published: false
+published: true
+mathjax: true
+featured: false
+comments: false
 ---
 
 General notes and suggestions for customizing **HMFAYSAL Notepad Theme**.
