@@ -48,7 +48,7 @@ links:
 gems: [jekyll-paginate]
 timezone:    America/Los_Angeles
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 paginate:    5
 paginate_path: "page:num"
