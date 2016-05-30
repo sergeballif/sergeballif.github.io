@@ -10,7 +10,7 @@ headline: An Activity Based Course
 categories: 
   - math
   - Teaching
-tags: "math, teaching, desmos"
+tags: teaching math desmos
 ---
 I have created a course based off of Desmos activities. The course provides supplementary once-a-week content to the Introduction to College Math course at Nevada State College. The outline of the course is below.
 
