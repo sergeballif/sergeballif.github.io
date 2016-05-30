@@ -5,7 +5,7 @@ description: Instructions on how to install and customize the HMFAYSAL Notepad T
 category: theme
 tags: "how-to"
 imagefeature: cover10.jpg
-published: true
+published: false
 mathjax: true
 featured: false
 comments: false
