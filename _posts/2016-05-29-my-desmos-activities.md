@@ -14,7 +14,7 @@ tags: teaching math desmos
 ---
 Below is a collection of all of the Desmos Activities that I have created. I will keep this post updated as I add new activities.
 
-##Active Calculus Preview Activities
+## Active Calculus Preview Activities
 
 * [1.1 Average Velocity](https://teacher.desmos.com/activitybuilder/custom/55bd351badf21bde5ee23491)
 * [1.2 Limits](https://teacher.desmos.com/activitybuilder/custom/55bd9182adf21bde5ee237e8)
@@ -45,7 +45,7 @@ Below is a collection of all of the Desmos Activities that I have created. I wil
 * [5.2 Second Fundamental Theorem of Calculus](https://teacher.desmos.com/activitybuilder/custom/55c5ff8556c77afa48c6bafe)
 * [5.3 Integration by Substitution](https://teacher.desmos.com/activitybuilder/custom/5616c2769f60801b06700082)
 
-##Number Theory/Algebra
+## Number Theory/Algebra
 * [Visible Points](https://teacher.desmos.com/activitybuilder/custom/55c2b7f7893085190603468a) - Explore which lattice points have an unimpeded view of the origin. 
 * [Die Hard Water Problem](https://teacher.desmos.com/activitybuilder/custom/55bc3cc5adf21bde5ee2266c) - Can you get 4 L from an 8 L container and a 5 L container?
 
