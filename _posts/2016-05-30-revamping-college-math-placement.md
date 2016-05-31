@@ -16,7 +16,7 @@ Getting students placed in the right math class in college is a challenge that p
 
 Often the initial course placement is just wrong. Occasionally a student will end up in a math course that is too advanced for them, but the more common problem is to have a student taking a course that is too easy for them. The Accuplacer placement test has proved to be a poor predictor of success. It turns out that high school GPA would be a much better indicator of the correct placement. In hindsight, it seems obvious that a long term measure of diligence (like GPA) would be a better tool for deciding the right level to start college than a single test taken in the middle of the summer.
 
-This year we are changing our approach. The goal is to remove all of the bottlenecks
+This year we are changing our approach. The goal is to remove all of the bottlenecks and give students at least one successful math experience in their lives.
 
 {% youtube G4vll_wvC88 560 315 %}
 
