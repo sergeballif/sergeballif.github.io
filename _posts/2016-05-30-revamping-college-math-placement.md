@@ -18,7 +18,7 @@ Often the initial course placement is just wrong. Occasionally a student will en
 
 This year we are changing our approach. The goal is to remove all of the bottlenecks and give students at least one successful math experience in their lives.
 
-{% youtube G4vll_wvC88 560 315 %}
+
 
 What is EdReady?
 ================
