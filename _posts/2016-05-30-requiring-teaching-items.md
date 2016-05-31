@@ -20,9 +20,7 @@ I allowed students to select their own topic from among a list of learning objec
 
 The first teaching item was a [texting lesson](http://sergeballif.github.io/NSC-Math-181/CoreLearning/Math181TeachingItem1.pdf) where students carried out a tutoring session in the format of a phone text.
 
-<img src="/../images/TeachingItem.PNG" alt="pseudo dialog of tutoring via text message" width="300">
-
-![pseudo dialog of tutoring via text message]({{site.baseurl}}/images/TeachingItem.PNG)
+<img src="/../images/TeachingItem.PNG" alt="pseudo dialog of tutoring via text message" width="800">
 
 The submission was typeset using LaTeX at [Overleaf](https://www.overleaf.com). I sent the students to a [page with basic setup instructions](http://sergeballif.github.io/NSC-Math-181/TeachingItems.html) and then turned them loose. There was definitely a bit of a learning curve here. The LaTeX syntax was new to nearly all of my students, but they caught on quickly. During class I showed them websites that would help them to typeset the math such as [mathurl.com](http://mathurl.com/) or [desmos.com](desmos.com). I specifically warned them not to wait until the last minute because they were sure to encounter some technical difficulties along the way. A few students got part way through the work and decided to start over because they couldn't figure out the errors, but for the most part I had very few complaints. Moreover, several students remarked that this was their favorite assignment of the semester.
 
