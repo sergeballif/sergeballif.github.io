@@ -4,13 +4,13 @@ published: true
 mathjax: true
 featured: false
 comments: true
-title: Requiring Teaching Items
+title: Students Learning by Teaching
 description: Requiring Teaching Items
 headline: Students learn by teaching
 categories: 
   - math
   - teaching
-tags: "math, teaching, Desmos"
+tags: teaching math Desmos
 ---
 Last semester I required my students to create three lessons on important course content. By asking the students to take on the role of teacher I raised the bar for their level of understanding on those three topics. The quickest way to discover where a student is faking it is to ask them to explain their understanding of an idea.
 
