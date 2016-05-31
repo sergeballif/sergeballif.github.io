@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 mathjax: true
 featured: false
 comments: true
@@ -11,7 +11,6 @@ categories:
   - teaching
 tags: math placement teaching
 headline: Smoothing the college math path
-imagefeature: EdReadyBanner.jpg
 ---
 Getting students placed in the right math class in college is a challenge that plagues all of higher ed. Math is often the obstacle that keeps students from progressing to a degree, especially when they place below the level of a college math course. This problem is all too common; about 75% of our incoming students at Nevada State College place into remedial math based. 
 
