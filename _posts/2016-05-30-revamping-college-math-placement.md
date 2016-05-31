@@ -18,10 +18,11 @@ Often the initial course placement is just wrong. Occasionally a student will en
 
 This year we are changing our approach. The goal is to remove all of the bottlenecks and give students at least one successful math experience in their lives.
 
-
+<div style="text-align: center;" markdown="1">
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=G4vll_wvC88
 " target="_blank"><img src="https://img.youtube.com/vi/G4vll_wvC88/0.jpg" 
-alt="NSC EdReady" width="560" height="315" border="10" /></a>
+alt="NSC EdReady" width="280" height="157" border="10" /></a>
+</div>
 
 What is EdReady?
 ================
