@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 mathjax: true
 featured: false
 comments: true
