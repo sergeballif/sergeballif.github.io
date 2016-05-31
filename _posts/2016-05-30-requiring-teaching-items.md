@@ -20,6 +20,7 @@ I allowed students to select their own topic from among a list of learning objec
 
 The first teaching item was a [texting lesson](http://sergeballif.github.io/NSC-Math-181/CoreLearning/Math181TeachingItem1.pdf) where students carried out a tutoring session in the format of a phone text.
 
+<img src="/../images/TeachingItem.PNG" alt="pseudo dialog of tutoring via text message" width="300">
 
 ![pseudo dialog of tutoring via text message]({{site.baseurl}}/images/TeachingItem.PNG)
 
