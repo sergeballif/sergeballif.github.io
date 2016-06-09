@@ -1,90 +1,44 @@
 ---
 layout: post
-published: false
+published: true
 mathjax: true
 featured: false
 comments: true
 title: Revamping College Math Placement
 description: Getting College Math Placement Right
-categories: 
+categories:
   - math
   - teaching
-tags: math placement teaching
-headline: Smoothing the college math path
+tags: math placement teaching edready
+headline: Smoothing the college math path with EdReady
+modified: ''
+imagefeature: ''
 ---
-Getting students placed in the right math class in college is a challenge that plagues all of higher ed. Math is often the obstacle that keeps students from progressing to a degree, especially when they place below the level of a college math course. This problem is all too common; about 75% of our incoming students at Nevada State College place into remedial math based. 
+Getting students placed in the right math class in college is a challenge that plagues all of higher ed. Math is often the obstacle that keeps students from progressing to a degree, especially when they place below the level of a college math course. This problem is all too common; about 75% of our incoming students at Nevada State College place into remedial math based.
 
-Often the initial course placement is just wrong. Occasionally a student will end up in a math course that is too advanced for them, but the more common problem is to have a student taking a course that is too easy for them. The Accuplacer placement test has proved to be a poor predictor of success. It turns out that high school GPA would be a much better indicator of the correct placement. In hindsight, it seems obvious that a long term measure of diligence (like GPA) would be a better tool for deciding the right level to start college than a single test taken in the middle of the summer.
+Often the initial course placement is just wrong. Occasionally a student will end up in a math course that is too advanced for them, but the more common problem is to have a student taking a course that is too easy for them. The Accuplacer placement test has proved to be a poor predictor of success. It turns out that high school GPA would be a much better indicator of the correct placement. In hindsight, it seems obvious that a long term measure of diligence (like GPA) would be a better tool for deciding the right level to start college than a single test taken in the middle of the summer after a long break.
 
 This year we are changing our approach. The goal is to remove all of the bottlenecks and give students at least one successful math experience in their lives.
 
 <div style="text-align: center;" markdown="1">
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=G4vll_wvC88
-" target="_blank"><img src="https://img.youtube.com/vi/G4vll_wvC88/0.jpg" 
+" target="_blank"><img src="https://img.youtube.com/vi/G4vll_wvC88/0.jpg"
 alt="NSC EdReady" width="280" height="157" border="10" /></a>
 </div>
 
-What is EdReady?
-================
+We have adopted EdReady as our chief placement tool. EdReady is a free learning platform that motivated students can use to fill in the gaps in their math knowledge. EdReady contains videos and learning materials to help students learn the content that they would normally learn by taking Math 95M at NSC (a 5-credit course that ultimately doesn't count towards college credit). Students who would like to improve their placement from the Accuplacer test can work through EdReady to place into a higher class.
 
-[]
+__Old Method:__ Students take the Accuplacer test prior to coming to new student orientation. Based off of their Accuplacer score they are placed into a course. Alternatively they could use their ACT or SAT score instead of the Accuplacer score.
 
-[][1]
+__New Method:__  Incoming students who don't have an ACT or SAT score will take an EdReady test to get their initial placement. (All incoming students in Nevada will now be required to take the ACT, so more students will have a default initial placement than in previous semesters.) Any student who wishes to improve their placement can continue working through EdReady to improve their score. Students can proceed at their own pace. In the process of working through EdReady students are able to complete (approximately) the same work that they would learn in our remedial math course (Math 95M). 
 
-EdReady is a free learning platform that motivated students can use to
-fill in the gaps in their math knowledge. EdReady contains videos and
-learning materials to help you learn the content that you would normally
-learn by taking Math 95M at NSC.
+The new EdReady placement method doesn't cost the students (or NSC) anything because the state of Nevada has purchased access to EdReady for all institutions in the state. Students can save \$800 and a whole semester and bypass a 5-credit remedial course (Math 95M) that would not count towards college credit.
+EdReady is a great resource for self-motivated students. We can only supply minimal support and follow-up, so we can't expect miracles, but we are optimistic that many students will be sufficiently excited by the prospects of getting their college math completed in only one semester that they will get to work this summer to improve their placement for fall semester.
 
-Students who would like to improve their placement from the Accuplacer
-test can work through EdReady to place into a higher class. (In the long
-run we would like to phase out the Accuplacer test altogether and
-replace it with EdReady.)
+Perhaps the biggest challenge that we face in starting this new program is just getting the word out to students. The whole program is destined to fail if we only provide a simple link in an email. To get students started we have have approached from several angles.
+- Each incoming student who placed below college math level received an email from Advising telling them about the opportunity to use EdReady to improve their placement.
+- A week later a student worker called each of the students to talk in person about the possibilities and to answer their questions.
+- We placed a special EdReady link in the resource tab of Canvas.
+- At New Student Orientation the math advisor will go over all of the details of how to use EdReady to improve their placement.
 
-Why EdReady?
-============
-
-It saves you time and money. **EdReady is free**. Math 095M costs more
-than $800 and takes a whole semester. Any student who is sufficiently
-motivated to work through the EdReady material without needing a teacher
-to prod them to action can succeed with EdReady.
-
-How do I get started?
-=====================
-
-First determine whether you plan to continue on to Calculus. Go to
-[nsc.edready.org] and follow the instructions to create an account.
-Enter the key **`placement`** (or **`placementcalculustrack`** for
-students who plan to take calculus eventually) and click submit. Then
-click Get Started!
-
-<img src="EdReadyKey.PNG" alt="image" width="264" />
-
-Each time you log in you will work on the goal “Accuplacer
-Prep-Elementary Algebra” (or “Accuplacer Prep - College Level Math” for
-students on the calculus track). Select that goal and click Go to Goal.
-Click on Start assessment to take your initial test to see what you need
-to work on.
-
-<img src="EdReadyStartAssessment.PNG" alt="image" width="264" />
-
-Over time you can view your progress as your score rises.
-
-How will my EdReady score affect my placement?
-==============================================
-
-You must first take the Accuplacer test to get an initial placement if
-you have not taken the ACT or SAT. Then you can work through EdReady to
-improve your placement. Everything must be completed manually at this
-time, so you will need to contact LaKiasha Hollingsworth at
-[LaKiasha.Hollingsworth@nsc.edu] so that she can verify your progress
-and place you in a class. At the time of your email, you must provide
-your NSHE ID and the Course Section for the math class you would like to
-enroll in. Please note that we will only place students in a course if
-they have taken a placement exam (such as Accuplacer, ACT, or SAT). This
-policy may change in the future, but for now we need data.
-
-  []: https://youtu.be/G4vll_wvC88
-  [1]: https://player.vimeo.com/video/127075396
-  [nsc.edready.org]: nsc.edready.org
-  [LaKiasha.Hollingsworth@nsc.edu]: LaKiasha.Hollingsworth@nsc.edu
+The last day of summer semester is the deadline we have set for improving the math course placement for fall semester. We are hopeful that students will take advantage.
