@@ -1,7 +1,7 @@
 title:            Serge Ballif
 description:      "pi is exactly 3"
 logo:             logo.png
-# disqus_shortname: hmfaysal
+disqus_shortname: PiIsExactlyThree
 share:        	true
 dropcap:	true
 # Change url to your domain. Leave localhost server or blank when working locally.
