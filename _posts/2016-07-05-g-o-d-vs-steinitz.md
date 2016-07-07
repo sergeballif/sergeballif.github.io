@@ -169,7 +169,7 @@ Confusion washed over Steinitz. What was going on? Unsure how much time had pass
 
 Steinitz jumped at a knock on the door announced Golding's return. Steinitz could feel his heart beating in his ears. He tried to collect his composure as he let Mr. Golding in. As Golding sat at the table Steinitz ignored the board, instead studying Golding's face. Steinitz had never seen such white teeth in his life. They were perfectly straight and aligned. 
 
-Golding sensed Steinitz's scrutiny, and he lifted his eyes to meet Steinitz's gaze. Steinitz hastily looked away to look at black's move (32. .. Qb1). Another annoying pin. Perhaps a trade of queens could be cajoled? Steinitz made his move (33.Qb2) though he regretted it as soon as Golding stood up to leave. Steinitz couldn't afford to play while flustered.
+Golding sensed Steinitz's scrutiny, and he lifted his eyes to meet Steinitz's gaze. Steinitz hastily looked away, turning his focus to black's last move (32. .. Qb1). Another annoying pin. Perhaps a trade of queens could be cajoled? Steinitz made his move (33.Qb2) though he regretted it as soon as Golding stood up to leave. Steinitz couldn't afford to play while flustered.
 
 ![board on move 33]({{site.baseurl}}/images/Move33.jpg)
 
@@ -246,5 +246,32 @@ He glanced at his notepad next to the board where he had been making his annotat
 Postscript: Four months later Steinitz lost his World Championship match with Lasker.  He never regained his form, though he continued to play solid chess. He died seven years later in an asylum after a mental breakdown. Stories say that he was convinced that he was playing a game of chess against God over an invisible telephone wire.
 
 Coda: Congratuations. Your mission was a success. The timeline remains intact, and you appear to have gone undetected. We have verified that electronic communication can be sent over an extended interval and shared in both directions. Please expect immediate extraction upon completion of the game.
+
+
+---------------------------
+
+As Golding made black's move he politely addressed Steinitz. "Mr. Steinitz. Might I use your bathroom while you ponder your move?" 
+
+"Certainly," replied Steinitz pointing to the room off of his parlor. 
+
+Golding excused himself. Steinitz studied the board, digging his knuckles into the wood of his table. He glanced at the vacant chair, and his eyes grew wide as he saw that Golding had left his briefcase sitting unattended. Could there be some clues to this mystery hidden inside the case? Steinitz didn't now how long he had until Golding returned, so he made the decision to act. He rounded the table and carefully undid the clasps. Steinitz opened the lid a couple of inches and peered inside. All that he found was small rectangular block with a smooth black surface. Puzzled, Steinitz picked it up to exam it. 
+
+Steinitz was startled to hear the toilet flush. Alarmed, he tossed the block back into the briefcase rather harder than he had intended and closed the briefcase. He quickly locked the clasps and moved to dash back to his seat before Golding could see him. Yet before he had returned to his seat he heard a low voice speaking.
+
+_... remains intact, and you appear to have gone undetected._
+
+Who was speaking? Steinitz searched the room with his eyes for the source of the voice, but there was nobody in sight. He could hear Golding approaching from behind.
+
+_We have verified that electronic communication can be sent over an extended interval and shared in both directions._
+
+Golding ignored the voice and went straight for his briefcase which he opened. Did he know what Steinitz had just done? Steinitz still couldn't see the source of the voice, though it might have grown louder.
+
+_Please signal for immediate extraction upon completion of the game. Congratulations._
+
+The voice went silent and Golding looked up? Did his smile look guilty this time? When Golding said nothing Steinitz broke the silence. "Did you hear that voice just now?"
+
+"Indeed," said Golding, nodding. "I assumed that you were engaged in a telephone call."
+
+"What telephone?" snapped Steinitz, though his gaze did cross the room to another table where his telephone sat
 
 View [the game and computer evaluations](https://en.lichess.org/0pTDmvRW).
