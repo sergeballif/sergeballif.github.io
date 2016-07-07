@@ -276,8 +276,8 @@ Steinitz trotted to his telephone, but before he arrived the voice went silent. 
 
 "I'm sorry," replied Golding contritely. "I ignored your conversation in an attempt to give you some privacy. I thought I had heard the telephone ring."
 
-Steinitz paused. Was it possible that the telephone had rung? Could he have missed such a sound? He had been engaging in some subterfuge at the time. Perhaps if he pressed the matter Golding would inquire about why his briefcase had been moved while he was away from the table.
+Steinitz paused. Was it possible that the telephone had rung? Could he have missed such a sound? He had been engaging in some subterfuge at the time and could have been distracted. Perhaps if he pressed the matter Golding would inquire about why his briefcase had been moved while he was away from the table.
 
-Golding's eyes had returned to the board where he noted that Steinitz had not yet made his move. He looked up and met Steinitz's gaze as though inviting him back to the board.
+Golding's eyes had returned to the board where he noted that Steinitz had not yet made his move. He looked up and met Steinitz's gaze as though inviting him back to the board. Steinitz sat down heavily upon his chair.
 
 View [the game and computer evaluations](https://en.lichess.org/0pTDmvRW).
