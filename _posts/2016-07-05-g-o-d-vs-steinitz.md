@@ -260,18 +260,24 @@ Steinitz was startled to hear the toilet flush. Alarmed, he tossed the block bac
 
 _... remains intact, and you appear to have gone undetected._
 
-Who was speaking? Steinitz searched the room with his eyes for the source of the voice, but there was nobody in sight. He could hear Golding approaching from behind.
+Who was speaking? The voice seemed to be so close. Steinitz searched the room with his eyes for the source of the voice, but there was nobody in sight. He could hear Golding approaching from behind.
 
 _We have verified that electronic communication can be sent over an extended interval and shared in both directions._
 
-Golding ignored the voice and went straight for his briefcase which he opened. Did he know what Steinitz had just done? Steinitz still couldn't see the source of the voice, though it might have grown louder.
+Golding ignored the voice and went straight for his briefcase which he opened. Did he know what Steinitz had just done? Steinitz still couldn't identify the source of the voice, though it might have grown louder. His phonograph sat unmoving upon a side table. 
 
 _Please signal for immediate extraction upon completion of the game. Congratulations._
 
-The voice went silent and Golding looked up? Did his smile look guilty this time? When Golding said nothing Steinitz broke the silence. "Did you hear that voice just now?"
+Steinitz trotted to his telephone, but before he arrived the voice went silent. Steinitz turned back to Golding who looked up after closing his briefcase? Did his smile look guilty this time? When Golding said nothing Steinitz broke the silence. "Did you hear that voice just now?"
 
 "Indeed," said Golding, nodding. "I assumed that you were engaged in a telephone call."
 
-"What telephone?" snapped Steinitz, though his gaze did cross the room to another table where his telephone sat
+"Not at all," snapped Steinitz. "Surely you saw that I wasn't near my telephone." Something fishy was surely afoot. 
+
+"I'm sorry," replied Golding contritely. "I ignored your conversation in an attempt to give you some privacy. I thought I had heard the telephone ring."
+
+Steinitz paused. Was it possible that the telephone had rung? Could he have missed such a sound? He had been engaging in some subterfuge at the time. Perhaps if he pressed the matter Golding would inquire about why his briefcase had been moved while he was away from the table.
+
+Golding's eyes had returned to the board where he noted that Steinitz had not yet made his move. He looked up and met Steinitz's gaze as though inviting him back to the board.
 
 View [the game and computer evaluations](https://en.lichess.org/0pTDmvRW).
