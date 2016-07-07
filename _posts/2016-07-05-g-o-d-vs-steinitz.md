@@ -6,11 +6,6 @@ featured: false
 comments: false
 title: G.O.D. vs Steinitz
 description: A short chess story dedicated to the TCEC (Top Chess Engine Championship)
-headline: ''
-modified: ''
-categories: ''
-tags: ''
-imagefeature: ''
 ---
 # G.O.D. vs Steinitz
 William Steinitz was jubilant. Fortune had smiled upon him this day bringing a much needed influx of cash his way. It was shameful plight for the chess champion of the world to be living in such poverty, but now Steinitz could breath more easily with a full $500 newly deposited into his bank.
@@ -107,9 +102,9 @@ After a couple of minutes Steinitz concluded that the sacrifice might possibly b
 
 Deos replied by moving his knight to the center in an elegant move that forked both knight and bishop (12. .. Nd4). Steinitz retreated the rook back a square (13.Re5). He lamented the loss of the bishop pair that would come on the next turn as he was fond of wreaking havoc with the powerful duo. Once again he was impressed with Deos's game.  
 
-Yet the expected capture did not occur on the next move. Instead Deos abandoned his double attack on Steinitz's knight and retreated his queen to the diagonal of Steinitz's king. It was now Steinitz's turn to deal with a pin as his rook could not move. Yet a simple pawn move removed the annoying pin and protected the rook from the attacking queen (14.f4). Black lacked both bishops and a pawn, while Steinitz was missing only a knight. 
+Yet the expected capture did not occur on the next move. Instead Deos abandoned his double attack on Steinitz's knight and retreated his queen to the diagonal of Steinitz's king (13. .. Qc7). It was now Steinitz's turn to deal with a pin as his rook could not move. Yet a simple pawn move removed the annoying pin and protected the rook from the attacking queen (14.f4). Black lacked both bishops and a pawn, while Steinitz was missing only a knight. 
 
-Next Deos captured the white bishop as Steinitz had incorrectly predicted on the previous move. (14. .. Nxb5). Steinitz saw black's clever tactic, though again there was little to do. Without the queen's support Steinitz recaptured black's knight to go up a bishop and a pawn (15.Nxb5). However Deos brought his queen in with a double threat (Qc4). Steinitz would need to give up the knight to avoid a fork of his king and rook. Steinitz developed a pawn before watching his knight disappear from the board (16.d4 Qxb5). It was time to protect his king (17.Kg1). 
+Next Deos captured the white bishop as Steinitz had incorrectly predicted on the previous move. (14. .. Nxb5). Steinitz saw black's clever tactic, though again there was little to do. Without the queen's support Steinitz recaptured black's knight to go up a bishop and a pawn (15.Nxb5). However Deos brought his queen in with a double threat (15. .. Qc4). Steinitz would need to give up the knight to avoid a fork of his king and rook. Steinitz developed a pawn before watching his knight disappear from the board (16.d4 Qxb5). It was time to protect his king (17.Kg1). 
 
 Steinitz had been so caught up in the game that he had neglected to annotate any of the recent moves. He could always go back at a later date and add in the commentary, though he took a moment to jot down a line or two.
 
@@ -190,4 +185,3 @@ Postscript: Four months later Steinitz lost his World Championship match with La
 Coda: Congratuations. Your mission was a success. The timeline remains intact, and you appear to have gone undetected. We have verified that electronic communication can be sent over an extended interval and shared in both directions. Please expect immediate extraction upon completion of the game.
 
 The game can be viewed at https://en.lichess.org/0pTDmvRW.
-
