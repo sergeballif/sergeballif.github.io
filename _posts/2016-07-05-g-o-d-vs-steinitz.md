@@ -6,6 +6,11 @@ featured: false
 comments: false
 title: G.O.D. vs Steinitz
 description: A short chess story dedicated to the TCEC (Top Chess Engine Championship)
+headline: ''
+modified: ''
+categories: ''
+tags: ''
+imagefeature: ''
 ---
 # G.O.D. vs Steinitz
 William Steinitz was jubilant. Fortune had smiled upon him this day bringing a much needed influx of cash his way. It was shameful plight for the chess champion of the world to be living in such poverty, but now Steinitz could breath more easily with a full $500 newly deposited into his bank.
@@ -60,7 +65,7 @@ Steinitz turned on Golding and declared in a scathing voice. "There will be no m
 
 Somewhat taken aback Golding replied. "Very well Mr. Steinitz. The contract does have a clear provision allowing you to cancel the game before it commences. If you will return the money I shall be on my way."
 
-Now it was Steinitz's turn to be speechless. What was he thinking? $500 was at stake. It was unimaginable to part with such a sum of money, regardless of how newly acquired it was. Besides, Steinitz was embarrassed to admit that he had so hastily deposited the cash at the bank. Very well, a little diplomacy was called for.  After a deep inhalation Steinitz spoke with composure. 
+Now it was Steinitz's turn to be speechless. What was he thinking? $600 was at stake. It was unimaginable to part with such a sum of money, regardless of how newly acquired it was. Besides, Steinitz was embarrassed to admit that he had so hastily deposited the cash at the bank. Very well, a little diplomacy was called for.  After a deep inhalation Steinitz spoke with composure. 
 
 "Mr. Golding, I find the current arrangement unsatisfactory. No odds need to be given in a game between gentlemen. Let us play the game with all our pawns, and I shall be glad to accept the white pieces." Ah yes, in any negotiation you must give a little and take a little.
 
@@ -90,11 +95,17 @@ Steinitz was relieved to see that Golding knew at the least the basics of chess.
 
 Steinitz knew the early game so well that there was little thinking required at this stage. An idea occurred to him. Perhaps this game could be written up for his chess column. He might need to tweak the details of the setting, but such a game might prove amusing to his reader. He pulled out a sheet of paper and recorded the first moves. 
 
-Golding soon returned and the game continued in its slow but steady fashion as the remaining knights were developed (2. .. Nf6 3.Nf3 Nc6). By the time Steinitz had brought out his bishop and castled (4.Bc4 e6 5.O-O) he was pleased to have such a solid, textbook worthy position.  At the first sign of aggression two pawns were traded off (5. .. d5 6.exd5 exd5). Steinitz grudgingly admitted to himself that Deos's play had thus far been beyond reproach. Perhaps the man would put up some resistance after all. Of course it was much too early in the game to make predictions now. The usual path to victory was to play a solid game while waiting for the opponent to make the first blunder. It was not a question of if such a blunder would take place, but rather when it would occur. While Steinitz waited between moves he puttered about his apartment taking a bite to eat. He also dutifully recorded the moves while adding instructive annotations to the moves. 
+Golding soon returned and the game continued in its slow but steady fashion as the remaining knights were developed (2. .. Nf6 3.Nf3 Nc6). By the time Steinitz had brought out his bishop and castled (4.Bc4 e6 5.O-O) he was pleased to have such a solid, textbook worthy position.  At the first sign of aggression two pawns were traded off (5. .. d5 6.exd5 exd5). Steinitz grudgingly admitted to himself that Deos's play had thus far been beyond reproach. Perhaps the man would put up some resistance after all. Of course it was much too early in the game to make predictions now. The usual path to victory was to play a solid game while waiting for the opponent to make the first blunder. It was not a question of if such a blunder would take place, but rather when it would occur. While Steinitz waited between moves he puttered about his apartment taking a bite to eat. He also dutifully recorded the moves while adding instructive annotations to the moves.
+
+![board after move 6]({{site.baseurl}}/images/Move6.jpg)
 
 After 7.Bb5 Bd6 8.Re1+ Be6 9.Ng5 Steinitz wrote _The two pinned pieces are an annoyance that black will soon regret._ 
 
+![board after move 8]({{site.baseurl}}/images/Move8.jpg)
+
 After 9. .. O-O 10.Nxe6 fxe6 11.Rxe6 Steinitz wrote _Not only is black down two pawns, but he will now play the rest of the game without the bishop pair._ Perhaps he would add to this annotation later to chide white for his own lack of pawn development.
+
+![board on move 11]({{site.baseurl}}/images/Move11.jpg)
 
 A surprise came on move 11 as Deos started an attack, sacrificing a bishop for a pawn (11. .. Bxh2+). For the first time Steinitz truly studied the board. He had made each of his preceding moves in less than 30 seconds, in part because the early moves were easy, he knew the openings forwards and backwards. However the quick pace also served to reinforce the message to Deos (hopefully relayed by Golding) that Steinitz was breezing through the game. Steinitz did not want to give Deos the satisfaction of having flustered Steinitz in any way. 
 
@@ -102,9 +113,17 @@ After a couple of minutes Steinitz concluded that the sacrifice might possibly b
 
 Deos replied by moving his knight to the center in an elegant move that forked both knight and bishop (12. .. Nd4). Steinitz retreated the rook back a square (13.Re5). He lamented the loss of the bishop pair that would come on the next turn as he was fond of wreaking havoc with the powerful duo. Once again he was impressed with Deos's game.  
 
+![board on move 13]({{site.baseurl}}/images/Move13.jpg)
+
 Yet the expected capture did not occur on the next move. Instead Deos abandoned his double attack on Steinitz's knight and retreated his queen to the diagonal of Steinitz's king (13. .. Qc7). It was now Steinitz's turn to deal with a pin as his rook could not move. Yet a simple pawn move removed the annoying pin and protected the rook from the attacking queen (14.f4). Black lacked both bishops and a pawn, while Steinitz was missing only a knight. 
 
-Next Deos captured the white bishop as Steinitz had incorrectly predicted on the previous move. (14. .. Nxb5). Steinitz saw black's clever tactic, though again there was little to do. Without the queen's support Steinitz recaptured black's knight to go up a bishop and a pawn (15.Nxb5). However Deos brought his queen in with a double threat (15. .. Qc4). Steinitz would need to give up the knight to avoid a fork of his king and rook. Steinitz developed a pawn before watching his knight disappear from the board (16.d4 Qxb5). It was time to protect his king (17.Kg1). 
+Next Deos captured the white bishop as Steinitz had incorrectly predicted on the previous move. (14. .. Nxb5). Steinitz saw black's clever tactic, though again there was little to do. Without the queen's support Steinitz recaptured black's knight to go up a bishop and a pawn (15.Nxb5). However Deos brought his queen in with a double threat (15. .. Qc4). 
+
+![board after move 15]({{site.baseurl}}/images/Move15.jpg)
+
+Steinitz would need to give up the knight to avoid a fork of his king and rook. Steinitz developed a pawn before watching his knight disappear from the board (16.d4 Qxb5). It was time to protect his king (17.Kg1). 
+
+![board on move 17]({{site.baseurl}}/images/Move17.jpg)
 
 Steinitz had been so caught up in the game that he had neglected to annotate any of the recent moves. He could always go back at a later date and add in the commentary, though he took a moment to jot down a line or two.
 
@@ -114,7 +133,15 @@ Steinitz found himself annoyed that he had been unable to press his initial adva
 
 As the game continued into the afternoon there was no delay to Golding's arrivals. Why did the man keep smiling? Upon noting the consistent timing, Steinitz had watched the clock more carefully.  The duration from the time that Steinitz's door had closed to the return knock announcing Golding's return had been exactly 5 minutes and 8 seconds for each of the last three moves. Curious indeed. Even if Golding could make the trip to and from Deos's location in just a minute's time, then Deos was spending at most three minutes considering each new move. 
 
-The game proceeded 17. .. Qc6 18.Qe2 Rae8 19.Be3 h5 20.Qd3 Ng4. 21.Rxe8 Rxe8 22.Bd2 Qb6.  23.b3 Re4 24.c3 Qe6 25.Qg3. Golding continued to arrive at regular time intervals, the time of his arrival never varied by more than 10 seconds. Surely this must be intentional. Though Steinitz was still up a pawn he sensed that something was wrong. His advantage had evaporated. He liked black's position as much as his own. The most frustrating part was that he had made no blunders. In fact he could not point to a single inaccuracy in his own play. After three hours of play Steinitz was further from winning than ever. Clearly his opponent was no amateur.
+The game proceeded 17. .. Qc6 18.Qe2 Rae8 19.Be3 h5 20.Qd3 Ng4. 
+
+![board after move 20]({{site.baseurl}}/images/Move21.jpg)
+
+Perhaps it was time to simplify by trading off rooks (21.Rxe8 Rxe8 22.Bd2 Qb6. 23.b3 Re4 24.c3 Qe6 25.Qg3). 
+
+![board on move 25]({{site.baseurl}}/images/Move25.jpg)
+
+Golding continued to arrive at regular time intervals, the time of his arrival never varied by more than 10 seconds. Surely this must be intentional. Though Steinitz was still up a pawn he sensed that something was wrong. His advantage had evaporated. He liked black's position as much as his own. The most frustrating part was that he had made no blunders. In fact he could not point to a single inaccuracy in his own play. After three hours of play Steinitz was further from winning than ever. Clearly his opponent was no amateur.
 
 But what then could be the purpose for the strange terms of the game? Steinitz pondered the possibilities, and he could only come up with a single motive. Embarrassment. Someone was trying to embarrass Steinitz. Yet, who could possibly hope to play a game against the world champion and come out on top, especially when giving pawn and move odds? Who would bet $500 on a slim chance of embarrassing Steinitz?
 
@@ -124,9 +151,13 @@ Could it be Lasker? That upstart was entirely too full of himself. Their world c
 
 With fewer pieces on the board the game would now come down to who could calculate the best. Soon Golding returned with that stupid grin on his face. No doubt he was in on this sham game. Moves followed. If anything the pace accelerated, which was fine with Steinitz. After all Deos was losing time to think each move due to the delay when Golding was traveling. Rooks were traded along with another pair of pawns.  (25. .. Re2 26.Re1 Kf7 27.Qh4 Rxe1+ 28.Qxe1 Qf5 29.Bc1 b5 30.a4 bxa4 31.bxa4).
 
+![board on move 31]({{site.baseurl}}/images/Move31.jpg)
+
 Impossible. Steinitz's initiative was shrinking with each move. It didn't matter if he was up a pawn if that pawn gave no advantage. It might be time to play the game away from the chessboard. If a trap was laid for Steinitz, then perhaps he should set it off early. For the last several moves Steinitz had watched Golding's path as he arrived for his turn and as he retreated to relay Steinitz's move. Each time Golding appeared out of a nearby alleyway walking purposefully with his long strides. Each time Deos's inevitable blunder refused to appear.  Steinitz made up his mind that after the next move he would follow Golding.
 
-Golding returned and retreated his knight. Steinitz replied almost immediately with an innocent shuffle of is queen (31. .. Nf6 32.Qe2). He smiled, inclining his head in a nod to Golding as Golding  stood with his smug face and exited.  
+Golding returned and retreated his knight. Steinitz replied almost immediately with an innocent shuffle of is queen (31. .. Nf6 32.Qe2). He smiled, inclining his head in a nod to Golding as Golding stood with his smug face and exited.  
+
+![board on move 32]({{site.baseurl}}/images/Move32.jpg)
 
 Steinitz was neither stealthy nor inconspicuous, and he knew it well. He was still unsure where or who his adversary was, so it was important to him not to play his hand too quickly. He would follow Golding on this move to see where Golding went after the alley. Steinitz could follow again after the next turn to trace the next leg of the journey if needed. If he proceeded carefully by degree to follow Golding then perhaps he could find the location and identity of the mysterious Mr. Deos without revealing that he was on to him. Steinitz pictured the scene in his mind of confronting his adversary about his duplicity. Could it be that several chess players had collaborated together to play against him? That might explain the lack of blunders and overall quality of play. It was just the type of thing Zukertort would do.
 
@@ -140,9 +171,13 @@ Steinitz jumped at a knock on the door announced Golding's return. Steinitz coul
 
 Golding sensed Steinitz's scrutiny, and he lifted his eyes to meet Steinitz's gaze. Steinitz hastily looked away to look at black's move (32. .. Qb1). Another annoying pin. Perhaps a trade of queens could be cajoled? Steinitz made his move (33.Qb2) though he regretted it as soon as Golding stood up to leave. Steinitz couldn't afford to play while flustered.
 
+![board on move 33]({{site.baseurl}}/images/Move33.jpg)
+
 He breathed a sigh of relief at Golding's departure. He wasn't sure of the consequences if he had been caught, but somehow spying on an opponent seemed undignified for a world champion. What was happening with Golding in that alley? If a meeting with Deos had taken place, then it had been very short indeed. There was a mystery here that warranted investigation. Yet Steinitz hesitated to venture outside again. Perhaps in a few moves he might try again. For now he returned to the contract.
 
 The game proceeded, and more pieces were juggled. Deos succeeded in planting his knight on a key central square (33. .. Qd3 34.Bd2 Qe2 35.Qc1 Ne4 36.Be1). His refusal to err was grating. Steinitz was troubled with the idea of settling for a draw in a game with odds in his favor, but he had to admit that the game was not going well.
+
+![board on move 36]({{site.baseurl}}/images/Move36.jpg)
 
 Steinitz was tempted to return again to spy on Golding, but for now he turned his attention to the contract. Could he learn more about this mysterious Mr. Deos? Steinitz racked his brain trying to recall if he had ever encountered the name Gabriel O. Deos, but no recollection came to mind. As he stared at the signature his breath caught in his throat. The flowing, cursive, capital letters at the  beginning of each name stood out: G.O.D. The initials were written in large letters while the letters that followed seemed intentionally small as if to minimize their existence.
 
@@ -164,11 +199,39 @@ There was little time to process these questions before Golding returned.
 
 Black's queen was harrassing white's king. Black's king advanced. Steinitz could find no opportunity for counter-attack (36. .. Ke6 37.a5 Kf5 38.a6 Kg4). He felt as though he were inside a vice, relentless, unforgiving pressure closing in on all sides. Was his play weaker because of his confusion at the game's circumstances, or was he just being outplayed?
 
+![board after move 38]({{site.baseurl}}/images/Move38.jpg)
+
 He wanted to scream in frustration. He pulled at his beard in dissatisfaction. There was no denying the deficit of his position. Unless Golding, or rather, Deos (God?) made a blunder Steinitz would lose this game. Could he bring himself to resign? Steinitz looked at his move list and realized to his horror that the game had not yet reached move 50. Curse that ridiculous contract. Why had he agreed to such a game? Could Steinitz hope for God to make a blunder? Would it be impious to pray to God asking him to make a mistake?
 
-Steinitz returned his extra pawn and tried a flanking maneuver with his bishop (39.c4 dxc4 40.Ba5). Yet black casually chased his queen into a corner and advanced a pawn (40. .. Qf2+ 41.Kh2 c3). Finally Steinitz could go on the attack. He checked black's king with his queen and then his bishop (42.Qd1+ Kxf4 43.Bc7+ Kg5).  Yet black ignored Steinitz's threats and advanced his pawn to the second rank, one step away from promoting to another queen (44.d5 c2). Steinitz needed to gain only a single tempo to retake control yet black was unwilling to fall for his traps (45.Qa1 Kg6 46.Qc1 Kf5 47. Bb8 Qd2). Rather than capitulate by trading off queens, Steinitz went on the attack, though he saw that he would soon be facing two queens (48.Qf1+ Kg5 49.Qf7). If black promoted his pawn to a second queen too early then Steinitz saw that he would obtain a perpetual check. No luck (Nf6 50.Qxg7+ Kf5). 
+Steinitz returned his extra pawn and tried a flanking maneuver with his bishop (39.c4 dxc4 40.Ba5). 
 
-Steinitz could not believe it. He had been defeated. He played on a few moves to make sure that he didn't resign at the first available opportunity. He hoped against hope that his fortunes might change, but he knew no blunder would be forthcoming. (51.Be5 Kxe5 52.Qc7+ Kf5 53.Qc8+ Kg5 54.Qc7 c1=Q 55.Qg7+ Kf5 56.Qg3 Ng4+).  Steinitz had been unable to make himself meet Golding's eyes for the last several moves, but he forced himself to look at Golding as he offered his silent resignation. He expected to see smugness in Golding's face, but his smile was a genuine now as it had been upon their introduction over six hours earlier. 
+![board on move 40]({{site.baseurl}}/images/Move40.jpg)
+
+Yet black casually chased his queen into a corner and advanced a pawn (40. .. Qf2+ 41.Kh2 c3). 
+
+![board after move 41]({{site.baseurl}}/images/Move41.jpg)
+
+Finally Steinitz could go on the attack. He checked black's king with his queen and then his bishop (42.Qd1+ Kxf4 43.Bc7+ Kg5).  
+
+![board after move 43]({{site.baseurl}}/images/Move43.jpg)
+
+Yet black ignored Steinitz's threats and advanced his pawn to the second rank, one step away from promoting to another queen (44.d5 c2). Steinitz needed to gain only a single tempo to retake control yet black was unwilling to fall for his traps (45.Qa1 Kg6 46.Qc1 Kf5 47. Bb8 Qd2). 
+
+![board after move 47]({{site.baseurl}}/images/Move47.jpg)
+
+Rather than capitulate by trading off queens, Steinitz went on the attack, though he saw that he would soon be facing two queens (48.Qf1+ Kg5 49.Qf7).
+
+![board on move 49]({{site.baseurl}}/images/Move49.jpg)
+
+If black promoted his pawn to a second queen too early then Steinitz saw that he would obtain a perpetual check. No luck (Nf6 50.Qxg7+ Kf5). 
+
+![board after move 50]({{site.baseurl}}/images/Move50.jpg)
+
+Steinitz could not believe it. He had been defeated. He played on a few moves to make sure that he didn't resign at the first available opportunity. He hoped against hope that his fortunes might change, but he knew no blunder would be forthcoming. (51.Be5 Kxe5 52.Qc7+ Kf5 53.Qc8+ Kg5 54.Qc7 c1=Q 55.Qg7+ Kf5 56.Qg3 Ng4+).
+
+![board after move 56]({{site.baseurl}}/images/Move56.jpg)
+
+Steinitz had been unable to make himself meet Golding's eyes for the last several moves, but he forced himself to look at Golding as he offered his silent resignation. He expected to see smugness in Golding's face, but his smile was a genuine now as it had been upon their introduction over six hours earlier. 
 
 "Thank you for the honor of this game," said Golding with no hint of gloating or malice. He stood to leave, an action that surprised Steinitz. Surely there was something left to be said. Some explanation. A threat or a jibe. Who had Steinitz been playing this whole game? He needed answers. 
 
@@ -184,4 +247,4 @@ Postscript: Four months later Steinitz lost his World Championship match with La
 
 Coda: Congratuations. Your mission was a success. The timeline remains intact, and you appear to have gone undetected. We have verified that electronic communication can be sent over an extended interval and shared in both directions. Please expect immediate extraction upon completion of the game.
 
-The game can be viewed at https://en.lichess.org/0pTDmvRW.
+View [the game and computer evaluations](https://en.lichess.org/0pTDmvRW).
