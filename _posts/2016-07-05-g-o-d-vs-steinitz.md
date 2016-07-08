@@ -13,6 +13,7 @@ tags: ''
 imagefeature: ''
 ---
 # G.O.D. vs Steinitz
+# G.O.D. vs Steinitz
 William Steinitz was jubilant. Fortune had smiled upon him this day bringing a much needed influx of cash his way. It was shameful plight for the chess champion of the world to be living in such poverty, but now Steinitz could breath more easily with a full $500 newly deposited into his bank.
 
 It seemed only fair that something would go well for him. The past several years had been difficult financially for him.  As the thirteenth son of a hardware retailer Steinitz had had to work hard to make his way. Anti-semitic persecution had driven him from his home in England across the Atlantic to New York City. His dignity and reputation had taken a hit in the expulsion, but his chess prowess had proved as formidable as ever. He was proud of his new American citizenship and glad to have distanced himself from critics abroad.
@@ -149,15 +150,15 @@ The list of possible perpetrators was not long. Zukertort was the obvious suspec
 
 Could it be Lasker? That upstart was entirely too full of himself. Their world championship match was only 4 months away. Steinitz had agreed to lower the prize money for their upcoming match because Lasker had been unable to secure the funds. If he had $500 to spare, then it certainly shouldn't be used on a frivolous attempt to embarass Steinitz. Perhaps the idea was to undermine his confidence before their match. Regardless, there was only one way to parry the threat of this attack; it was time to crush Deos.
 
-With fewer pieces on the board the game would now come down to who could calculate the best. Soon Golding returned with that stupid grin on his face. No doubt he was in on this sham game. Moves followed. If anything the pace accelerated, which was fine with Steinitz. After all Deos was losing time to think each move due to the delay when Golding was traveling. Rooks were traded along with another pair of pawns.  (25. .. Re2 26.Re1 Kf7 27.Qh4 Rxe1+ 28.Qxe1 Qf5 29.Bc1 b5 30.a4 bxa4 31.bxa4).
+With fewer pieces on the board the game would now come down to who could calculate the best. Soon Golding returned with that stupid grin on his face. No doubt he was in on this sham game. Moves followed. If anything the pace accelerated, which was fine with Steinitz. After all Deos was losing time to think each move due to the delay when Golding was traveling. 
 
-![board on move 31]({{site.baseurl}}/images/Move31.jpg)
+Steinitz managed to trade off the remaining rooks (25. .. Re2 26.Re1 Kf7 27.Qh4 Rxe1+ 28.Qxe1). Yet his frustration grew.  Steinitz's initiative was shrinking with each move. It didn't matter if he was up a pawn if that pawn gave no advantage. It might be time to play the game away from the chessboard. If a trap was laid for Steinitz, then perhaps he should set it off early. For the last several moves Steinitz had watched Golding's path as he arrived for his turn and as he retreated to relay Steinitz's move. Each time Golding appeared out of a nearby alleyway walking purposefully with his long strides. Each time Deos's inevitable blunder refused to appear.  Steinitz made up his mind that after the next move he would follow Golding.
 
-Impossible. Steinitz's initiative was shrinking with each move. It didn't matter if he was up a pawn if that pawn gave no advantage. It might be time to play the game away from the chessboard. If a trap was laid for Steinitz, then perhaps he should set it off early. For the last several moves Steinitz had watched Golding's path as he arrived for his turn and as he retreated to relay Steinitz's move. Each time Golding appeared out of a nearby alleyway walking purposefully with his long strides. Each time Deos's inevitable blunder refused to appear.  Steinitz made up his mind that after the next move he would follow Golding.
+Golding returned and moved his queen to avoid an exchange of the queens. Steinitz replied almost immediately with an innocent shuffle of his bishop (28. .. Qf5 29.Bc1). He smiled, inclining his head in a nod to Golding as Golding stood with his smug face and exited. 
 
-Golding returned and retreated his knight. Steinitz replied almost immediately with an innocent shuffle of is queen (31. .. Nf6 32.Qe2). He smiled, inclining his head in a nod to Golding as Golding stood with his smug face and exited.  
-
-![board on move 32]({{site.baseurl}}/images/Move32.jpg)
+---
+picture
+---
 
 Steinitz was neither stealthy nor inconspicuous, and he knew it well. He was still unsure where or who his adversary was, so it was important to him not to play his hand too quickly. He would follow Golding on this move to see where Golding went after the alley. Steinitz could follow again after the next turn to trace the next leg of the journey if needed. If he proceeded carefully by degree to follow Golding then perhaps he could find the location and identity of the mysterious Mr. Deos without revealing that he was on to him. Steinitz pictured the scene in his mind of confronting his adversary about his duplicity. Could it be that several chess players had collaborated together to play against him? That might explain the lack of blunders and overall quality of play. It was just the type of thing Zukertort would do.
 
@@ -167,13 +168,53 @@ Steinitz's heart raced in his chest. What was Golding doing? Shouldn't he be tra
 
 Confusion washed over Steinitz. What was going on? Unsure how much time had passed Steinitz hustled back to his apartment, trying to make no sound with each step. For some reason he was apprehensive of getting caught. Steinitz tried to catch his breath as his mind raced. He was getting too old for this type of stress. It made no sense. The odd contract, the faceless opponent. Steinitz could not wrap his head around it. Most puzzling of all was that Steinitz was not winning the game. 
 
-Steinitz jumped at a knock on the door announced Golding's return. Steinitz could feel his heart beating in his ears. He tried to collect his composure as he let Mr. Golding in. As Golding sat at the table Steinitz ignored the board, instead studying Golding's face. Steinitz had never seen such white teeth in his life. They were perfectly straight and aligned. 
+Steinitz jumped at a knock on the door announced Golding's return. Steinitz could feel his heart beating in his ears. He tried to collect his composure as he let Mr. Golding in. As Golding sat at the table Steinitz ignored the board, instead studying Golding's face. Steinitz had never seen such white teeth in his life. They were perfectly straight and aligned.
 
-Golding sensed Steinitz's scrutiny, and he lifted his eyes to meet Steinitz's gaze. Steinitz hastily looked away, turning his focus to black's last move (32. .. Qb1). Another annoying pin. Perhaps a trade of queens could be cajoled? Steinitz made his move (33.Qb2) though he regretted it as soon as Golding stood up to leave. Steinitz couldn't afford to play while flustered.
+Golding sensed Steinitz's scrutiny, and he lifted his eyes to meet Steinitz's gaze. Steinitz hastily looked away, turning his focus to black's last move (29. .. b5). Intriguing--- a pawn advance. Could Steinitz take advantage of his pawn majority on the queen side? Steinitz offered a trade of pawns (30.a4).
+
+He breathed a sigh of relief at Golding's departure. He wasn't sure of the consequences if he had been caught, but somehow spying on an opponent seemed undignified for a world champion. What was happening with Golding in that alley? If a meeting with Deos had taken place, then it had been very short indeed. There was a mystery here that warranted investigation. Yet Steinitz hesitated to venture outside again. Perhaps in a few moves he might try again. 
+
+The game continued (30. .. bxa4 31.bxa4).
+
+![board on move 31]({{site.baseurl}}/images/Move31.jpg)
+
+Upon returning Golding broke his pattern of silent observation for the first time. After making black's move (31. .. Nf6) he politely addressed Steinitz. "Mr. Steinitz. Might I use your bathroom while you ponder your move?" 
+
+"Certainly," replied Steinitz pointing to the room off of his parlor. 
+
+Golding excused himself. Steinitz studied the board, digging his knuckles into the wood of his table. He glanced at the vacant chair, and his eyes grew wide as he saw that Golding had left his briefcase sitting unattended. Could there be some clues to this mystery hidden inside the case? Steinitz didn't now how long he had until Golding returned, so he made the decision to act. He rounded the table and carefully undid the clasps. Steinitz opened the lid a couple of inches and peered inside. All that he found was small rectangular block with a smooth black surface. Puzzled, Steinitz picked it up to exam it. 
+
+Steinitz was startled to hear the toilet flush. Alarmed, he tossed the block back into the briefcase rather harder than he had intended and closed the briefcase. He quickly locked the clasps and moved to dash back to his seat before Golding could see him. Yet before he had returned to his seat he heard a low voice speaking.
+
+_... remains intact, and you appear to have gone undetected._
+
+Who was speaking? The voice seemed to be so close. Steinitz searched the room with his eyes for the source of the voice, but there was nobody in sight. He could hear Golding approaching from behind.
+
+_We have verified that electronic communication can be sent over an extended interval and shared in both directions._
+
+Golding ignored the voice and went straight for his briefcase which he opened. Did he know what Steinitz had just done? Steinitz still couldn't identify the source of the voice, though it might have grown louder. His phonograph sat unmoving upon a side table. 
+
+_Please signal for immediate extraction upon completion of the game. Congratulations._
+
+Steinitz trotted to his telephone, but before he arrived the voice went silent. Steinitz turned back to Golding who looked up after closing his briefcase? Did his smile look guilty this time? When Golding said nothing Steinitz broke the silence. "Did you hear that voice just now?"
+
+"Indeed," said Golding, nodding. "I assumed that you were engaged in a telephone call."
+
+"Not at all," snapped Steinitz. "Surely you saw that I wasn't near my telephone." Something fishy was surely afoot. 
+
+"I'm sorry," replied Golding contritely. "I ignored your conversation in an attempt to give you some privacy. I thought I had heard the telephone ring."
+
+Steinitz paused. Was it possible that the telephone had rung? Could he have missed such a sound? He had been engaging in some subterfuge at the time and could have been distracted. Perhaps if he pressed the matter Golding would inquire about why his briefcase had been moved while he was away from the table.
+
+Golding's eyes had returned to the board where he noted that Steinitz had not yet made his move. He looked up and met Steinitz's gaze expectantly as though inviting him back to the board. Steinitz sat down heavily upon his chair.
+
+Golding returned and retreated his knight. Steinitz replied almost immediately with an innocent shuffle of is queen (32.Qe2).   
+
+![board on move 32]({{site.baseurl}}/images/Move32.jpg)
+
+Golding's queen continued to harass Steinitz (32. .. Qb1). Perhaps a trade of queens could be cajoled? Steinitz made his move (33.Qb2) though he regretted it as soon as Golding stood up to leave. Steinitz couldn't afford to play while flustered.
 
 ![board on move 33]({{site.baseurl}}/images/Move33.jpg)
-
-He breathed a sigh of relief at Golding's departure. He wasn't sure of the consequences if he had been caught, but somehow spying on an opponent seemed undignified for a world champion. What was happening with Golding in that alley? If a meeting with Deos had taken place, then it had been very short indeed. There was a mystery here that warranted investigation. Yet Steinitz hesitated to venture outside again. Perhaps in a few moves he might try again. For now he returned to the contract.
 
 The game proceeded, and more pieces were juggled. Deos succeeded in planting his knight on a key central square (33. .. Qd3 34.Bd2 Qe2 35.Qc1 Ne4 36.Be1). His refusal to err was grating. Steinitz was troubled with the idea of settling for a draw in a game with odds in his favor, but he had to admit that the game was not going well.
 
@@ -250,34 +291,6 @@ Coda: Congratuations. Your mission was a success. The timeline remains intact, a
 
 ---------------------------
 
-For the first time Golding broke his pattern of silent observation. After making black's move he politely addressed Steinitz. "Mr. Steinitz. Might I use your bathroom while you ponder your move?" 
 
-"Certainly," replied Steinitz pointing to the room off of his parlor. 
-
-Golding excused himself. Steinitz studied the board, digging his knuckles into the wood of his table. He glanced at the vacant chair, and his eyes grew wide as he saw that Golding had left his briefcase sitting unattended. Could there be some clues to this mystery hidden inside the case? Steinitz didn't now how long he had until Golding returned, so he made the decision to act. He rounded the table and carefully undid the clasps. Steinitz opened the lid a couple of inches and peered inside. All that he found was small rectangular block with a smooth black surface. Puzzled, Steinitz picked it up to exam it. 
-
-Steinitz was startled to hear the toilet flush. Alarmed, he tossed the block back into the briefcase rather harder than he had intended and closed the briefcase. He quickly locked the clasps and moved to dash back to his seat before Golding could see him. Yet before he had returned to his seat he heard a low voice speaking.
-
-_... remains intact, and you appear to have gone undetected._
-
-Who was speaking? The voice seemed to be so close. Steinitz searched the room with his eyes for the source of the voice, but there was nobody in sight. He could hear Golding approaching from behind.
-
-_We have verified that electronic communication can be sent over an extended interval and shared in both directions._
-
-Golding ignored the voice and went straight for his briefcase which he opened. Did he know what Steinitz had just done? Steinitz still couldn't identify the source of the voice, though it might have grown louder. His phonograph sat unmoving upon a side table. 
-
-_Please signal for immediate extraction upon completion of the game. Congratulations._
-
-Steinitz trotted to his telephone, but before he arrived the voice went silent. Steinitz turned back to Golding who looked up after closing his briefcase? Did his smile look guilty this time? When Golding said nothing Steinitz broke the silence. "Did you hear that voice just now?"
-
-"Indeed," said Golding, nodding. "I assumed that you were engaged in a telephone call."
-
-"Not at all," snapped Steinitz. "Surely you saw that I wasn't near my telephone." Something fishy was surely afoot. 
-
-"I'm sorry," replied Golding contritely. "I ignored your conversation in an attempt to give you some privacy. I thought I had heard the telephone ring."
-
-Steinitz paused. Was it possible that the telephone had rung? Could he have missed such a sound? He had been engaging in some subterfuge at the time and could have been distracted. Perhaps if he pressed the matter Golding would inquire about why his briefcase had been moved while he was away from the table.
-
-Golding's eyes had returned to the board where he noted that Steinitz had not yet made his move. He looked up and met Steinitz's gaze expectantly as though inviting him back to the board. Steinitz sat down heavily upon his chair.
 
 View [the game and computer evaluations](https://en.lichess.org/0pTDmvRW).
