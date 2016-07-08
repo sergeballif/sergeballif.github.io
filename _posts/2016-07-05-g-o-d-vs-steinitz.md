@@ -250,7 +250,7 @@ Coda: Congratuations. Your mission was a success. The timeline remains intact, a
 
 ---------------------------
 
-Golding finally broke his pattern of silence at this point. After making black's move he politely addressed Steinitz. "Mr. Steinitz. Might I use your bathroom while you ponder your move?" 
+For the first time Golding broke his pattern of silent observation. After making black's move he politely addressed Steinitz. "Mr. Steinitz. Might I use your bathroom while you ponder your move?" 
 
 "Certainly," replied Steinitz pointing to the room off of his parlor. 
 
