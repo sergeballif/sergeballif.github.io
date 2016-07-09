@@ -118,7 +118,7 @@ Deos replied by moving his knight to the center in an elegant move that forked b
 
 Yet the expected capture did not occur on the next move. Instead Deos abandoned his double attack on Steinitz's knight and retreated his queen to the diagonal of Steinitz's king (13. .. Qc7). It was now Steinitz's turn to deal with a pin as his rook could not move. Yet a simple pawn move removed the annoying pin and protected the rook from the attacking queen (14.f4). Black lacked both bishops and a pawn, while Steinitz was missing only a knight. 
 
-Next Deos captured the white bishop as Steinitz had incorrectly predicted on the previous move. (14. .. Nxb5). Steinitz saw black's clever tactic, though again there was little to do. Without the queen's support Steinitz recaptured black's knight to go up a bishop and a pawn (15.Nxb5). However Deos brought his queen in with a double threat (15. .. Qc4). 
+Next Deos captured the white bishop as Steinitz had incorrectly predicted on the previous move. (14. .. Nxb5). Steinitz saw black's clever tactic, though again there was little to do. Steinitz recaptured black's newly underprotected knight to go up a bishop and a pawn (15.Nxb5). However Deos brought his queen in with a double threat (15. .. Qc4). 
 
 ![board after move 15]({{site.baseurl}}/images/Move15.jpg)
 
