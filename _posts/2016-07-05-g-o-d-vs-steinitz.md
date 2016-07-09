@@ -12,7 +12,7 @@ categories: ''
 tags: ''
 imagefeature: ''
 ---
-# G.O.D. vs Steinitz
+
 # G.O.D. vs Steinitz
 William Steinitz was jubilant. Fortune had smiled upon him this day bringing a much needed influx of cash his way. It was shameful plight for the chess champion of the world to be living in such poverty, but now Steinitz could breath more easily with a full $500 newly deposited into his bank.
 
@@ -182,7 +182,7 @@ Upon returning Golding broke his pattern of silent observation for the first tim
 
 "Certainly," replied Steinitz pointing to the room off of his parlor. 
 
-Golding excused himself. Steinitz studied the board, digging his knuckles into the wood of his table. He glanced at the vacant chair, and his eyes grew wide as he saw that Golding had left his briefcase sitting unattended. Could there be some clues to this mystery hidden inside the case? Steinitz didn't now how long he had until Golding returned, so he made the decision to act. He rounded the table and carefully undid the clasps. Steinitz opened the lid a couple of inches and peered inside. All that he found was small rectangular block with a smooth black surface. Puzzled, Steinitz picked it up to exam it. 
+Golding excused himself. Steinitz studied the board, digging his knuckles into the wood of his table. He glanced at the vacant chair, and his eyes grew wide as he saw that Golding had left his briefcase sitting unattended. Could there be some clues to this mystery hidden inside the case? Steinitz didn't know how long he had until Golding returned, so he made the decision to act. He rounded the table and carefully undid the clasps. Steinitz opened the lid a couple of inches and peered inside. All that he found was small rectangular block with a smooth black surface. Puzzled, Steinitz picked it up to exam it. 
 
 Steinitz was startled to hear the toilet flush. Alarmed, he tossed the block back into the briefcase rather harder than he had intended and closed the briefcase. He quickly locked the clasps and moved to dash back to his seat before Golding could see him. Yet before he had returned to his seat he heard a low voice speaking.
 
