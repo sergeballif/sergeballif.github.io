@@ -6,11 +6,6 @@ featured: false
 comments: false
 title: G.O.D. vs Steinitz
 description: A short chess story dedicated to the TCEC (Top Chess Engine Championship)
-headline: ''
-modified: ''
-categories: ''
-tags: ''
-imagefeature: ''
 ---
 
 # G.O.D. vs Steinitz
@@ -156,9 +151,7 @@ Steinitz managed to trade off the remaining rooks (25. .. Re2 26.Re1 Kf7 27.Qh4 
 
 Golding returned and moved his queen to avoid an exchange of the queens. Steinitz replied almost immediately with an innocent shuffle of his bishop (28. .. Qf5 29.Bc1). He smiled, inclining his head in a nod to Golding as Golding stood with his smug face and exited. 
 
----
-picture
----
+![board on move 29]({{site.baseurl}}/images/Move29.jpg)
 
 Steinitz was neither stealthy nor inconspicuous, and he knew it well. He was still unsure where or who his adversary was, so it was important to him not to play his hand too quickly. He would follow Golding on this move to see where Golding went after the alley. Steinitz could follow again after the next turn to trace the next leg of the journey if needed. If he proceeded carefully by degree to follow Golding then perhaps he could find the location and identity of the mysterious Mr. Deos without revealing that he was on to him. Steinitz pictured the scene in his mind of confronting his adversary about his duplicity. Could it be that several chess players had collaborated together to play against him? That might explain the lack of blunders and overall quality of play. It was just the type of thing Zukertort would do.
 
@@ -166,7 +159,7 @@ Steinitz peeked into the alley ready to rush around the corner. A dark shape blo
 
 Steinitz's heart raced in his chest. What was Golding doing? Shouldn't he be traveling to meet Deos to convey the next move? Is this what Golding did for every move? Would Deos come to meet Golding? Perhaps there was no Mr. Deos and Golding was Steinitz's real opponent.There was certainly no chessboard in sight. Steinitz sneaked another glance. Golding rested idly, his arms folded in a relaxed manner. He seemed to be waiting for something. 
 
-Confusion washed over Steinitz. What was going on? Unsure how much time had passed Steinitz hustled back to his apartment, trying to make no sound with each step. For some reason he was apprehensive of getting caught. Steinitz tried to catch his breath as his mind raced. He was getting too old for this type of stress. It made no sense. The odd contract, the faceless opponent. Steinitz could not wrap his head around it. Most puzzling of all was that Steinitz was not winning the game. 
+Confusion washed over Steinitz. What was going on? Unsure how much time had passed, Steinitz hustled back to his apartment, trying to make no sound with each step. For some reason he was apprehensive of getting caught. Steinitz tried to catch his breath as his mind raced. He was getting too old for this type of stress. It made no sense. The odd contract, the faceless opponent. Steinitz could not wrap his head around it. Most puzzling of all was that Steinitz was not winning the game. 
 
 Steinitz jumped at a knock on the door announced Golding's return. Steinitz could feel his heart beating in his ears. He tried to collect his composure as he let Mr. Golding in. As Golding sat at the table Steinitz ignored the board, instead studying Golding's face. Steinitz had never seen such white teeth in his life. They were perfectly straight and aligned.
 
@@ -234,7 +227,7 @@ Steinitz's heart dropped, and he stifled a groan. He'd been discovered. He moved
 
 Steinitz stopped. Whom was Golding addressing? He was alone in the alley. No voice responded, and Golding said no more. Had Steinitz been spotted or not? Steinitz slowly tucked and hurried back to his apartment.
 
-Now Steinitz was more confused than before. What or who was stockfish? What was a centi-pawn? Had he heard incorectly?
+Now Steinitz was more confused than before. What or who was stockfish? What was a centi-pawn? Had he heard incorrectly?
 
 There was little time to process these questions before Golding returned.
 
