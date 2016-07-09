@@ -150,15 +150,15 @@ The list of possible perpetrators was not long. Zukertort was the obvious suspec
 
 Could it be Lasker? That upstart was entirely too full of himself. Their world championship match was only 4 months away. Steinitz had agreed to lower the prize money for their upcoming match because Lasker had been unable to secure the funds. If he had $600 to spare, then it certainly shouldn't be used on a frivolous attempt to embarass Steinitz. Perhaps the idea was to undermine his confidence before their match. Regardless, there was only one way to parry the threat of this attack; it was time to crush Deos.
 
-With fewer pieces on the board the game would now come down to who could calculate the best. Soon Golding returned with that stupid grin on his face. No doubt he was in on this sham game. Moves followed. If anything the pace accelerated, which was fine with Steinitz. After all Deos was losing time to think each move due to the delay when Golding was traveling. 
+With fewer pieces on the board the game would now come down to who could calculate the best. Soon Golding returned with that stupid grin on his face. No doubt he was in on this sham game. Moves followed. If anything the pace accelerated, which was fine with Steinitz. After all, Deos was losing time to think each move due to the delay when Golding was traveling. 
 
-Steinitz managed to trade off the remaining rooks (25. .. Re2 26.Re1 Kf7 27.Qh4 Rxe1+ 28.Qxe1). Yet his frustration grew.  Steinitz's initiative was shrinking with each move. It didn't matter if he was up a pawn if that pawn gave no advantage. It might be time to play the game away from the chessboard. If a trap was laid for Steinitz, then perhaps he should set it off early. For the last several moves Steinitz had watched Golding's path as he arrived for his turn and as he retreated to relay Steinitz's move. Each time Golding appeared out of a nearby alleyway walking purposefully with his long strides. Each time Deos's inevitable blunder refused to appear.  Steinitz made up his mind that after the next move he would follow Golding.
+Steinitz managed to trade off the remaining rooks (25. .. Re2 26.Re1 Kf7 27.Qh4 Rxe1+ 28.Qxe1). Yet his frustration grew.  Steinitz's initiative was shrinking with each move. It didn't matter if he was up a pawn if that pawn gave no advantage. It might be time to play the game away from the chessboard. If a trap was laid for Steinitz, then perhaps he should set it off early. For the last several moves Steinitz had watched Golding's path as he arrived for his turn and as he retreated to relay Steinitz's move. Each time Golding appeared out of a nearby alleyway walking purposefully with his long strides. Each time Deos's inevitable blunder refused to appear.  Steinitz made up his mind that after the next move he would follow Golding to learn more about the enigmatic Mr. Deos.
 
-Golding returned and moved his queen to avoid an exchange of the queens. Steinitz replied almost immediately with an innocent shuffle of his bishop (28. .. Qf5 29.Bc1). He smiled, inclining his head in a nod to Golding as Golding stood with his smug face and exited. 
+Golding returned and moved his queen to avoid an exchange of the queens. Steinitz replied almost immediately with an innocent shuffle of his bishop (28. .. Qf5 29.Bc1). He smiled, inclining his head in a nod to Golding as Golding stood with his smug smile and exited. 
 
 ![board on move 29]({{site.baseurl}}/images/Move29.jpg)
 
-Steinitz was neither stealthy nor inconspicuous, and he knew it well. He was still unsure where or who his adversary was, so it was important to him not to play his hand too quickly. He would follow Golding on this move to see where Golding went after the alley. Steinitz could follow again after the next turn to trace the next leg of the journey if needed. If he proceeded carefully by degree to follow Golding then perhaps he could find the location and identity of the mysterious Mr. Deos without revealing that he was on to him. Steinitz pictured the scene in his mind of confronting his adversary about his duplicity. Could it be that several chess players had collaborated together to play against him? That might explain the lack of blunders and overall quality of play. It was just the type of thing Zukertort would do.
+Steinitz was neither stealthy nor inconspicuous, and he knew it well. He was still unsure where or who his adversary was, so it was important to him not to play his hand too quickly. He would follow Golding on this move to see where Golding went after the alley. Steinitz could follow again after the next turn to trace the next leg of the journey if needed. If he proceeded carefully by degree to follow Golding then perhaps he could find the location and identity of the mysterious Mr. Deos without revealing that he was on to him. Steinitz pictured the scene in his mind of confronting his adversary about his duplicity. Could it be that several chess players had collaborated together to play against him? That might explain the strange correspondence format and account for the lack of blunders and overall quality of play. It was just the type of thing Zukertort would do.
 
 Steinitz peeked into the alley ready to rush around the corner. A dark shape blocked his view, and he stopped his momentum just in time as he realized it was a man. Steinitz quickly withdrew his head as he recognized the briefcase at the man's feet. It was Golding standing with his back to the wall. 
 
@@ -180,9 +180,9 @@ Upon returning Golding broke his pattern of silent observation for the first tim
 
 "Certainly," replied Steinitz pointing to the room off of his parlor. 
 
-Golding excused himself. Steinitz studied the board, digging his knuckles into the wood of his table. He glanced at the vacant chair, and his eyes grew wide as he saw that Golding had left his briefcase sitting unattended. Could there be some clues to this mystery hidden inside the case? Steinitz didn't know how long he had until Golding returned, so he made the decision to act. He rounded the table and carefully undid the clasps. Steinitz opened the lid a couple of inches and peered inside. All that he found was small rectangular block with a smooth black surface. Puzzled, Steinitz picked it up to exam it. 
+Golding excused himself. Steinitz studied the board, digging his knuckles into the wood of his table. He glanced at the vacant chair, and his eyes grew wide as he saw that Golding had left his briefcase sitting unattended. Could there be some clues to this mystery hidden inside the case? Steinitz didn't know how long he had until Golding returned, so he made the decision to act. He rounded the table and carefully undid the clasps. Steinitz opened the lid a couple of inches and peered inside. All that he found was small rectangular block with a smooth black surface on the top and regular etchings along the side. Puzzled, Steinitz picked it up to examine it. 
 
-Steinitz was startled to hear the toilet flush. Alarmed, he tossed the block back into the briefcase rather harder than he had intended and closed the briefcase. He quickly locked the clasps and moved to dash back to his seat before Golding could see him. Yet before he had returned to his seat he heard a low voice speaking.
+The sound of a flushing toilet startled Steinitz. Alarmed, he tossed the block back into the briefcase rather harder than he had intended and closed the briefcase. He quickly locked the clasps and moved to dash back to his seat before Golding could see him. Yet before he had returned to his seat he heard a low voice speaking.
 
 _... remains intact, and you appear to have gone undetected._
 
@@ -202,7 +202,7 @@ Steinitz trotted to his telephone, but before he arrived the voice went silent. 
 
 "I'm sorry," replied Golding contritely. "I ignored your conversation in an attempt to give you some privacy. I thought I had heard the telephone ring."
 
-Steinitz paused. Was it possible that the telephone had rung? Could he have missed such a sound? He had been engaging in some subterfuge at the time and could have been distracted. Perhaps if he pressed the matter Golding would inquire about why his briefcase had been moved while he was away from the table.
+Steinitz paused. Was it possible that the telephone had rung? Could he have missed such a sound?  Steinitz had been engaging in some subterfuge at the time and could possibly have been distracted. Yet a telephone did not speak by itself. Steinitz was hesitant to question further. Golding couldn't have been the source of the sound as he wasn't in the room when it began. Perhaps if he pressed the matter Golding would inquire about why his briefcase had been moved while he was away from the table.
 
 Golding's eyes had returned to the board where he noted that Steinitz had not yet made his move. He looked up and met Steinitz's gaze expectantly as though inviting him back to the board. Steinitz sat down heavily upon his chair.
 
@@ -222,7 +222,9 @@ Steinitz was tempted to return again to spy on Golding, but for now he turned hi
 
 Only then did Steinitz recall a boast he had made over a decade earlier after his defeat of Blackburne 7-0. "God himself couldn't give me pawn and move odds." The comment was not made publicly, but under his breath in a self-congratulatory manner. Just a pat on the back. There was no way that anyone could know of it.
 
-Could this be part of the prank? Could Deos be trying to intimidate Steinitz not only with his god-like play, but also by pretending to be God? Wait! "Deos" was the Spanish word for God. How had Steinitz missed that detail?
+Could this be part of the prank? Could Deos be trying to intimidate Steinitz not only with his god-like play, but also by pretending to be God? Wait! Mein Gott! "Deos" was the Spanish word for God. How had Steinitz missed that detail?
+
+Steinitz found himself breathing heavily when Golding returned. Only years of training made it possible for him to keep emotion out of his face and concentrate on the chessboard to make his move (36. .. Ke6 37.a5). He didn't look up as Golding stood and exited his apartment. Steinitz was flustered, but he wasn't beat yet. He took a deep breath, and resolve filled his chest as he stood. It was time to follow again.
 
 Steinitz crept to the alleyway entrance with more trepidation than on his previous pursuit attempt. He couldn't be sure that Golding would be in the same spot, but somehow he knew what he would find. Sure enough he could see Golding around the corner. He was fiddling with something inside his briefcase. Steinitz pulled back, not wanting to be discovered.
 
@@ -236,7 +238,7 @@ Now Steinitz was more confused than before. What or who was stockfish? What was 
 
 There was little time to process these questions before Golding returned.
 
-Black's queen was harrassing white's king. Black's king advanced. Steinitz could find no opportunity for counter-attack (36. .. Ke6 37.a5 Kf5 38.a6 Kg4). He felt as though he were inside a vice, relentless, unforgiving pressure closing in on all sides. Was his play weaker because of his confusion at the game's circumstances, or was he just being outplayed?
+Black's queen was harrassing white's king. Black's king advanced. Steinitz could find no opportunity for counter-attack (Kf5 38.a6 Kg4). He felt as though he were inside a vice, relentless, unforgiving pressure closing in on all sides. Was his play weaker because of his confusion at the game's circumstances, or was he just being outplayed?
 
 ![board after move 38]({{site.baseurl}}/images/Move38.jpg)
 
