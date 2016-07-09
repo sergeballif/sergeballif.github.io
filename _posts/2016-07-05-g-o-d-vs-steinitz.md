@@ -12,8 +12,6 @@ categories:
   - fun
   - writing
 tags: 'chess, sci-fi, tcec'
-modified: ''
-imagefeature: ''
 ---
 
 William Steinitz was jubilant. Fortune had smiled upon him this day bringing a much needed influx of cash his way. It was shameful plight for the chess champion of the world to be living in such poverty, but now Steinitz could breath more easily with a full $500 newly deposited into his bank.
@@ -28,7 +26,7 @@ Golding had then extracted a contract from his fancy briefcase. The single page 
 
 What kind of a hoax was this? Before Steinitz could raise any objections Golding flipped the contract to the back of the page and pointed out another sweetener, an additional $100 to Steinitz if he proved victorious. Steinitz had bristled momentarily at the insinuation that he could lose such a contest with an amateur, but before any indignant words had reached his mouth he spotted the key phrase "_played under conditions of pawn and move odds_". Oh, very well then. A gift of a pawn might serve to balance things out if his challenger was a suitably strong player, though few players were at such a level to make Steinitz break a sweat, even at the gift of a full piece, let alone a pawn. 
 
-Of course none of this had mattered as the whole thing was a hoax. The deal was too good to be true. Nobody could toss money around in this fashion. Steinitz had recently finished months of fundraising himself to satisfy the winning purse of $2000 for his upcoming match with Lasker. Money did not get tossed around like this. 
+Of course none of this had mattered as the whole thing was a hoax. The deal was simply too good to be true. Nobody could toss money around in this fashion. Steinitz had recently finished months of fundraising himself to satisfy the winning purse of $2000 for his upcoming match with Lasker. Money did not get tossed around like this. 
 
 As Steinitz began to raise his newest objection, Golding's smile increased to the point that his teeth were showing. He reached into his briefcase and pulled out  a wad of bills held together by a rubber band and handed them to Steinitz. Steinitz had stood speechless examining the bills for a full dozen seconds before clearing his throat and uttering the words "When shall we play?"
 
