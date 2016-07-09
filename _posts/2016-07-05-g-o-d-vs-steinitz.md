@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 published: false
 mathjax: true
 featured: true
