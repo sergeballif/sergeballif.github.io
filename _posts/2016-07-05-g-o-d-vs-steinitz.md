@@ -198,7 +198,7 @@ Steinitz trotted to his telephone, but before he arrived the voice went silent. 
 
 "Indeed," said Golding, nodding. "I assumed that you were engaged in a telephone call."
 
-"Not at all," snapped Steinitz. "Surely you saw that I wasn't near my telephone." Something fishy was surely afoot. 
+"Not at all," snapped Steinitz. "Surely you saw that I wasn't near my telephone." Something fishy was surely afoot. The words had made no sense, though they had referred to a game. Their chess game perhaps?
 
 "I'm sorry," replied Golding contritely. "I ignored your conversation in an attempt to give you some privacy. I thought I had heard the telephone ring."
 
@@ -226,7 +226,7 @@ Could this be part of the prank? Could Deos be trying to intimidate Steinitz not
 
 Steinitz found himself breathing heavily when Golding returned. Only years of training made it possible for him to keep emotion out of his face and concentrate on the chessboard to make his move (36. .. Ke6 37.a5). He didn't look up as Golding stood and exited his apartment. Steinitz was flustered, but he wasn't beat yet. He took a deep breath, and resolve filled his chest as he stood. It was time to follow again.
 
-Steinitz crept to the alleyway entrance with more trepidation than on his previous pursuit attempt. He couldn't be sure that Golding would be in the same spot, but somehow he knew what he would find. Sure enough he could see Golding around the corner. He was fiddling with something inside his briefcase. Steinitz pulled back, not wanting to be discovered.
+Steinitz crept to the alleyway entrance with more caution and trepidation than on his previous pursuit attempt. He couldn't be sure that Golding would be in the same spot, but somehow he knew what he would find. Sure enough he could see Golding around the corner. He was fiddling inside his briefcase. Steinitz pulled back, not wanting to be discovered.
 
 Suddenly Golding Spoke, "What do you think?"
 
