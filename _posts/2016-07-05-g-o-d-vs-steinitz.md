@@ -126,7 +126,7 @@ Steinitz would need to give up the knight to avoid a fork of his king and rook. 
 
 ![board on move 17]({{site.baseurl}}/images/Move17.jpg)
 
-Steinitz had been so caught up in the game that he had neglected to annotate any of the recent moves. He could always go back at a later date and add in the commentary, though he took a moment to jot down a line or two.
+Steinitz had been so caught up in the game that he had neglected to annotate any of the recent moves. He could always go back at a later date and add in the commentary, though he took a moment to jot down another line.
 
 _Note that white is still up a pawn, though black has some compensation in a better protected king._
 
