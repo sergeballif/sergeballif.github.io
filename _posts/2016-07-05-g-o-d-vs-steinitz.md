@@ -2,13 +2,20 @@
 layout: post
 published: false
 mathjax: true
-featured: false
+featured: true
 comments: false
 title: G.O.D. vs Steinitz
 description: A short chess story dedicated to the TCEC (Top Chess Engine Championship)
+headline: A short chess story dedicated to the TCEC (Top Chess Engine Championship)
+categories:
+  - personal
+  - fun
+  - writing
+tags: 'chess, sci-fi, tcec'
+modified: ''
+imagefeature: ''
 ---
 
-# G.O.D. vs Steinitz
 William Steinitz was jubilant. Fortune had smiled upon him this day bringing a much needed influx of cash his way. It was shameful plight for the chess champion of the world to be living in such poverty, but now Steinitz could breath more easily with a full $500 newly deposited into his bank.
 
 It seemed only fair that something would go well for him. The past several years had been difficult financially for him.  As the thirteenth son of a hardware retailer Steinitz had had to work hard to make his way. Anti-semitic persecution had driven him from his home in England across the Atlantic to New York City. His dignity and reputation had taken a hit in the expulsion, but his chess prowess had proved as formidable as ever. He was proud of his new American citizenship and glad to have distanced himself from critics abroad.
@@ -279,11 +286,6 @@ He glanced at his notepad next to the board where he had been making his annotat
 
 Postscript: Four months later Steinitz lost his World Championship match with Lasker.  He never regained his form, though he continued to play solid chess. He died seven years later in an asylum after a mental breakdown. Stories say that he was convinced that he was playing a game of chess against God over an invisible telephone wire.
 
-Coda: Congratuations. Your mission was a success. The timeline remains intact, and you appear to have gone undetected. We have verified that electronic communication can be sent over an extended interval and shared in both directions. Please expect immediate extraction upon completion of the game.
-
-
 ---------------------------
-
-
 
 View [the game and computer evaluations](https://en.lichess.org/0pTDmvRW).
