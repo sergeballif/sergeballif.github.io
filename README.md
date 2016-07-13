@@ -9,16 +9,17 @@ Main Features:
 * Font Awesome
 * Disqus comments integration
 
-You can set post image covers by using only Kramdown narkdown, just place something like this: `![cover-image](http://path-to-your-image.jpg)`
+You can set post image covers by using only Kramdown narkdown, just place something like this: `![cover-image](https://path-to-your-image.jpg)`
 
 Credits:
 
-* Zurb Foundation 5 [http://foundation.zurb.com/](http://foundation.zurb.com/)
-* Font Awesome [http://fontawesome.io](http://fontawesome.io)
-* Google fonts [http://www.google.com/fonts](http://www.google.com/fonts)
-* Background check [http://kennethcachia.com/background-check](http://kennethcachia.com/background-check)
-* Codrops article: [http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
+* Zurb Foundation 5 [https://foundation.zurb.com/](http://foundation.zurb.com/)
+* Font Awesome [s://fontawesome.io](http://fontawesome.io)
+* Google fonts [https://www.google.com/fonts](http://www.google.com/fonts)
+* Background check [https://kennethcachia.com/background-check](http://kennethcachia.com/background-check)
+* Codrops article: [https://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
 * There are also tools like jQuery, Modernizr, Normalize.
+
 
 If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
 
