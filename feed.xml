@@ -2,7 +2,7 @@
 layout: none
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<feed xmlns="https://www.w3.org/2005/Atom" xml:lang="en">
 {% assign add_protocol = false %}
 {% assign protocol = site.url | split: '/' | first %}
 {% if site.url != '' and protocol != 'http:' and protocol != 'https:' %}
