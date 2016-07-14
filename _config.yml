@@ -18,9 +18,9 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    I'm a math professor at Nevada State College with a strong desire to be a great teacher. 
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/sergeballif
+  twitter:        http://twitter.com/sergeballif
   #facebook:       
-  github:         https://github.com/sergeballif     
+  github:         http://github.com/sergeballif     
   #instagram:      
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:   
@@ -73,8 +73,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://sergeballif.github.io/' #'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://sergeballif.github.io/links.jsonp'
+  siteurl: 'https://sergeballif.github.io/' #'http://hmfaysal.github.io/Notepad/'
+  relativeLinks: 'https://sergeballif.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
