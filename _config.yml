@@ -18,9 +18,9 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    I'm a math professor at Nevada State College with a strong desire to be a great teacher. 
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        http://twitter.com/sergeballif
+  twitter:        sergeballif
   #facebook:       
-  github:         http://github.com/sergeballif     
+  github:         sergeballif     
   #instagram:      
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:   
