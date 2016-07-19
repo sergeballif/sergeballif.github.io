@@ -5,9 +5,9 @@ mathjax: true
 featured: false
 comments: true
 title: My Desmos Activities
-description: "Serge's Desmos activity collection"
+description: Serge's Desmos activity collection
 headline: a collection of Desmos activities by Serge Ballif
-categories: 
+categories:
   - math
   - teaching
 tags: teaching math desmos
@@ -56,6 +56,7 @@ Below is a collection of all of the Desmos Activities that I have created. I wil
 * [Linear Intequalities](https://teacher.desmos.com/activitybuilder/custom/5686e5ca1f871b68550785f4) - Students identify the equation of a linear inequality based off of a graph. Then students create and interpret their own linear inequalities to describe the relationship between variables in a story problem.
 * [Exponential and Logarithmic Functions](https://teacher.desmos.com/activitybuilder/custom/5686fa78e3c4035735f38e08) - Students get a bit of practice investigating exponential and logarithmic functions. Mostly the activity focuses on how to use Desmos to explore these functions.
 * [A Growing Population](https://teacher.desmos.com/activitybuilder/custom/5688168cf489315635d1f196) - Students compare and contrast linear growth and exponential growth.
+* [Change of Heart - Transformations](https://teacher.desmos.com/activitybuilder/custom/578e7bd8093fcd68077616d4) - Practice transformations of graphs that are not functions as they progress through a series of challenges.
  
 ## Modeling
 * [Circle Slicing](https://teacher.desmos.com/activitybuilder/custom/56882081f9151891782e29a8) - Students collect data and find a model for the number of regions that can be obtained by slicing a circle using straight lines. Students learn how to use the curve fitting features of Desmos. Then they get to try slicing another shape and finding a model for the number of regions.
