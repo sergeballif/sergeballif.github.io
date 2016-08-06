@@ -20,6 +20,10 @@ Previously we had been using the Accuplacer test to place all students in their 
 
 ![old and new placement scheme diagram]({{site.baseurl}}/images/NewPlacement.png)
 
+## The Numbers
+
+Our incoming freshmen class consists of $n$ students, $m$ of which placed into remedial math. These students learned about EdReady through various channels: a phone call from a student worker, an email with the specific details, new student orientation, and a follow up phone call from a student worker. At the end of summer semester we have $k$ students who have improved their placement. Of those $k$ students $j$ will place into a stretch version of their college level course that has an additional remedial component. The remaining $k-j$ students worked further through EdReady to place into just a college level course.
+
 ## Risks and Rewards
 We expect to have roughly 70% of our students place into remedial level math just as in the past. Students who ignore EdReady will just keep their initial placement. The change was largely risk free. 
 
