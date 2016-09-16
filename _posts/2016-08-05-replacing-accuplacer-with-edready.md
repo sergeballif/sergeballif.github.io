@@ -24,21 +24,13 @@ The new placement policy puts the ball in a student's court. Fortunately student
 
 ## The Numbers
 
-For Fall 2016 we had $n$ students who placed into remedial math for fall semester. We contacted these students about EdReady through various channels: phone calls from a student worker, emails with the specific details, and new student orientation. At the end of summer semester we have $113$ students who have improved their placement. Of those $113$ students $48$ will place into a stretch version of their college level course that has an additional remedial component. The remaining $65$ students worked further through EdReady to place into just a college level course.
+For Fall $2016$ we had $247$ first year students who placed into remedial math for fall semester. We contacted these students about EdReady through various channels: phone calls from a student worker, emails with the specific details, and new student orientation. At the end of summer semester we have $60$ of the $247$ students had improved their placement into a college level course. Our placement of new students into college level math improved from $24\%$ to $42\%$. The students spent $23.7$ hours on average over the summer using EdReady to improve their placement. 
 
-|                  | number of students | averagetime spent total | average number of points improved |
-|------------------|--------------------|-------------------------|-----------------------------------|
-| Math 120         | 52                 | 25.3 h                  | 50.77                             |
-| Math 120 stretch | 41                 | 22 h                    | 40.43                             |
-| Math 126         | 13                 | 22 h                    | 52.9                              |
-| Math 126 stretch | 7                  | 28.5 h                  | 41                                |
-| Summary          | Total: 113         | AVG: 23.7 h             | AVG: 46.6                         |
+The vast majority of those students are one semester away from completing all of their college math requirements. Needless to say, we and our students are thrilled.
 
+## Will They Succeed?
 
-
-
-## Risks and Rewards
-Historical trends suggest that more than 70% of our students place into remedial level math. Students who ignore EdReady will just keep their initial placement. There is no disadvantage to students who choose not to use EdReady. 
+We will have to wait to see if the students who improved their placement will perform as well as the other students. However, we have have a lot of reason to be hopeful. The program has almost no downsides. Students who ignore EdReady will just keep their initial placement, so there is no disadvantage to students who choose not to use EdReady. 
 
 Our old system using Accuplacer had a poor track record of placing students in the right level. High school GPA has proved to be a more reliable indicator of success. Unsurprisingly a single test taken in the middle of the summer is worse at reflecting a student's potential than the accumulated data of several years of effort offered by a GPA member. 
 
