@@ -11,8 +11,6 @@ categories:
   - math
   - teaching
 tags: edready placement
-modified: ''
-imagefeature: ''
 ---
 At the beginning of the summer I wrote a post [Revamping College Math Placement](https://sergeballif.github.io/math/teaching/revamping-college-math-placement) about our new placement exam policy at NSC. This post is a follow up report to share our progress.
 
@@ -24,7 +22,7 @@ The new placement policy puts the ball in a student's court. Fortunately student
 
 ## The Numbers
 
-For Fall $2016$ we had $247$ first year students who placed into remedial math for fall semester. We contacted these students about EdReady through various channels: phone calls from a student worker, emails with the specific details, and new student orientation. At the end of summer semester we have $60$ of the $247$ students had improved their placement into a college level course. Our placement of new students into college level math improved from $24\%$ to $42\%$. The students spent $23.7$ hours on average over the summer using EdReady to improve their placement. 
+For Fall $2016$ we had $247$ first year students who placed into remedial math for fall semester. We contacted these students about EdReady through various channels: phone calls from a student worker, emails with the specific details, and new student orientation. At the end of summer semester $60$ of the $247$ students had improved their placement into a college level course. Our placement of new students into college level math improved from $24\%$ to $42\%$. The students spent $23.7$ hours on average over the summer using EdReady to improve their placement. 
 
 The vast majority of those students are one semester away from completing all of their college math requirements. Needless to say, we and our students are thrilled.
 
