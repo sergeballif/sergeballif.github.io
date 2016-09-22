@@ -14,7 +14,7 @@ imagefeature: ''
 ---
 Recently I had to make a video to introduce our new placement tool to students. I wrote a script
 
-
+[Desmos worksheet](https://www.desmos.com/calculator/n9yejkts82)
 
 [![EdReadyVideo.PNG]({{site.baseurl}}/images/EdReadyVideo.PNG)](https://www.youtube.com/watch?v=G4vll_wvC88)
 
