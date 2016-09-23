@@ -152,7 +152,7 @@ prose:
         field:
           element: "checkbox"
           label: "Comments"
-          value: false
+          value: true
 
 
 include: [".htaccess"]
