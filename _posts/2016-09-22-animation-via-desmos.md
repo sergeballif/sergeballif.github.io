@@ -30,7 +30,7 @@ Nevada State College has redesigned their college math curriculum to help studen
 
 Students are now able to give themselves a boost by working through our newly adopted learning software: EdReady. EdReady is a free resource that allows you to learn and practice concepts as you watch instructive videos. Edready assesses your knowledge and assigns you a score. By following a custom learning plan you can increase your score as you learn the material. Your EdReady score may be used to place you in your initial math course.
 
-The best part is that you can start EdReady now. Just go to nsc.edready.org and sign up to get started. By beginning now you can prepare yourself to hit the ground running. Just think, you could be one semester away from completing all of your college math requirements. The path to your degree is wide open.
+The best part is that you can start EdReady now. Just go to [nsc.edready.org](https://nsc.edready.org/home) and sign up to get started. By beginning now you can prepare yourself to hit the ground running. Just think, you could be one semester away from completing all of your college math requirements. The path to your degree is wide open.
 
 
 
