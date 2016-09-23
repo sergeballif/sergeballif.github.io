@@ -10,7 +10,7 @@ categories:
   - math
   - teaching
   - fun
-tags: 'EdReady, Desmos, animation'
+tags: EdReady Desmos animation
 description: The post contains info on how I used Desmos to animate a video.
 headline: 'An artist with equations: how to use Desmos to do your drawing for you.'
 ---
