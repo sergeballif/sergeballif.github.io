@@ -3,7 +3,7 @@ layout: post
 published: true
 mathjax: true
 featured: false
-comments: false
+comments: true
 title: Replacing Accuplacer with EdReady
 description: Description of Nevada State College's math placement policy
 headline: Using EdReady to place math students
