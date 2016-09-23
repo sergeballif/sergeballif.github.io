@@ -14,7 +14,7 @@ tags: 'EdReady, Desmos, animation'
 description: The post contains info on how I used Desmos to animate a video.
 headline: 'An artist with equations: how to use Desmos to do your drawing for you.'
 ---
-Recently I had to make a video to introduce our new placement tool to students. Several people hasked about the graphics in the video, so I am sharing the details in this post. Click below to watch the video.
+Recently I had to make a video to introduce our new placement tool to students. Several people asked about the graphics in the video, so I am sharing the details in this post. Click below to watch the video.
 
 [![EdReadyVideo.PNG]({{site.baseurl}}/images/EdReadyVideo.PNG)](https://www.youtube.com/watch?v=G4vll_wvC88)
 
