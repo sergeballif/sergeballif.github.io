@@ -69,6 +69,7 @@ Below is a collection of all of the Desmos Activities that I have created. I wil
 
 ## Miscellaneous
 * [Thinking Mathematically](https://teacher.desmos.com/activitybuilder/custom/5686c4dfe3c4035735f37dda) - This activity introduces some expectations for writing in a math course. Students also get a chance to explain their reasoning on some questions that they might not think of as math problems.
+* [Monty Hall Problem](https://teacher.desmos.com/activitybuilder/custom/575053e1268a00d7079d6b31) - Students find the best strategy for the Monty Hall Show. They grade some sample solutions and try to generalize.
 * [Animation](https://teacher.desmos.com/activitybuilder/custom/56889574f489315635d22fb7) - Students are guided to draw a stick man using tables of points. Then they animate the stick man using sliders. Once they have the hang of things they get to create their own animation.
 
 ## Geometry
@@ -78,6 +79,7 @@ Below is a collection of all of the Desmos Activities that I have created. I wil
 
 ## Statistics
 * [Best Fit Lines](https://teacher.desmos.com/activitybuilder/custom/568c094deb18576d1dda2320) - Students try to eyeball a best fit line to some data points. Then they get to interpret a best fit line to predict some outcomes.
+* [Games and Strategy](https://teacher.desmos.com/activitybuilder/custom/57e7feb0b1e282311e4a2fde) - Students are challenged to come up with a winning strategy for a game that consists of moving a token along a grid allowing only certain moves. Along the way they learn the technique of backtracking to find the winning strategy. 
 
 ## Complex Analysis
 * [Limits of Complex Functions](https://teacher.desmos.com/activitybuilder/custom/573f3462bead29a80809129e) - Students learn to view a complex function by exploring the image of a subset. Then they check to see if particular limits exist using an epsilon-delta argument.
