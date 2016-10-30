@@ -15,6 +15,7 @@ description: The post contains info on how I used Desmos to animate a video.
 headline: 'An artist with equations: how to use Desmos to do your drawing for you.'
 modified: ''
 imagefeature: ''
+video: 'http://www.youtube.com/watch?v=CQJByFp7H38'
 ---
 Recently I had to make a video to introduce our new placement tool to students. Several people asked about the graphics in the video, so I am sharing the details in this post. Click below to watch the video.
 
@@ -23,6 +24,10 @@ Recently I had to make a video to introduce our new placement tool to students. 
 {% include youtubeplayer.html id="G4vll_wvC88" %}
 
 <div><iframe width="200%" height="315" src="https://www.youtube.com/embed/G4vll_wvC88" frameborder="0" allowfullscreen="allowfullscreen"> &nbsp; </iframe></div>
+
+{% highlight html %}
+<iframe width="940" height="529" src="//www.youtube.com/embed/CQJByFp7H38?theme=light&amp;color=white" frameborder="0" allowfullscreen> d </iframe>
+{% endhighlight %}
 
 
 I wanted an animated video, but I have no drawing skills. Fortunately I have a black belt in plotting equations. I opened up the Desmos graphing calculator and started plotting. Desmos lets you add sliders to your variables, so it was possible to create an animation by changing the values of various parameters. You can view the [Desmos worksheet in the video](https://www.desmos.com/calculator/xoqcaqpfct) to see the exact equations I used. Just start playing with the sliders in the cells along the left side of the screen to see how the animations were created. Zoom in and out with by scrolling with your mouse.
