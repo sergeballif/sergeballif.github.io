@@ -19,8 +19,6 @@ video: 'http://www.youtube.com/watch?v=CQJByFp7H38'
 ---
 Recently I had to make a video to introduce our new placement tool to students. Several people asked about the graphics in the video, so I am sharing the details in this post. Click below to watch the video.
 
-[![EdReadyVideo.PNG]({{site.baseurl}}/images/EdReadyVideo.PNG)](https://www.youtube.com/watch?v=G4vll_wvC88)
-
 {% include youtubeplayer.html id="G4vll_wvC88" %}
 
 I wanted an animated video, but I have no drawing skills. Fortunately I have a black belt in plotting equations. I opened up the Desmos graphing calculator and started plotting. Desmos lets you add sliders to your variables, so it was possible to create an animation by changing the values of various parameters. You can view the [Desmos worksheet in the video](https://www.desmos.com/calculator/xoqcaqpfct) to see the exact equations I used. Just start playing with the sliders in the cells along the left side of the screen to see how the animations were created. Zoom in and out with by scrolling with your mouse.
