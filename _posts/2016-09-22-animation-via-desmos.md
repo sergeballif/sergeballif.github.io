@@ -23,13 +23,6 @@ Recently I had to make a video to introduce our new placement tool to students. 
 
 {% include youtubeplayer.html id="G4vll_wvC88" %}
 
-<div><iframe width="200%" height="315" src="https://www.youtube.com/embed/G4vll_wvC88" frameborder="0" allowfullscreen="allowfullscreen"> &nbsp; </iframe></div>
-
-{% highlight html %}
-<iframe width="940" height="529" src="//www.youtube.com/embed/CQJByFp7H38?theme=light&amp;color=white" frameborder="0" allowfullscreen> d </iframe>
-{% endhighlight %}
-
-
 I wanted an animated video, but I have no drawing skills. Fortunately I have a black belt in plotting equations. I opened up the Desmos graphing calculator and started plotting. Desmos lets you add sliders to your variables, so it was possible to create an animation by changing the values of various parameters. You can view the [Desmos worksheet in the video](https://www.desmos.com/calculator/xoqcaqpfct) to see the exact equations I used. Just start playing with the sliders in the cells along the left side of the screen to see how the animations were created. Zoom in and out with by scrolling with your mouse.
 
 I recorded my voice reading the script and then moved the sliders to match the recording. The music came from [bensound.com](http://www.bensound.com/). I spliced the video together using Camtasia. Altogether it took about four hours of work. Overall I'm pretty proud. What better way to promote math than to use equations to tell the story.
