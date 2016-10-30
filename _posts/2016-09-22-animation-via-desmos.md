@@ -13,10 +13,14 @@ categories:
 tags: EdReady Desmos Animation
 description: The post contains info on how I used Desmos to animate a video.
 headline: 'An artist with equations: how to use Desmos to do your drawing for you.'
+modified: ''
+imagefeature: ''
 ---
 Recently I had to make a video to introduce our new placement tool to students. Several people asked about the graphics in the video, so I am sharing the details in this post. Click below to watch the video.
 
 [![EdReadyVideo.PNG]({{site.baseurl}}/images/EdReadyVideo.PNG)](https://www.youtube.com/watch?v=G4vll_wvC88)
+
+{% include youtubePlayer.html id="https://www.youtube.com/watch?v=G4vll_wvC88" %}
 
 I wanted an animated video, but I have no drawing skills. Fortunately I have a black belt in plotting equations. I opened up the Desmos graphing calculator and started plotting. Desmos lets you add sliders to your variables, so it was possible to create an animation by changing the values of various parameters. You can view the [Desmos worksheet in the video](https://www.desmos.com/calculator/xoqcaqpfct) to see the exact equations I used. Just start playing with the sliders in the cells along the left side of the screen to see how the animations were created. Zoom in and out with by scrolling with your mouse.
 
@@ -31,9 +35,3 @@ Nevada State College has redesigned their college math curriculum to help studen
 Students are now able to give themselves a boost by working through our newly adopted learning software: EdReady. EdReady is a free resource that allows you to learn and practice concepts as you watch instructive videos. Edready assesses your knowledge and assigns you a score. By following a custom learning plan you can increase your score as you learn the material. Your EdReady score may be used to place you in your initial math course.
 
 The best part is that you can start EdReady now. Just go to [nsc.edready.org](https://nsc.edready.org/home) and sign up to get started. By beginning now you can prepare yourself to hit the ground running. Just think, you could be one semester away from completing all of your college math requirements. The path to your degree is wide open.
-
-
-
-
-
-
