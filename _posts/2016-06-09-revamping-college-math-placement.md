@@ -11,10 +11,8 @@ categories:
   - teaching
 tags: math placement teaching edready
 headline: Smoothing the college math path with EdReady
-modified: ''
-imagefeature: ''
 ---
-Getting students placed in the right math class in college is a challenge that plagues all of higher ed. Math is often the obstacle that keeps students from progressing to a degree, especially when they place below the level of a college math course. This problem is all too common; about 75% of our incoming students at Nevada State College place into remedial math based.
+Getting students placed in the right math class in college is a challenge that plagues all of higher ed. Math is often the obstacle that keeps students from progressing to a degree, especially when they place below the level of a college math course. This problem is all too common; about 75% of our incoming students at Nevada State College place into remedial math.
 
 Often the initial course placement is just wrong. Occasionally a student will end up in a math course that is too advanced for them, but the more common problem is to have a student taking a course that is too easy for them. The Accuplacer placement test has proved to be a poor predictor of success. It turns out that high school GPA would be a much better indicator of the correct placement. In hindsight, it seems obvious that a long term measure of diligence (like GPA) would be a better tool for deciding the right level to start college than a single test taken in the middle of the summer after a long break.
 
