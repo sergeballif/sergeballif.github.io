@@ -32,3 +32,8 @@ title: Intro To College Math
 * [**Dependent and Independent Pre-Class**](https://teacher.desmos.com/activitybuilder/custom/5817a4ad4e762b653c3aa0da)
 * [**Dependent and Independent HW**](https://teacher.desmos.com/activitybuilder/custom/5817ba88ca8900c60d3bfde3)
 * [**Dependent and Independent Practice**](https://teacher.desmos.com/activitybuilder/custom/5818d1d5977414a03e3251f0)
+
+#### Conditional Probability (Probability and Statistics 3)
+* [**Conditional Probability Pre-Class**](https://teacher.desmos.com/activitybuilder/custom/581b71e86913645d1744f197)
+* [**Conditional Probability HW**](https://teacher.desmos.com/activitybuilder/custom/581ba893fbd90cec052883d8)
+* [**Conditional Probability Practice**](https://teacher.desmos.com/activitybuilder/custom/581b9501cc76310206af9441)
