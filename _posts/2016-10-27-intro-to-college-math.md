@@ -5,12 +5,6 @@ mathjax: true
 featured: false
 comments: true
 title: Intro To College Math
-description: ''
-headline: ''
-modified: ''
-categories: ''
-tags: ''
-imagefeature: ''
 ---
 ## A New Post
 
@@ -33,3 +27,8 @@ imagefeature: ''
 * [**Intro to Probability Pre-Class**](https://teacher.desmos.com/activitybuilder/custom/5814de20b0539a1b118b962d)
 * [**Intro to Probability HW**](https://teacher.desmos.com/activitybuilder/custom/5814f22fe1117fe7100cd732)
 * [**Intro to Probability Practice**](https://teacher.desmos.com/activitybuilder/custom/58152117a1b2b35011931612)
+
+#### Dependent and Independent (Probability and Statistics 2)
+* [**Dependent and Independent Pre-Class**](https://teacher.desmos.com/activitybuilder/custom/5817a4ad4e762b653c3aa0da)
+* [**Dependent and Independent HW**](https://teacher.desmos.com/activitybuilder/custom/5817ba88ca8900c60d3bfde3)
+* [**Dependent and Independent Practice**](https://teacher.desmos.com/activitybuilder/custom/5818d1d5977414a03e3251f0)
