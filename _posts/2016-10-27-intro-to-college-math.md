@@ -4,7 +4,8 @@ published: false
 mathjax: true
 featured: false
 comments: true
-title: Intro To College Math
+title: Desmos in the College Classroom
+desmos: true
 ---
 ## What is Desmos?
 
