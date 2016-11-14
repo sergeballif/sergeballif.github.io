@@ -143,6 +143,11 @@ prose:
           element: "checkbox"
           label: "MathJax"
           value: true
+      - name: "desmos"
+        field:
+          element: "checkbox"
+          label: "Desmos"
+          value: false
       - name: "featured"
         field:
           element: "checkbox"
