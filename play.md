@@ -1,12 +1,19 @@
 ---
-layout: post
-published: false
+layout: page
+permalink: /play/index.html
+title: Serge Ballif
+tags: 
+  - Serge
+  - Ballif
+
+published: true
 mathjax: true
 featured: false
 comments: true
 title: Desmos in the College Classroom
 desmos: true
 ---
+
 ## What is Desmos?
 
 <div id="calculator" style="width: 700px; height: 400px;"></div>
