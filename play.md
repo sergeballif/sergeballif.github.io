@@ -22,6 +22,30 @@ desmos: true
     var elt = document.getElementById('calculator');
     var calculator = Desmos.Calculator(elt);
     calculator.setExpression({id:'graph1', latex:'y=x^2 \\left\\{0<x\\right\\}'});
+    
+    calculator.setExpression({
+  id: '2',
+  latex: 'y=x + 1',
+  color: '#662225'
+});
+
+    calculator.setExpression({
+  id: '3',
+  latex: 'y=x + 1',
+  color: '#B51D0A'
+});
+
+    calculator.setExpression({
+  id: '4',
+  latex: 'y=x + 1',
+  color: '#EAD39C'
+});
+
+    calculator.setExpression({
+  id: '5',
+  latex: 'y=x + 1',
+  color: '#7D5E3C'
+});
 
     // Set initial axis labels in the calculator
     calculator.setGraphSettings({
