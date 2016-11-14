@@ -16,7 +16,7 @@ desmos: true
 
 ## What is Desmos?
 
-<div id="calculator" style="width: 700px; height: 400px;"></div>
+<p><div id="calculator" style="width: 700px; height: 400px;"></div></p>
 
 <script >
     var elt = document.getElementById('calculator');
