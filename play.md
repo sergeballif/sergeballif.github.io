@@ -74,7 +74,7 @@ desmos: true
     onYAxisLabelUpdate();
   </script>
 
-
+<p><div id="calculator" style="width: 700px; height: 400px;"></div></p>
 <script >
     var elt = document.getElementById('calculator');
     var calculator = Desmos.Calculator(elt);
