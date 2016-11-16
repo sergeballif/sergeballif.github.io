@@ -31,19 +31,19 @@ desmos: true
 
     calculator.setExpression({
   id: '3',
-  latex: 'y=x + 1',
+  latex: 'y=x + 2',
   color: '#B51D0A'
 });
 
     calculator.setExpression({
   id: '4',
-  latex: 'y=x + 1',
+  latex: 'y=x + 3',
   color: '#EAD39C'
 });
 
     calculator.setExpression({
   id: '5',
-  latex: 'y=x + 1',
+  latex: 'y=x + 4',
   color: '#7D5E3C'
 });
 
@@ -88,19 +88,19 @@ desmos: true
 
     calculator.setExpression({
   id: '3',
-  latex: 'y=x + 1',
+  latex: 'y=x + 2',
   color: '#CDBEA7'
 });
 
     calculator.setExpression({
   id: '4',
-  latex: 'y=x + 1',
+  latex: 'y=x + 3',
   color: '#323030'
 });
 
     calculator.setExpression({
   id: '5',
-  latex: 'y=x + 1',
+  latex: 'y=x + 4',
   color: '#C29545'
 });
   </script>
