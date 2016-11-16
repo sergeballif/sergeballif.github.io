@@ -73,3 +73,34 @@ desmos: true
     onXAxisLabelUpdate();
     onYAxisLabelUpdate();
   </script>
+
+
+<script >
+    var elt = document.getElementById('calculator');
+    var calculator = Desmos.Calculator(elt);
+    calculator.setExpression({id:'graph1', latex:'y=x^2 \\left\\{0<x\\right\\}'});
+    
+    calculator.setExpression({
+  id: '2',
+  latex: 'y=x + 1',
+  color: '#882426'
+});
+
+    calculator.setExpression({
+  id: '3',
+  latex: 'y=x + 1',
+  color: '#CDBEA7'
+});
+
+    calculator.setExpression({
+  id: '4',
+  latex: 'y=x + 1',
+  color: '#323030'
+});
+
+    calculator.setExpression({
+  id: '5',
+  latex: 'y=x + 1',
+  color: '#C29545'
+});
+  </script>
