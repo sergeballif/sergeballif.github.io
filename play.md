@@ -21,7 +21,7 @@ desmos: true
 <script >
     var elt = document.getElementById('calculator');
     var calculator = Desmos.Calculator(elt);
-    calculator.setExpression({id:'graph1', latex:'y=x^2'});
+    calculator.setExpression({id:'graph1', latex:'y=x^2+1'});
     
     calculator.setExpression({
   id: '2',
