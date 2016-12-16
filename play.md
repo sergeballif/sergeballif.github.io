@@ -21,6 +21,72 @@ desmos: true
 <script >
     var elt = document.getElementById('calculator');
     var calculator = Desmos.Calculator(elt);
+    calculator.setExpression({id:'graph1', latex:'y=x^2'});
+    
+    calculator.setExpression({
+  id: '2',
+  latex: 'y=x^2',
+  color: '#662225'
+});
+
+    calculator.setExpression({
+  id: '3',
+  latex: 'y=x^2-1',
+  color: '#B51D0A'
+});
+
+    calculator.setExpression({
+  id: '4',
+  latex: 'y=x^2-2',
+  color: '#EAD39C'
+});
+
+    calculator.setExpression({
+  id: '5',
+  latex: 'y=x^2-3',
+  color: '#7D5E3C'
+});
+
+ </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><div id="calculator" style="width: 700px; height: 400px;"></div></p>
+
+<script >
+    var elt = document.getElementById('calculator');
+    var calculator = Desmos.Calculator(elt);
     calculator.setExpression({id:'graph1', latex:'y=x^2 \\left\\{0<x\\right\\}'});
     
     calculator.setExpression({
@@ -103,4 +169,5 @@ desmos: true
   latex: 'y=x + 4',
   color: '#C29545'
 });
+
   </script>
