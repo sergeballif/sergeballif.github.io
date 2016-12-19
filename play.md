@@ -80,7 +80,7 @@ Here is a bunch of text to see if it is getting all the way to the end of the pa
 
 
 
-
+<div>
 
 <p><div id="calculator" style="width: 700px; height: 400px;"></div></p>
 
@@ -171,3 +171,5 @@ Here is a bunch of text to see if it is getting all the way to the end of the pa
 });
 
   </script>
+  
+  </div>
