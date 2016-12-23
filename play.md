@@ -85,10 +85,10 @@ Here is a bunch of text to see if it is getting all the way to the end of the pa
 
 <div>
 
-<p><div id="calculator" style="width: 700px; height: 400px;"></div></p>
+<p><div id="calculator2" style="width: 700px; height: 400px;"></div></p>
 
 <script >
-    var elt = document.getElementById('calculator');
+    var elt = document.getElementById('calculator2');
     var calculator = Desmos.Calculator(elt);
     calculator.setExpression({id:'graph1', latex:'y=x^2 \\left\\{0<x\\right\\}'});
     
@@ -143,9 +143,9 @@ Here is a bunch of text to see if it is getting all the way to the end of the pa
     onYAxisLabelUpdate();
   </script>
 
-<p><div id="calculator" style="width: 700px; height: 400px;"></div></p>
+<p><div id="calculator3" style="width: 700px; height: 400px;"></div></p>
 <script >
-    var elt = document.getElementById('calculator');
+    var elt = document.getElementById('calculator3');
     var calculator = Desmos.Calculator(elt);
     calculator.setExpression({id:'graph1', latex:'y=x^2 \\left\\{0<x\\right\\}'});
     
