@@ -16,6 +16,11 @@ desmos: true
 
 ## What is Desmos?
 
+
+Just playing around.
+
+Here is a bunch of text to see if it is getting all the way to the end of the page. Something seems to be amiss here, and I'm not sure what the problem is.
+
 <p><div id="calculator" style="width: 700px; height: 400px;"></div></p>
 
 <script >
