@@ -113,12 +113,27 @@ Notice how the list $m$ can be used to plot multiple slopes of a line with a sin
 ### Parametric Curves
 Most curves in the plane are not functions in the traditional sense because they fail the vertical line test. However we can write the variables $x$ and $y$ as functions of a third variable $t$. Below we look at the plot of the parametric function
 $$
-\begin{align}
+\begin{align*}
 x(t)=\cos(3t), 0\le t \le 2\pi\\
 y(t)=\sin(5t), 0\le t \le 2\pi\\
-\end{align}
+\end{align*}
 $$
+<p><div id="calculator4" style="width: 700px; height: 400px; margin: auto;"></div></p>
+<script>
+    var elt = document.getElementById('calculator4');
+    var calculator = Desmos.Calculator(elt);
+    calculator.setMathBounds({
+  left: -2,
+  right: 2,
+  bottom: -2,
+  top: 2
+});
+    calculator.setExpression({id:'1', latex:'(cos(3t),sin(5t)', domain:{ min: 0, max: 6.28 }}); 
+    calculator.setExpression({id:'2', latex:'(cos(3at),sin(5at)', domain:{ min: 0, max: 6.28 }}); 
+    calculator.setExpression({id:'3', latex:'a=1', sliderBounds: { min: 0, max: 1}}); 
+</script>
 
+T
 
 
 
