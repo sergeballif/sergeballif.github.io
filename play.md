@@ -128,12 +128,38 @@ $$
   bottom: -2,
   top: 2
 });
-    calculator.setExpression({id:'1', latex:'(cos(3t),sin(5t)', domain:{ min: 0, max: 6.28 }}); 
-    calculator.setExpression({id:'2', latex:'(cos(3at),sin(5at)', domain:{ min: 0, max: 6.28 }}); 
+    calculator.setExpression({id:'2', latex:'(cos(3at),sin(5at))', domain:{ min: 0, max: 6.28 }, color: Desmos.Colors.BLACK}); 
     calculator.setExpression({id:'3', latex:'a=1', sliderBounds: { min: 0, max: 1}}); 
 </script>
 
-T
+I sneeked a parameter $a$ into the calculator so that we can actually watch the curve being drawn. Click the play button to the left of $a$ to see the curve in action.
+
+### Inequalities
+Desmos will plot the formula for 
+
+<p><div id="calculator5" style="width: 700px; height: 400px; margin: auto;"></div></p>
+<script>
+    var elt = document.getElementById('calculator5');
+    var calculator = Desmos.Calculator(elt);
+    calculator.setMathBounds({
+  left: -4,
+  right: 4,
+  bottom: -4,
+  top: 4
+});
+    calculator.setExpression({"id":"2","type":"folder","title":"Click the circle on my left.","memberIds":{"3":true},"hidden":false,"collapsed":true,"secret":false}); 
+    calculator.setExpression({id:'3', latex:'x^2+y^2 \le a', color: Desmos.Colors.RED}); 
+    calculator.setExpression({
+  id: '4',
+  latex: 'a=[1,...,10]'
+});
+</script>
+
+Click the folder to see the code that produced the circles.
+
+
+
+
 
 
 
