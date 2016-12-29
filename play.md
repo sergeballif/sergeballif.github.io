@@ -46,32 +46,32 @@ The vertical scale factor $a=2$ is set as a default, but $a$ is a slider, so cli
 
 ### Tables
 
-Below is a calculator
+Below is a table of data.
 
 <p><div id="calculator2" style="width: 700px; height: 400px; margin: auto;"></div></p>
   <script >
     var elt = document.getElementById('calculator2');
-    var calculator = Desmos.GraphingCalculator(elt);
+    var calculator = Desmos.Calculator(elt);
 
-    calculator.setExpression({
-      type: 'table',
-      columns: [
-        {
-          latex: 'x',
-          values: ['1', '2', '3', '4', '5']
-        },
-        {
-          latex: 'y',
-          values: ['1', '4', '9', '16', '25'],
-          dragMode: Desmos.DragModes.XY
-        },
-        {
-          latex: 'x^2',
-          color: Desmos.Colors.BLUE,
-          columnMode: Desmos.ColumnModes.LINES
-        }
-      ]
-    });
+calculator.setExpression({
+  type: 'table',
+  columns: [
+    {
+      latex: 'x',
+      values: ['1', '2', '3', '4', '5']
+    },
+    {
+      latex: 'y',
+      values: ['1', '4', '9', '16', '25'],
+      dragMode: Desmos.DragModes.XY
+    },
+    {
+      latex: 'x^2',
+      color: Desmos.Colors.BLUE,
+      columnMode: Desmos.ColumnModes.LINES
+    }
+  ]
+});
   </script>
 
 
