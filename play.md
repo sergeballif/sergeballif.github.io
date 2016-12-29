@@ -28,16 +28,14 @@ Below is the graph of a parabola with it's vertex at the origin.
 
 <p><div id="calculator" style="width: 700px; height: 400px; margin: auto;"></div></p>
 
-<script >
+   <script >
     var elt = document.getElementById('calculator');
     var calculator = Desmos.Calculator(elt);
-    calculator.setExpression({id:'graph1', latex:'y=x^2+1'});
-    
-    calculator.setExpression({
-  {id:'slider1', latex:'a=2', sliderBounds: {min: -3, max: 8, step: 1}}
+    calculator.setExpressions([
+      {id:'graph1', latex:'y=ax^2'},
+      {id:'slider1', latex:'a=2', sliderBounds: {min: -3, max: 8, step: 1}}
     ]);
-});
- </script>
+  </script>
 
 The vertical scale factor $a=2$ is set as a default, but $a$ is a slider, so clicking the play button next to $a$ will let you see the effect that $a$ has on the graph. Notice that the format is very inviting for students to experiment and try things. It's easy to type in your own formulas into the blank cells to experiment to get a better feel for how a parabola can be transformed by a parameter (e.g. $y=x^2+a$, $y=(x-a)^2$, or $y=(ax)^2$).
 
