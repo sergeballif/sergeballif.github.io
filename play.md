@@ -92,7 +92,7 @@ Each of the table columns in the example above are lists. We can also define a  
   bottom: -1.3,
   top: 1.3
 });
-    calculator.setExpression({id:'graph1', latex:'m=[5,4,3,2,1'}); 
+    calculator.setExpression({id:'graph1', latex:'m=[5,4,3,2,1]'}); 
     calculator.setExpression({
   id: '2',
   latex: 'y=mx',
@@ -100,12 +100,11 @@ Each of the table columns in the example above are lists. We can also define a  
 });
     calculator.setExpression({
   id: '3',
-  latex: 'L=[0,0.2,...,6]',
-  color: '#662225'
+  latex: 'L=[0,0.2,...,6]'
 });
     calculator.setExpression({
   id: '4',
-  latex: 'y=sin(L)'
+  latex: '(L,sin(L))'
 });
 </script>
 
