@@ -74,6 +74,8 @@ calculator.setExpression({
 });
   </script>
 
+Notice that the second column values were entered manually, while the third column values were computed from the first column. The points plotted via the second column are set to be draggable, so you can drag them around to change the values. You can add additional values to the first two columns or add another column. Give it a try.
+
 
 
 
