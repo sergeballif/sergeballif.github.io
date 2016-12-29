@@ -25,10 +25,10 @@ Desmos is transforming the way that math is taught and experienced in the colleg
 Let's take a look at some of the popular calculator features. 
 
 Below is the graph of a parabola with it's vertex at the origin. 
-<p><div id="calculator" style="width: 700px; height: 400px; margin: auto;"></div></p>
+<p><div id="calculator1" style="width: 700px; height: 400px; margin: auto;"></div></p>
 
   <script >
-    var elt = document.getElementById('calculator');
+    var elt = document.getElementById('calculator1');
     var calculator = Desmos.GraphingCalculator(elt);
     calculator.setExpressions([
       {id:'graph1', latex:'y=ax^2'},
