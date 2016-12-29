@@ -148,7 +148,7 @@ Desmos will plot the formula for
   top: 4
 });
     calculator.setExpression({"id":"2","type":"folder","title":"Click the circle on my left.","memberIds":{"3":true},"hidden":false,"collapsed":true,"secret":false}); 
-    calculator.setExpression({id:'3', latex:'x^2+y^2 \le a', color: Desmos.Colors.RED}); 
+    calculator.setExpression({id:'3', latex:'x^2+y^2 \\le a', color: Desmos.Colors.RED}); 
     calculator.setExpression({
   id: '4',
   latex: 'a=[1,...,10]'
