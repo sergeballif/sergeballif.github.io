@@ -87,8 +87,8 @@ Each of the table columns in the example above are lists. We can also define a  
     var elt = document.getElementById('calculator3');
     var calculator = Desmos.Calculator(elt);
     calculator.setMathBounds({
-  left: 0,
-  right: 6,
+  left: -1,
+  right: 7,
   bottom: -1.3,
   top: 1.3
 });
