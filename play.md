@@ -16,9 +16,9 @@ desmos: true
 
 ## What is Desmos?
 
+Desmos is the graphing calculator I could only dream of having when I went through high school. It has a beautiful layout, it solves equations (numerically), it works with lists, and it can plot implicit functions and inequalities. Best of all, it's freely available to use in a web browser or as a mobile app. How good do I think it is? Well, if you gave me the option of a $\$100$ TI calculator or the free Desmos app for my phone, I would certainly chose the Desmos app.
 
-Desmos is transforming the way that math is taught and experienced in the college classroom. 
-
+In this post I will highlight some of my favorite capabilities of Desmos.
 
 ## What Can the Desmos Calculator do?
 
@@ -78,15 +78,37 @@ calculator.setExpression({
 Notice that the 2nd column values were entered manually, while the 3rd column values were computed from the 1st column. The points plotted via the 2nd column are set to be draggable, so you can drag them around to change the values. You can add additional values to the first two columns or add another column. Try adding a 4th column with the expression $\left|x-3\right|$ by first clicking inside the table and then clicking inside the top cell of the 4th column.
 </p>
 
+### Lists
+
+Each of the table columns in the example above are lists. We can also define a  list of 
+
+<p><div id="calculator3" style="width: 700px; height: 400px; margin: auto;"></div></p>
+<script>
+    var elt = document.getElementById('calculator3');
+    var calculator = Desmos.Calculator(elt);
+    calculator.setExpression({id:'graph1', latex:'m=[5,4,3,2,1'});
+    
+    calculator.setExpression({
+  id: '2',
+  latex: 'y=mx',
+  color: '#662225'
+});
+    calculator.setExpression({
+  id: '3',
+  latex: 'L=[0,0.2,...,6]',
+  color: '#662225'
+});
+    calculator.setExpression({
+  id: '4',
+  latex: 'y=sin(L)'
+});
+</script>
 
 
 
 
 
-
-
-
-
+Desmos is transforming the way that math is taught and experienced in the college classroom. 
 
 
 
