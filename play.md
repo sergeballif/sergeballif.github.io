@@ -18,7 +18,7 @@ desmos: true
 
 Desmos is the graphing calculator I could only dream of having when I went through high school. It has a beautiful layout, it solves equations (numerically), it works with lists, and it can plot implicit functions and inequalities. Best of all, it's freely available to use in a web browser or as a mobile app. How good do I think it is? Well, if you gave me the option of a $\$100$ TI calculator or the free Desmos app for my phone, I would certainly chose the Desmos app.
 
-In this post I will highlight some of my favorite capabilities of Desmos.
+In this post I will highlight some of my favorite capabilities of Desmos. Throughout these examples, be sure to notice that calculator just begs for you to experiment and make changes as you go.
 
 ## What Can the Desmos Calculator do?
 
@@ -108,6 +108,16 @@ Each of the table columns in the example above are lists. We can also define a  
 });
 </script>
 
+Notice how the list $m$ can be used to plot multiple slopes of a line with a single command. The list $L$ is used to plot points on the sine curve. Try plotting the points on a circle by plotting $(\cos(L),\sin(L))$.
+
+### Parametric Curves
+Most curves in the plane are not functions in the traditional sense because they fail the vertical line test. However we can write the variables $x$ and $y$ as functions of a third variable $t$. Below we look at the plot of the parametric function
+$$
+\begin{align}
+x(t)=\cos(3t), 0\le t \le 2\pi\\
+y(t)=\sin(5t), 0\le t \le 2\pi\\
+\end{align}
+$$
 
 
 
