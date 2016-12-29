@@ -74,7 +74,7 @@ calculator.setExpression({
 });
   </script>
 
-Notice that the second column values were entered manually, while the third column values were computed from the first column. The points plotted via the second column are set to be draggable, so you can drag them around to change the values. You can add additional values to the first two columns or add another column. Give it a try.
+Notice that the 2nd column values were entered manually, while the 3rd column values were computed from the 1st column. The points plotted via the 2nd column are set to be draggable, so you can drag them around to change the values. You can add additional values to the first two columns or add another column. Try adding a 4th column with the expression $\left|x-3\right|$ by first clicking inside the table and then clicking inside the top cell of the 4th column.
 
 
 
