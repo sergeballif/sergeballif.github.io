@@ -86,8 +86,13 @@ Each of the table columns in the example above are lists. We can also define a  
 <script>
     var elt = document.getElementById('calculator3');
     var calculator = Desmos.Calculator(elt);
-    calculator.setExpression({id:'graph1', latex:'m=[5,4,3,2,1'});
-    
+    calculator.setMathBounds({
+  left: 0,
+  right: 6,
+  bottom: -1.3,
+  top: 1.3
+});
+    calculator.setExpression({id:'graph1', latex:'m=[5,4,3,2,1'}); 
     calculator.setExpression({
   id: '2',
   latex: 'y=mx',
