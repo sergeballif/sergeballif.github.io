@@ -139,7 +139,7 @@ Desmos will plot the formula for
 
   <p><div id="calculator5" style="width: 800px; height: 400px; margin: auto;"></div></p>
   <script >
-    var initialState = {"version":1,"graph":{"showGrid":true,"showXAxis":true,"showYAxis":true,"xAxisStep":0,"yAxisStep":0,"xAxisMinorSubdivisions":0,"yAxisMinorSubdivisions":0,"xAxisArrowMode":"NONE","yAxisArrowMode":"NONE","xAxisLabel":"","yAxisLabel":"","xAxisNumbers":true,"yAxisNumbers":true,"polarMode":false,"polarNumbers":true,"degreeMode":false,"projectorMode":false,"squareAxes":true,"viewport":{"xmin":-10,"ymin":-13.54387107276575,"xmax":10,"ymax":13.54387107276575}},"expressions":{"list":[{"id":"2",type:"folder","title":"Click the triangle to my left to reveal the formulas","memberIds":{"3":true,"4":true},"hidden":false,"collapsed":true,"secret":false},{"id":"3","type":"expression","latex":"x^2+y^2\\le a","domain":{"min":0,"max":1},"hidden":false,"color":"#4F81BD","style":"normal","residualVariable":"","regressionParameters":{},"isLogModeRegression":false},{"id":"4","type":"expression","latex":"a=[1,4,9,16,25,36]"}]}}
+    var initialState = {"version":1,"graph":{"showGrid":true,"showXAxis":true,"showYAxis":true,"xAxisStep":0,"yAxisStep":0,"xAxisMinorSubdivisions":0,"yAxisMinorSubdivisions":0,"xAxisArrowMode":"NONE","yAxisArrowMode":"NONE","xAxisLabel":"","yAxisLabel":"","xAxisNumbers":true,"yAxisNumbers":true,"polarMode":false,"polarNumbers":true,"degreeMode":false,"projectorMode":false,"squareAxes":true,"viewport":{"xmin":-10,"ymin":-13.54387107276575,"xmax":10,"ymax":13.54387107276575}},"expressions":{"list":[{"id":"2",type:"folder","title":"Click the triangle to my left to reveal the formulas","memberIds":{"3":true,"4":true},"hidden":false,"collapsed":true,"secret":false},{"id":"3","type":"expression","latex":"x^2+y^2\\le a^2","domain":{"min":0,"max":1},"hidden":false,"color":"#4F81BD","style":"normal","residualVariable":"","regressionParameters":{},"isLogModeRegression":false},{"id":"4","type":"expression","latex":"a=[1,2,3,4,5,6]"}]}}
 
     var elt1 = document.getElementById('calculator5');
     var calculator1 = Desmos.GraphingCalculator(elt1,  {
@@ -148,9 +148,64 @@ Desmos will plot the formula for
     calculator1.setState(initialState);
   </script>
   
-Open the folder to see the formulas that produced the circles.
+Open the folder to see the formulas that produced the shaded circles. Try to add a few more circles.
 
+### Draggable Points
 
+Desmos lets you create points that you move. You can even specify that the point should be on a specific curve.
+
+<p><div id="calculator6" style="width: 800px; height: 400px; margin: auto;"></div></p>
+<script>
+    var elt = document.getElementById('calculator6');
+    var calculator = Desmos.Calculator(elt);
+    calculator.setMathBounds({
+  left: -1,
+  right: 7,
+  bottom: -2,
+  top: 2
+});
+    calculator.setExpression({
+  id: '2',
+  latex: 'f(x)=\\cos(x)+sin(3x)',
+  color: '#662225'
+});
+     calculator.setExpression({
+  id: '7',
+  latex: 'a=1'
+});
+        calculator.setExpression({
+  id: '8',
+  latex: '(a,f(a))',
+  color: '#000'
+});
+    calculator.setExpression({
+  id: '3',
+  latex: '0\\le y \\le f(x)\\left\\{2<x<a\\right\\}',
+    color: '#BC8F8F'
+});
+    calculator.setExpression({
+  id: '4',
+  latex: '0\\ge y \\ge f(x)\\left\\{a<x<2\\right\\}',
+    color: '#BC8F8F'
+});
+    calculator.setExpression({
+  id: '5',
+  latex: '0\\le y \\le f(x)\\left\\{a<x<2\\right\\}',
+    color: '#FFCC11'
+});
+    calculator.setExpression({
+  id: '6',
+  latex: '0\\ge y \\ge f(x)\\left\\{2<x<a\\right\\}',
+    color: '#FFCC11'
+});
+      calculator.setExpression({
+  id:'1', latex:'A(x)=\\int_{2}^{x}\\left(\\cos(t)+sin(3t)\\right)dt',
+ hidden: 'true'}); 
+</script>
+
+Drag the black point around to see how it is glued to the curve $y=f(x)$. You'll notice that I have included some shading using inequalities. Desmos has it's own special notation for conditionally restricting output: place the condition insided of curly braces such as $\{2<x < a\}$ in the graph above. 
+
+If you scroll to the bottom of the expression list you will see a function $A(x)$ that is disabled. Click on the circle to the left of this function to enable it. (Calculus students will recognize the function $A(x)$ as a net signed-area function whose output is purple area minus yellow area.) The ability to hide plots is particularly useful for large projects.
 
 
 
