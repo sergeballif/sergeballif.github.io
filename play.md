@@ -16,11 +16,11 @@ desmos: true
 
 ## What is this calculator I've been hearing about?
 
-Desmos is the graphing calculator I could only dream of having when I went through high school. It has a beautiful layout, it solves equations (numerically), it works with lists, and it can plot implicit functions and inequalities. It can be used for algebra, modeling, statistics, and even calculus. Best of all, it's freely available to use in a web browser or as a mobile app. How good do I think it is? Well, if somebody gave me a free TI graphing calculator I would just sell it on EBay or give it away, because the Desmos app on my phone is superior; it's not even close.
+Desmos is the graphing calculator I could only dream of having when I went through high school. It has a beautiful layout, it solves equations (numerically), it works with lists, and it can plot implicit functions and inequalities. It can be used for algebra, modeling, statistics, and even calculus. Best of all, it's freely available to use in a web browser or as a mobile app. How good do I think it is? Well, if somebody gave me a free TI graphing calculator I would just sell it on EBay or give it away, because the Desmos app on my phone is superior. The contest isn't even close.
 
 The best way to learn Desmos is to go to [desmos.com](https://www.desmos.com/) and try the calculator out. You'll be amazed at it's capabilities. There are plenty of tutorials to help you on your journey.
 
-In this post I will highlight some of my favorite capabilities of Desmos with a minimal explanation. Throughout these examples, be sure to notice that calculator just begs for you to experiment and make changes as you go.
+In this post I will highlight some of my favorite capabilities of Desmos with minimal explanations. Throughout these examples, be sure to notice that calculator just begs for you to experiment and make changes as you go.
 
 ## What Can the Desmos Calculator do?
 
@@ -44,7 +44,7 @@ Below is the graph of a parabola with it's vertex at the origin.
 });
 </script>
 
-The second equation shows an error because of the unknown variable $a$. Click "add slider" to give $a$ a value. Then clicking the play button next to $a$ will let you see the effect that $a$ has on the graph. Notice that the format is very inviting for students to experiment and try things. It's easy to type your own formulas into the blank cells to experiment or to get a better feel for how a parabola can be transformed by a parameter (e.g. $y=x^2+a$, $y=(x-a)^2$, or $y=(ax)^2$).
+The second equation shows an error because of the unknown variable $a$. Click the button by the text "add slider" to give $a$ a value. Then clicking the play button next to $a$ will let you see the effect that $a$ has on the graph. Notice that the format is very inviting for students to experiment and try things. It's easy to type your own formulas into the blank cells to experiment or to get a better feel for how a parabola can be transformed by a parameter (e.g. $y=x^2+a$, $y=(x-a)^2$, or $y=(ax)^2$).
 
 ### Tables
 
@@ -82,7 +82,7 @@ Notice that the 2nd column values were entered manually, while the 3rd column va
 
 ### Lists
 
-Each of the table columns in the example above are lists. We can also define a  list of 
+Each of the table columns in the example above are lists. We can also define a list of values.
 
 <p><div id="calculator3" style="width: 800px; height: 400px; margin: auto;"></div></p>
 <script>
