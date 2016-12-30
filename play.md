@@ -16,7 +16,7 @@ desmos: true
 
 ## What is this calculator I've been hearing about?
 
-Desmos is the graphing calculator I could only dream of having when I went through high school. It has a beautiful layout, it solves equations (numerically), it works with lists, and it can plot implicit functions and inequalities. It can be used for algebra, modeling, statistics, and even calculus. Best of all, it's freely available to use in a web browser or as a mobile app. How good do I think it is? Well, if you gave me the option of a \(\$100\) TI calculator or the free Desmos app for my phone, I would certainly chose the Desmos app.
+Desmos is the graphing calculator I could only dream of having when I went through high school. It has a beautiful layout, it solves equations (numerically), it works with lists, and it can plot implicit functions and inequalities. It can be used for algebra, modeling, statistics, and even calculus. Best of all, it's freely available to use in a web browser or as a mobile app. How good do I think it is? Well, if you gave me the option of a \$100 TI calculator or the free Desmos app for my phone, I would certainly chose the Desmos app.
 
 The best way to learn Desmos is to go to [desmos.com](desmos.com) and try the calculator out. You'll be amazed at it's capabilities. There are plenty of tutorials to help you on your journey.
 
