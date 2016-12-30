@@ -44,7 +44,7 @@ Below is the graph of a parabola with it's vertex at the origin.
 });
 </script>
 
-The second equation shows an error because of the unknown variable $a$. Click "add slider" to give $a$ a value. Then clicking the play button next to $a$ will let you see the effect that $a$ has on the graph. Notice that the format is very inviting for students to experiment and try things. It's easy to type in your own formulas into the blank cells to experiment or to get a better feel for how a parabola can be transformed by a parameter (e.g. $y=x^2+a$, $y=(x-a)^2$, or $y=(ax)^2$).
+The second equation shows an error because of the unknown variable $a$. Click "add slider" to give $a$ a value. Then clicking the play button next to $a$ will let you see the effect that $a$ has on the graph. Notice that the format is very inviting for students to experiment and try things. It's easy to type your own formulas into the blank cells to experiment or to get a better feel for how a parabola can be transformed by a parameter (e.g. $y=x^2+a$, $y=(x-a)^2$, or $y=(ax)^2$).
 
 ### Tables
 
@@ -113,7 +113,7 @@ Each of the table columns in the example above are lists. We can also define a  
 Notice how the list $m$ can be used to plot multiple slopes of a line with a single command. The list $L$ is used to plot points on the sine curve. Try plotting the points on a circle by plotting $(\cos(L),\sin(L))$.
 
 ### Parametric Curves
-Most curves in the plane are not functions in the traditional sense because they fail the vertical line test. However we can write the variables $x$ and $y$ as functions of a third variable $t$. Below we look at the plot of the parametric function
+Most curves in the plane are not functions in the traditional sense because they fail the vertical line test. However we can write the variables $x$ and $y$ as functions of a third variable $t$. Below we look at the plot of the parametric functions
 $$
 \begin{align*}
 x(t)=\cos(3t), 0\le t \le 2\pi\\
@@ -137,7 +137,7 @@ $$
 I sneeked a parameter $a$ into the calculator so that we can actually watch the curve being drawn. Click the play button to the left of $a$ to see the curve in action.
 
 ### Inequalities
-Desmos will plot the formula for 
+Desmos will plot inequalities for you.
 
   <p><div id="calculator5" style="width: 800px; height: 400px; margin: auto;"></div></p>
   <script >
@@ -201,17 +201,17 @@ Desmos lets you create points that you move. You can even specify that the point
     color: '#FFCC11'
 });
       calculator.setExpression({
-  id:'1', latex:'A(x)=\\int_{2}^{x}\\left(\\cos(t)+sin(3t)\\right)dt',
+  id:'1', latex:'A(x)=\\int_{2}^{x}f(t)dt',
  hidden: 'true'}); 
 </script>
 
 Drag the black point around to see how it is glued to the curve $y=f(x)$. You'll notice that I have included some shading using inequalities. Desmos has it's own special notation for conditionally restricting output: place the condition insided of curly braces such as $\{2<x < a\}$ in the graph above. 
 
-If you scroll to the bottom of the expression list you will see a function $A(x)$ that is disabled. Click on the circle to the left of this function to enable it. (Calculus students will recognize the function $A(x)$ as a net signed-area function whose output is purple area minus yellow area.) The ability to hide plots is particularly useful for large projects.
+If you scroll to the bottom of the expression list you will see a function $A(x)$ that is disabled. Click on the circle to the left of this function to enable it. Calculus students will recognize the function $A(x)$ as a net signed-area function starting at $x=2$ (whose output is the lavender area minus the yellow area). The ability to hide plots is particularly useful for large projects. Try redefining $f(x)$ to be $f(x)=\sin \left(x^2\right)$ to see how it changes the graph.
 
 ### Curve Fitting
 
-Desmos makes it easy to come up with models to match a colleciton of data. The table below shows some points plotted along with the curve that Desmos fit to the points.
+Desmos makes it easy to come up with models to match a collection of data. The table below shows some points plotted along with the curve that Desmos fit to the points.
 
 <p><div id="calculator7" style="width: 800px; height: 400px; margin: auto;"></div></p>
   <script >
