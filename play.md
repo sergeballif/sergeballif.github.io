@@ -142,7 +142,7 @@ Desmos will plot the formula for
     var initialState = {"version":1,"graph":{"showGrid":true,"showXAxis":true,"showYAxis":true,"xAxisStep":0,"yAxisStep":0,"xAxisMinorSubdivisions":0,"yAxisMinorSubdivisions":0,"xAxisArrowMode":"NONE","yAxisArrowMode":"NONE","xAxisLabel":"","yAxisLabel":"","xAxisNumbers":true,"yAxisNumbers":true,"polarMode":false,"polarNumbers":true,"degreeMode":false,"projectorMode":false,"squareAxes":true,"viewport":{"xmin":-10,"ymin":-13.54387107276575,"xmax":10,"ymax":13.54387107276575}},"expressions":{"list":[{"id":"2",type:"folder","title":"Click the triangle to my left to reveal the formulas","memberIds":{"3":true,"4":true},"hidden":false,"collapsed":true,"secret":false},{"id":"3","type":"expression","latex":"x^2+y^2\\le a","domain":{"min":0,"max":1},"hidden":false,"color":"#4F81BD","style":"normal","residualVariable":"","regressionParameters":{},"isLogModeRegression":false},{"id":"4","type":"expression","latex":"a=[1,4,9,16,25,36]"}]}}
 
     var elt1 = document.getElementById('calculator5');
-    var calculator1 = Desmos.GraphingCalculator(elt1, {
+    var calculator1 = Desmos.GraphingCalculator(elt1,  {
       administerSecretFolders: false
     });
     calculator1.setState(initialState);
