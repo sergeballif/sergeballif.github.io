@@ -236,11 +236,8 @@ calculator.setExpression({
 }); 
   </script>
 
-To get the curves we just notice that the points look like they fit a parabola, so we would guess that formula would be of the form $y=ax^2+bx+c$. Then we replace $y$ with $y_1$ and $x$ with $x_1$ so that Desmos will refer to the table to get its values. Finally we replace $=$ with $\sim$ so that Desmos knows you want to fit a curve approximation.
-
-
-
-$'y_1\sim ax_1^2+bx_1+c$
+To get the curves we just notice that the points look like they fit a parabola, so we would guess that formula would be of the form $y=ax^2+bx+c$. Then we replace "$y$" with "$y_1$" and "$x$" with "$x_1$" so that Desmos will refer to the table to get its values. Finally we replace "$=$" with "$\sim$" so that Desmos knows you want to fit a curve approximation. That's where we get the line
+$$y_1\sim ax_1^2+bx_1+c$$
 
 
 
