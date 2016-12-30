@@ -28,7 +28,7 @@ Let's take a look at some of the popular calculator features.
 
 Below is the graph of a parabola with it's vertex at the origin. 
 
-<p><div id="calculator" style="width: 700px; height: 400px; margin: auto;"></div></p>
+<p><div id="calculator" style="width: 800px; height: 400px; margin: auto;"></div></p>
 
 <script>
     var elt = document.getElementById('calculator');
@@ -48,7 +48,7 @@ The second equation shows an error because of the unknown variable $a$. Click "a
 
 Below is a table of data.
 
-<p><div id="calculator2" style="width: 700px; height: 400px; margin: auto;"></div></p>
+<p><div id="calculator2" style="width: 800px; height: 400px; margin: auto;"></div></p>
   <script >
     var elt = document.getElementById('calculator2');
     var calculator = Desmos.Calculator(elt);
@@ -82,7 +82,7 @@ Notice that the 2nd column values were entered manually, while the 3rd column va
 
 Each of the table columns in the example above are lists. We can also define a  list of 
 
-<p><div id="calculator3" style="width: 700px; height: 400px; margin: auto;"></div></p>
+<p><div id="calculator3" style="width: 800px; height: 400px; margin: auto;"></div></p>
 <script>
     var elt = document.getElementById('calculator3');
     var calculator = Desmos.Calculator(elt);
@@ -118,7 +118,7 @@ x(t)=\cos(3t), 0\le t \le 2\pi\\
 y(t)=\sin(5t), 0\le t \le 2\pi\\
 \end{align*}
 $$
-<p><div id="calculator4" style="width: 700px; height: 400px; margin: auto;"></div></p>
+<p><div id="calculator4" style="width: 800px; height: 400px; margin: auto;"></div></p>
 <script>
     var elt = document.getElementById('calculator4');
     var calculator = Desmos.Calculator(elt);
@@ -137,7 +137,7 @@ I sneeked a parameter $a$ into the calculator so that we can actually watch the 
 ### Inequalities
 Desmos will plot the formula for 
 
-  <p><div id="calculator5" style="width: 700px; height: 400px; margin: auto;"></div></p>
+  <p><div id="calculator5" style="width: 800px; height: 400px; margin: auto;"></div></p>
   <script >
     var initialState = {"version":1,"graph":{"showGrid":true,"showXAxis":true,"showYAxis":true,"xAxisStep":0,"yAxisStep":0,"xAxisMinorSubdivisions":0,"yAxisMinorSubdivisions":0,"xAxisArrowMode":"NONE","yAxisArrowMode":"NONE","xAxisLabel":"","yAxisLabel":"","xAxisNumbers":true,"yAxisNumbers":true,"polarMode":false,"polarNumbers":true,"degreeMode":false,"projectorMode":false,"squareAxes":true,"viewport":{"xmin":-10,"ymin":-13.54387107276575,"xmax":10,"ymax":13.54387107276575}},"expressions":{"list":[{"id":"2",type:"folder","title":"Click the triangle to my left to reveal the formulas","memberIds":{"3":true,"4":true},"hidden":false,"collapsed":true,"secret":false},{"id":"3","type":"expression","latex":"x^2+y^2\\le a","domain":{"min":0,"max":1},"hidden":false,"color":"#4F81BD","style":"normal","residualVariable":"","regressionParameters":{},"isLogModeRegression":false},{"id":"4","type":"expression","latex":"a=[1,4,9,16,25,36]"}]}}
 
