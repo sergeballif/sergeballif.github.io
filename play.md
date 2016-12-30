@@ -207,6 +207,36 @@ Drag the black point around to see how it is glued to the curve $y=f(x)$. You'll
 
 If you scroll to the bottom of the expression list you will see a function $A(x)$ that is disabled. Click on the circle to the left of this function to enable it. (Calculus students will recognize the function $A(x)$ as a net signed-area function whose output is purple area minus yellow area.) The ability to hide plots is particularly useful for large projects.
 
+### Curve Fitting
+
+Desmos makes it easy to come up with models to match a colleciton of data. The table below shows some points plotted along with the curve that Desmos fit to the points.
+
+<p><div id="calculator8" style="width: 800px; height: 400px; margin: auto;"></div></p>
+  <script >
+    var elt = document.getElementById('calculator8');
+    var calculator = Desmos.Calculator(elt);
+
+ calculator.setExpression({
+  id: '2',
+  latex: 'y_1~ax_1^2+bx_1+c',
+  color: '#662225'
+});
+calculator.setExpression({
+  type: 'table',
+  columns: [
+    {
+      latex: 'x_1',
+      values: ['-2','-1','0','1', '2', '3']
+    },
+    {
+      latex: 'y_1',
+      values: ['-5', '-2', '0', '1', '1','0'],
+    },
+  ]
+}); 
+  </script>
+
+To get the curves we just notice that the points look like they fit a parabola, so we would guess that formula would be of the form $y=ax^2+bx+c$. Then we replace $y$ with $y_1$ and $x$ with $x_1$ so that Desmos will refer to the table to get its values. Finally we replace $=$ with $\sim$ so that Desmos knows you want to fit a curve approximation.
 
 
 
