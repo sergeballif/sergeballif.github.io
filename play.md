@@ -211,9 +211,9 @@ If you scroll to the bottom of the expression list you will see a function $A(x)
 
 Desmos makes it easy to come up with models to match a colleciton of data. The table below shows some points plotted along with the curve that Desmos fit to the points.
 
-<p><div id="calculator8" style="width: 800px; height: 400px; margin: auto;"></div></p>
+<p><div id="calculator7" style="width: 800px; height: 400px; margin: auto;"></div></p>
   <script >
-    var elt = document.getElementById('calculator8');
+    var elt = document.getElementById('calculator7');
     var calculator = Desmos.Calculator(elt);
 
  calculator.setExpression({
@@ -239,6 +239,65 @@ calculator.setExpression({
 To get the curves we just notice that the points look like they fit a parabola, so we would guess that formula would be of the form $y=ax^2+bx+c$. Then we replace "$y$" with "$y_1$" and "$x$" with "$x_1$" so that Desmos will refer to the table to get its values. Finally we replace "$=$" with "$\sim$" so that Desmos knows you want to fit a curve approximation. That's where we get the code:
 
 $$y_1\sim ax_1^2+bx_1+c$$
+
+### Points of Interest
+
+Desmos is also a great tool for solving equations, finding intercepts, or maximizing or minimizing curves. For example, suppose we wanted to maximize the area of a rectangle in the first quadrant under the green curve below.
+
+<p><div id="calculator8" style="width: 800px; height: 500px; margin: auto;"></div></p> 
+
+  <script >
+    var elt = document.getElementById('calculator8');
+    var calculator = Desmos.GraphingCalculator(elt);
+calculator.setExpression({
+  id: '0',
+  latex: 'A(x)=xf(x)',
+  color: '#91371B',
+  hidden: true
+});
+    calculator.setExpression({
+  id: '1',
+  latex: 'A(a)',
+});
+      calculator.setExpression({
+  id: '2',
+  latex: 'f(x)=.1\\left(x-4\\right)^2\\left\\{0\\le x\\le 4\\right\\}',
+  color: '#4A572C'
+});
+     calculator.setExpression({
+  id: '3',
+  latex: 'a=1'
+});
+     calculator.setExpression({
+  id: '4',
+  latex: '(a,f(a))',
+  color: '#000'
+});
+     calculator.setExpression({
+  id: '5',
+  latex: '0\\le x \\le a\\left\\{0\\le y\\le f(a)\\right\\}',
+  color: '#4A572C'
+});
+     calculator.setExpression({
+  id: '6',
+  latex: '0\\le y\\le f(a)\\left\\{0\\le x \\le a\\right\\}',
+  color: '#4A572C'
+});
+    calculator.setMathBounds({
+  left: -.2,
+  right: 4.5,
+  bottom: -1,
+  top: 4
+});
+    calculator.updateSettings({
+      projectorMode: true
+    });
+  calculator.udpateSettings({projectorMode: true});
+  </script>
+  
+The area of each rectangle is base $\times$ height or $x\cdot f(x)$, so we defined the area function $A(x)=x\cdot f(x)$. Drag the black point back and forth along the curve. You can view the actual area by looking at the expression in cell 2. To get the maximum area we can just look at the plot of $A(x)$. click the circle to the left of $A(x)$ to un-hide the graph. Click on the graph of $A(x)$ and you will see some gray dots appear at points of interest (such as intercepts, points of intersection, or maximum values). Click the point on the top to see the maximum possible area of a rectangle under the curve.
+
+Note that the font and line width are larger in this example. That's because the calculator is set to projector mode (using the wrench icon in the upper right corner).
 
 
 
