@@ -6,7 +6,7 @@ desmos: true
 featured: true
 comments: true
 title: A Brief Intro to Desmos
-imagefeature: polarcurve.JPG
+imagefeature: parametriccurve.JPG
 description: >-
   In this post I offer a glimpse into the Desmos Graphing Calculator as I share
   some of my favorite Desmos features..
@@ -17,7 +17,6 @@ categories:
   - teaching
   - fun
 tags: Desmos
-modified: ''
 ---
 ## What is this calculator I've been hearing about?
 
@@ -302,6 +301,7 @@ calculator.setExpression({
       projectorMode: true
     });
   </script>
+
   
 The area of each rectangle is base $\times$ height or $x\cdot f(x)$, so we defined the area function $A(x)=x\cdot f(x)$. Drag the black point back and forth along the curve. You can view the actual area by looking at the expression in cell 2. To get the maximum area we can just look at the plot of $A(x)$. Click the circle to the left of $A(x)$ to un-hide the graph. Click on the graph of $A(x)$ and you will see some gray dots appear at points of interest (such as intercepts, points of intersection, or maximum values). Click the point on the top to see the maximum possible area of a rectangle under the curve.
 
