@@ -18,7 +18,7 @@ desmos: true
 
 Desmos is the graphing calculator I could only dream of having when I went through high school. It has a beautiful layout, it solves equations (numerically), it works with lists, and it can plot implicit functions and inequalities. It can be used for algebra, modeling, statistics, and even calculus. Best of all, it's freely available to use in a web browser or as a mobile app. How good do I think it is? Well, if you gave me the option of a \$100 TI calculator or the free Desmos app for my phone, I would certainly chose the Desmos app.
 
-The best way to learn Desmos is to go to [desmos.com](desmos.com) and try the calculator out. You'll be amazed at it's capabilities. There are plenty of tutorials to help you on your journey.
+The best way to learn Desmos is to go to [desmos.com](https://www.desmos.com/) and try the calculator out. You'll be amazed at it's capabilities. There are plenty of tutorials to help you on your journey.
 
 In this post I will highlight some of my favorite capabilities of Desmos with a minimal explanation. Throughout these examples, be sure to notice that calculator just begs for you to experiment and make changes as you go.
 
@@ -302,14 +302,9 @@ Note that the font and line width are larger in this example. That's because the
 
 ## Just the Tip of the Iceberg
 
-I hope these examples have given you some small appreciation of the features that make Desmos so much fun to use and so effective as a teaching tool. This post could go on for a considerable length describing the cool features of Desmos, but I will stop here and encourage you to go try it out for yourself. Once you have tried out the calculator you'll be ready to learn about [teacher.desmos.com](teacher.desmos.com) and the huge repository of activities that have been created and curated. 
+I hope these examples have given you some small appreciation of the features that make Desmos so much fun to use and so effective as a teaching tool. This post could go on for a considerable length describing the cool features of Desmos, but I will stop here and encourage you to go try it out for yourself. Once you have tried out the calculator you'll be ready to learn about [teacher.desmos.com](https://teacher.desmos.com/) and the huge repository of activities that have been created and curated. 
 
-
-
-
-
-
-Desmos is transforming the way that math is taught and experienced in the college classroom. 
+In my next post I plan describe how Desmos is transforming the way that math is taught and experienced in the college classroom. 
 
 
 
