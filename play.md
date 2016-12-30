@@ -210,6 +210,14 @@ If you scroll to the bottom of the expression list you will see a function $A(x)
 
 
 
+$'y_1\sim ax_1^2+bx_1+c$
+
+
+
+
+
+
+
 
 Desmos is transforming the way that math is taught and experienced in the college classroom. 
 
