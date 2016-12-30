@@ -240,7 +240,9 @@ calculator.setExpression({
 
 To get the curves we just notice that the points look like they fit a parabola, so we would guess that formula would be of the form $y=ax^2+bx+c$. Then we replace "$y$" with "$y_1$" and "$x$" with "$x_1$" so that Desmos will refer to the table to get its values. Finally we replace "$=$" with "$\sim$" so that Desmos knows you want to fit a curve approximation. That's where we get the code:
 
-$$y_1\sim ax_1^2+bx_1+c$$
+$$y_1\sim ax_1^2+bx_1+c$$.
+
+Try changing some of the values in the table to see what parabola gives the best approximation.
 
 ### Points of Interest
 
