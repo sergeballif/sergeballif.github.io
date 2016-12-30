@@ -10,15 +10,17 @@ published: true
 mathjax: true
 featured: false
 comments: true
-title: Desmos in the College Classroom
+title: What is Desmos?
 desmos: true
 ---
 
-## What is Desmos?
+## What is this calculator I've been hearing about?
 
-Desmos is the graphing calculator I could only dream of having when I went through high school. It has a beautiful layout, it solves equations (numerically), it works with lists, and it can plot implicit functions and inequalities. Best of all, it's freely available to use in a web browser or as a mobile app. How good do I think it is? Well, if you gave me the option of a $\$100$ TI calculator or the free Desmos app for my phone, I would certainly chose the Desmos app.
+Desmos is the graphing calculator I could only dream of having when I went through high school. It has a beautiful layout, it solves equations (numerically), it works with lists, and it can plot implicit functions and inequalities. It can be used for algebra, modeling, statistics, and even calculus. Best of all, it's freely available to use in a web browser or as a mobile app. How good do I think it is? Well, if you gave me the option of a \(\$100\) TI calculator or the free Desmos app for my phone, I would certainly chose the Desmos app.
 
-In this post I will highlight some of my favorite capabilities of Desmos. Throughout these examples, be sure to notice that calculator just begs for you to experiment and make changes as you go.
+The best way to learn Desmos is to go to [desmos.com](desmos.com) and try the calculator out. You'll be amazed at it's capabilities. There are plenty of tutorials to help you on your journey.
+
+In this post I will highlight some of my favorite capabilities of Desmos with a minimal explanation. Throughout these examples, be sure to notice that calculator just begs for you to experiment and make changes as you go.
 
 ## What Can the Desmos Calculator do?
 
@@ -292,14 +294,15 @@ calculator.setExpression({
     calculator.updateSettings({
       projectorMode: true
     });
-  calculator.udpateSettings({projectorMode: true});
   </script>
   
 The area of each rectangle is base $\times$ height or $x\cdot f(x)$, so we defined the area function $A(x)=x\cdot f(x)$. Drag the black point back and forth along the curve. You can view the actual area by looking at the expression in cell 2. To get the maximum area we can just look at the plot of $A(x)$. click the circle to the left of $A(x)$ to un-hide the graph. Click on the graph of $A(x)$ and you will see some gray dots appear at points of interest (such as intercepts, points of intersection, or maximum values). Click the point on the top to see the maximum possible area of a rectangle under the curve.
 
 Note that the font and line width are larger in this example. That's because the calculator is set to projector mode (using the wrench icon in the upper right corner).
 
+## Just the Tip of the Iceberg
 
+I hope these examples have given you some small appreciation of the features that make Desmos so much fun to use and so effective as a teaching tool. This post could go on for a considerable length describing the cool features of Desmos, but I will stop here and encourage you to go try it out for yourself. Once you have tried out the calculator you'll be ready to learn about [teacher.desmos.com](teacher.desmos.com) and the huge repository of activities that have been created and curated. 
 
 
 
