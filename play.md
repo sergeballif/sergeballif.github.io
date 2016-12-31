@@ -32,9 +32,13 @@ When our students leave college we want them to be fully equipped to handle the 
 
 
 
-The solution to a math problem has three components. (There are   
+The solution to a math problem typically has three components.  
 
-1. __The setup__ consists of reading and comprehending a problem (often through drawing a picture) and then translating the problem into a computation to perform or an algebraic expression to solve. Sometimes we have to introduce variables break a bigger problem into several sub-problems. By the end of this step we have transformed a paragraph
+1. __The Setup:__ This is the planning step. We take time to read and comprehend a problem and then translate the problem into a computation to perform or an algebraic expression to solve. Often we draw a picture to clarify the questoin or introduce variables for unknown quantities. Sometimes we will break a bigger problem into several sub-problems. By the end of this step we have transformed a paragraph of words into concrete math symbols and equations.
+2. __Solving:__ In this step we find the numerical answer to the question. Usually this involves some sort of algebraic manipulation and/or arithmetic calculation. 
+3. __Interpreting:__ The final part is where we write up the solution. A good interpretation will include units and an explanation of the conclusions reached along with any other information that was requested.
+
+
 
 
 <a href="javascript:showhide('answer1')">
