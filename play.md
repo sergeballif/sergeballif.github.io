@@ -23,7 +23,18 @@ desmos: true
 </script>
 
 
-In my previous post I shared some of my favorite features of the Desmos Graphing Calculator.
+In my previous post I shared some of my favorite features of the Desmos Graphing Calculator. In this post I want to share how Desmos is changing the way math is taught and experienced in the college classroom. 
+
+### The process of doing practical math.
+
+When our students leave college we want them to be fully equipped to handle the math that will come their way. For some students (such as STEM majors) the requirements are set high because of the larger role that data and models will play in their careers.  For other students the bar is set lower, but there are some common skills that all college graduates should have.
+
+
+
+
+The solution to a math problem has three components. (There are   
+
+1. __The setup__ consists of reading and comprehending a problem (often through drawing a picture) and then translating the problem into a computation to perform or an algebraic expression to solve. Sometimes we have to introduce variables break a bigger problem into several sub-problems. By the end of this step we have transformed a paragraph
 
 
 <a href="javascript:showhide('answer1')">
