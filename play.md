@@ -23,11 +23,15 @@ desmos: true
 </script>
 
 
-In my previous post I shared some of my favorite features of the Desmos Graphing Calculator. In this post I want to share how Desmos is changing the way math is taught and experienced in the college classroom. 
+In my [previous post](https://sergeballif.github.io/personal/math/teaching/fun/a-brief-intro-to-desmos) I shared some of my favorite features of the Desmos Graphing Calculator. In this post I want to share how Desmos is changing the way math is taught and experienced in the college classroom. 
 
 ### The process of doing practical math.
 
-When our students leave college we want them to be fully equipped to handle the math that will come their way. For some students (such as STEM majors) the requirements are set high because of the larger role that data and models will play in their careers.  For other students the bar is set lower, but there are some common skills that all college graduates should have.
+When our students leave college we want them to be fully equipped to handle the math that will come their way. For some students (such as STEM majors) the demands are higher because of the larger role that data and models will play in their careers.  For other students the bar is set lower, but there are some common skills that all college graduates should have. 
+
+* Students should have basic number sense along with the confidence to dive in and try problems.
+* Students should be able to accurately use numbers to describe situations including units and other vocabulary.
+* Students should be critical thinkers and moderately capable in the areas of consumer math and statistics.
 
 
 
