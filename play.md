@@ -31,7 +31,33 @@ In my previous post I shared some of my favorite features of the Desmos Graphing
 </a>
 
 <div id="answer1" style="display:none;">
-    <p>Here is the answer.</p>
+<p><div id="calculator20" style="width: 800px; height: 400px; margin: auto;"></div></p>
+  <script >
+    var elt = document.getElementById('calculator20');
+    var calculator = Desmos.Calculator(elt);
+
+calculator.setExpression({
+  type: 'table',
+  columns: [
+    {
+      latex: 'x',
+      values: ['1', '2', '3', '4', '5']
+    },
+    {
+      latex: 'y',
+      values: ['1', '4', '9', '16', '25'],
+      dragMode: Desmos.DragModes.XY
+    },
+    {
+      latex: 'x^2',
+      color: Desmos.Colors.BLUE,
+      columnMode: Desmos.ColumnModes.LINES
+    }
+  ]
+});
+  </script>
+
+
 </div>
 
 <p>More text here.</p>
