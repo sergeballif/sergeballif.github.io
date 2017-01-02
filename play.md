@@ -53,7 +53,7 @@ function toggleDiv(divId) {
     
     <p>The content in this div will hide and show (toggle) when the toggle is pressed.</p>
     
-    <p><div id="calculatorr" style="width: 800px; height: 400px; margin: auto;" style="display: block;"></div></p>
+    <p><div id="calculatorr" style="width: 800px; height: 400px; margin: auto;" style="display: inline;"></div></p>
 
 <script>
     var elt = document.getElementById('calculatorr');
