@@ -15,14 +15,6 @@ desmos: true
 ---
 
 
-<script type="text/javascript">
- function showhide(id) {
-    var e = document.getElementById(id);
-    e.style.display = (e.style.display == 'block') ? 'none' : 'block';
- }
-</script>
-
-
 In my [previous post](https://sergeballif.github.io/personal/math/teaching/fun/a-brief-intro-to-desmos) I shared some of my favorite features of the Desmos Graphing Calculator. In this post I want to share how Desmos is changing the way math is taught and experienced in the college classroom. 
 
 ### Math for our day
@@ -48,38 +40,7 @@ The solution to a math problem typically has three components.
 
 
 
-<a href="javascript:showhide('answer1')">
-    Click to show/hide.
-</a>
 
-<div id="answer1" style="display:none;">
-<p>Hmm.</p>
-
-<p><div id="calculator20" style="width: 800px; height: 400px; margin: auto;"></div></p>
-  <script >
-    var elt = document.getElementById('calculator20');
-    var calculator = Desmos.Calculator(elt);
-
-calculator.setExpression({
-  type: 'table',
-  columns: [
-    {
-      latex: 'x',
-      values: ['1', '2', '3', '4', '5']
-    },
-    {
-      latex: 'y',
-      values: ['1', '4', '9', '16', '25'],
-      dragMode: Desmos.DragModes.XY
-    },
-    {
-      latex: 'x^2',
-      color: Desmos.Colors.BLUE,
-      columnMode: Desmos.ColumnModes.LINES
-    }
-  ]
-});
-  </script>
 
 
 </div>
