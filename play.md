@@ -14,7 +14,7 @@ title: What is Desmos?
 desmos: true
 ---
 
-# Leapfrogging Step 2: How Desmos is Changing College Math
+# Leapfrogging Step 2 - How Desmos is Changing College Math
 
 
 In my [previous post](https://sergeballif.github.io/personal/math/teaching/fun/a-brief-intro-to-desmos) I shared some of my favorite features of the Desmos Graphing Calculator. In this post I want to share how Desmos is changing the way math is taught and experienced in the college classroom. 
@@ -42,7 +42,7 @@ __Step 1: The Setup__
 __Step 2: Solving__ 
 : In this step we find the numerical answer to the question. Usually this involves some sort of algebraic manipulation and/or arithmetic calculation. Often we complete a procedure of steps that we have memorized.
 
-__Step 3: Interpreting:__ 
+__Step 3: Interpreting__ 
 : The final part is where we write up the solution. A good interpretation will include units and an explanation of the conclusions reached along with any other information that was requested.
 </p>
 
@@ -56,7 +56,9 @@ In high school I carried my trusty my trusty TI-85 graphing calculator around in
 
 [Wolfram Alpha](http://www.wolframalpha.com/) is a computational search engine. It will solve equations, plot graphs, and carry out numberic or algebraic computations. It will even let you search terms like "population of China" or "crime Salt Lake City" and give nice graphs of historical data. It's an amazing tool that I use at least once per week. It does have some downsides as well. You have to pay money to get access to any of the steps in the solving process. It can also be difficult to get it to understand what question you are asking. (It used to execute Mathematica code, so you could always look up the proper syntax.) My impression is that Wolfram Alpha often comes across as this magical black box where you type in a question and get out an answer. Instead of empowering students it sometimes creates a distance between the math and the student. 
 
-The Desmos graphing calculator provides most of the same magic as Wolfram Alpha, but it does so in a much more interactive and empowering way. Students plot their curves in real-time and discover the solutions for themselves. My recent post
+The Desmos graphing calculator provides most of the same magic as Wolfram Alpha, but it does so in a much more interactive and empowering way. Students plot their curves in real-time and discover the solutions for themselves. I find Desmos to be empowering and rewarding in a way that a magical, black-box, correct-answer-generator could never be. 
+
+I wrote previously about my favorite Desmos features.
 
 
 
@@ -70,7 +72,6 @@ At Nevada State College all of the non-STEM students complete our Intro to Colle
 
 
 
- 
 
 
 
