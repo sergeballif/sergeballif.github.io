@@ -35,27 +35,41 @@ In his recent article ([All the mathematical methods I learned in my university 
 
 The solution to a math problem typically has three components.  
 
+<p>
 __Step 1: The Setup__ 
 : This is the planning step. We take time to read and comprehend a problem and then translate the problem into a computation to perform or an algebraic expression to solve. Often we draw a picture to clarify the question or introduce variables for unknown quantities. Sometimes we will break a bigger problem into several sub-problems. By the end of this step we have transformed a paragraph of words into concrete math symbols and equations.
 
-__Step 2: Solving:__ 
+__Step 2: Solving__ 
 : In this step we find the numerical answer to the question. Usually this involves some sort of algebraic manipulation and/or arithmetic calculation. Often we complete a procedure of steps that we have memorized.
 
 __Step 3: Interpreting:__ 
 : The final part is where we write up the solution. A good interpretation will include units and an explanation of the conclusions reached along with any other information that was requested.
+</p>
 
 All three steps are critical to doing meaningful math. In the past we devoted most of our time and energy to the solving Step 2 while fitting in the other steps when time permitted. Today however solving is the one step that computers can do nearly instantaneously for us. Keith Devlin described the focus of math today:
 
 >What is required today is a sufficiently deep understanding of all those procedures, and the underlying concepts they are built on, in order to know when, and how, to use those digitally-implemented tools effectively, productively, and safely.
 
-At Nevada State College all of the non-STEM students complete our Intro to College Math course. Just a few years ago that course spent 80% of its time on the solving step 2. 
-
-
 ### What tools fit best?
 
-In high school I carried my trusty my trusty TI-85 graphing calculator around in my pocket everywhere I went. It was an amazing tool that offered me some great opportunities to explore math questions. Twenty years later TI calculators have nearly the same set of features and the cost hasn't gone down. Mobile app calculators for 
+In high school I carried my trusty my trusty TI-85 graphing calculator around in my pocket everywhere I went. It was an amazing tool that offered me some great opportunities to explore math questions. Now, twenty years later, TI calculators have nearly the same set of features and the cost hasn't gone down. Free mobile app calculators can easily outperform today's TI calculators. TI hasn't improved the calculators because standardized tests won't allow more powerful calculators. TI has a captive audience of students who don't have a choice to use more modern tools. College is not the place to perpetuate outdated and expensive tools.
 
-[Wolfram Alpha](http://www.wolframalpha.com/) is a computational search engine.
+[Wolfram Alpha](http://www.wolframalpha.com/) is a computational search engine. It will solve equations, plot graphs, and carry out numberic or algebraic computations. It will even let you search terms like "population of China" or "crime Salt Lake City" and give nice graphs of historical data. It's an amazing tool that I use at least once per week. It does have some downsides as well. You have to pay money to get access to any of the steps in the solving process. It can also be difficult to get it to understand what question you are asking. (It used to execute Mathematica code, so you could always look up the proper syntax.) My impression is that Wolfram Alpha often comes across as this magical black box where you type in a question and get out an answer. Instead of empowering students it sometimes creates a distance between the math and the student. 
+
+The Desmos graphing calculator provides most of the same magic as Wolfram Alpha, but it does so in a much more interactive and empowering way. Students plot their curves in real-time and discover the solutions for themselves. My recent post
+
+
+
+
+
+At Nevada State College all of the non-STEM students complete our Intro to College Math course. Just a few years ago that course spent 80% of its time on the step 2. Students consistently rated the course poorly and felt that that the material was irrelevant. They were correct in their assessment. It was time to make a change. We knew that most of these students would have only a single college level math course and that many had never had a positive math experience in their entire education up to that point. We redesigned the course from the ground up with the goal of giving them that one good math experience. 
+
+* If we couldn't answer the question "When am I ever gonna use this?" then the question didn't belong in our course.
+* If they could use the tool in the real world, then they could use the tool in the course. (They could use a calculator or even Wolfram Alpha, but not their friend.)
+* Focus on interpretation and communication of ideas. Group work played a big role, and the class culminated in a project  that required a portfolio and video presentation.
+
+
+
  
 
 
