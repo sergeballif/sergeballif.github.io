@@ -101,10 +101,10 @@ function toggleDiv(divId) {
     
     <p>The content in this div will hide and show (toggle) when the toggle is pressed.</p>
     
-    <p><div id="calculator" style="width: 800px; height: 400px; margin: auto;"></div></p>
+    <p><div id="calculatorr" style="width: 800px; height: 400px; margin: auto;"></div></p>
 
 <script>
-    var elt = document.getElementById('calculator');
+    var elt = document.getElementById('calculatorr');
     var calculator = Desmos.Calculator(elt);
     calculator.setExpression({id:'graph1', latex:'y=x^2'});
     
