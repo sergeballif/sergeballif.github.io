@@ -53,7 +53,7 @@ The solution to a math problem typically has three components.
 </a>
 
 <div id="answer1" style="display:none;">
-Hmm.
+<p>Hmm.</p>
 
 <p><div id="calculator20" style="width: 800px; height: 400px; margin: auto;"></div></p>
   <script >
