@@ -14,6 +14,8 @@ title: What is Desmos?
 desmos: true
 ---
 
+# Leapfrogging Step 2: How Desmos is Changing College Math
+
 
 In my [previous post](https://sergeballif.github.io/personal/math/teaching/fun/a-brief-intro-to-desmos) I shared some of my favorite features of the Desmos Graphing Calculator. In this post I want to share how Desmos is changing the way math is taught and experienced in the college classroom. 
 
@@ -27,56 +29,46 @@ When our students leave college we want them to be fully equipped to handle the 
 
 If a college graduate hasn't obtained those skills by the time they graduate, then both the school and that student have failed in a key area. This low bar applies regardless of the major.
 
-In his recent article [All the mathematical methods I learned in my university math degree became obsolete in my lifetime](http://www.huffingtonpost.com/entry/all-the-mathematical-methods-i-learned-in-my-university_us_58693ef9e4b014e7c72ee248?timestamp=1483293018441) Keith Devlin describes the math skills needed for today's students in contrast to the skills needed 30 years ago. The ability to carry out procedures and computations is no longer the focus because computers can easily do it for us. Instead we focus more on conceptual understanding, exploiting the tools to solve problems, and creating more meaningful discussions of results.
+In his recent article ([All the mathematical methods I learned in my university math degree became obsolete in my lifetime](http://www.huffingtonpost.com/entry/all-the-mathematical-methods-i-learned-in-my-university_us_58693ef9e4b014e7c72ee248?timestamp=1483293018441)) Keith Devlin describes the math skills needed for today's students in contrast to the skills needed 30 years ago. The ability to carry out procedures and computations is no longer the focus because computers can easily do it for us. Instead we focus more on conceptual understanding, exploiting the tools to solve problems, and creating more meaningful discussions of results. This post will lay out some specific examples to show how math teaching is changing.
 
 ### The process of doing practical math
 
 The solution to a math problem typically has three components.  
 
-1. __The Setup:__ This is the planning step. We take time to read and comprehend a problem and then translate the problem into a computation to perform or an algebraic expression to solve. Often we draw a picture to clarify the question or introduce variables for unknown quantities. Sometimes we will break a bigger problem into several sub-problems. By the end of this step we have transformed a paragraph of words into concrete math symbols and equations.
-2. __Solving:__ In this step we find the numerical answer to the question. Usually this involves some sort of algebraic manipulation and/or arithmetic calculation. Often we complete a procedure of steps that we have memorized.
-3. __Interpreting:__ The final part is where we write up the solution. A good interpretation will include units and an explanation of the conclusions reached along with any other information that was requested.
+__Step 1: The Setup__ 
+: This is the planning step. We take time to read and comprehend a problem and then translate the problem into a computation to perform or an algebraic expression to solve. Often we draw a picture to clarify the question or introduce variables for unknown quantities. Sometimes we will break a bigger problem into several sub-problems. By the end of this step we have transformed a paragraph of words into concrete math symbols and equations.
+__Step 2: Solving:__ 
+: In this step we find the numerical answer to the question. Usually this involves some sort of algebraic manipulation and/or arithmetic calculation. Often we complete a procedure of steps that we have memorized.
 
+__Step 3: Interpreting:__ 
+The final part is where we write up the solution. A good interpretation will include units and an explanation of the conclusions reached along with any other information that was requested.
+
+All three steps are critical to doing meaningful math. In the past we devoted most of our time and energy to the solving Step 2 while fitting in the other steps when time permitted. Today however solving is the one step that computers can do nearly instantaneously for us. Keith Devlin described the focus of math today:
+
+>What is required today is a sufficiently deep understanding of all those procedures, and the underlying concepts they are built on, in order to know when, and how, to use those digitally-implemented tools effectively, productively, and safely.
+
+At Nevada State College all of the non-STEM students complete our Intro to College Math course. Just a few years ago that course spent 80% of its time on the solving step 2. 
+
+
+### What tools fit best?
+
+In high school I carried my trusty my trusty TI-85 graphing calculator around in my pocket everywhere I went. It was an amazing tool that offered me some great opportunities to explore math questions. Twenty years later TI calculators have nearly the same set of features and the cost hasn't gone down. Mobile app calculators for 
+
+[Wolfram Alpha](http://www.wolframalpha.com/) is a computational search engine.
  
 
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<script type="text/javascript">
-function toggleDiv(divId) {
-   $("#"+divId).toggle();
-}
-</script>
 
 
-<a href="javascript:toggleDiv('myContent');" style="background-color: #ccc; padding: 5px 10px;">Toggle Button</a>
-<div id="myContent" style="background-color: #aaa; padding: 5px 10px;" style="display: none;">
-    
-    <p>The content in this div will hide and show (toggle) when the toggle is pressed.</p>
-    
-    <p><div id="calculatorr" style="width: 800px; height: 400px; margin: auto;" style="display: inline;"></div></p>
 
-<script>
-    var elt = document.getElementById('calculatorr');
-    var calculator = Desmos.Calculator(elt);
-    calculator.setExpression({id:'graph1', latex:'y=x^2'});
-    
-    calculator.setExpression({
-  id: '2',
-  latex: 'y=ax^2',
-  color: '#662225'
-});
-</script>
-</div>
+
+### Activity Builder
 
 
 
 
 
-
-
-
-
-## What is this calculator I've been hearing about?
+### 
 
 Desmos is the graphing calculator I could only dream of having when I went through high school. It has a beautiful layout, it solves equations (numerically), it works with lists, and it can plot implicit functions and inequalities. It can be used for algebra, modeling, statistics, and even calculus. Best of all, it's freely available to use in a web browser or as a mobile app. How good do I think it is? Well, if somebody gave me a free TI graphing calculator I would just sell it on EBay or give it away, because the Desmos app on my phone is superior. The contest isn't even close.
 
