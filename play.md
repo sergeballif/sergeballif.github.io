@@ -30,10 +30,10 @@ In my [previous post](https://sergeballif.github.io/personal/math/teaching/fun/a
 When our students leave college we want them to be fully equipped to handle the math that will come their way. For some students (such as STEM majors) the demands are higher because of the larger role that data and models will play in their careers.  For other students the bar is set lower, but there are some common skills that all college graduates should have. 
 
 * Students should have basic number sense along with the confidence to dive in and try problems.
-* Students should be able to accurately use numbers to describe situations including units and other vocabulary.
-* Students should be critical thinkers and moderately capable in the areas of consumer math and statistics.
+* Students should be able to accurately use numbers (including units and other appropriate vocabulary) to describe situations and problems.
+* Students should be critical thinkers and have at least moderate capabilities in the areas of consumer math and statistics.
 
-If a college graduate hasn't obtained those skills by the time they graduate, then both the school and that student have failed. This low bar applies regardless of the major.
+If a college graduate hasn't obtained those skills by the time they graduate, then both the school and that student have failed in a key area. This low bar applies regardless of the major.
 
 In a recent article [All the mathematical methods I learned in my university math degree became obsolete in my lifetime](http://www.huffingtonpost.com/entry/all-the-mathematical-methods-i-learned-in-my-university_us_58693ef9e4b014e7c72ee248?timestamp=1483293018441) Keith Devlin describes the math skills needed for today's students in contrast to the skills needed 30 years ago. The ability to carry out procedures and computations is no longer the focus because computers can easily do it for us. Instead we focus more on conceptual understanding and exploiting the tools to solve problems.
 
