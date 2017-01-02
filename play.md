@@ -88,6 +88,38 @@ calculator.setExpression({
  
 
 
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript">
+function toggleDiv(divId) {
+   $("#"+divId).toggle();
+}
+</script>
+
+
+<a href="javascript:toggleDiv('myContent');" style="background-color: #ccc; padding: 5px 10px;">Toggle Button</a>
+<div id="myContent" style="background-color: #aaa; padding: 5px 10px;">
+    The content in this div will hide and show (toggle) when the toggle is pressed.
+    
+    <p><div id="calculator" style="width: 800px; height: 400px; margin: auto;"></div></p>
+
+<script>
+    var elt = document.getElementById('calculator');
+    var calculator = Desmos.Calculator(elt);
+    calculator.setExpression({id:'graph1', latex:'y=x^2'});
+    
+    calculator.setExpression({
+  id: '2',
+  latex: 'y=ax^2',
+  color: '#662225'
+});
+</script>
+</div>
+
+
+
+
+
+
 
 
 
