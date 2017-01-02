@@ -33,12 +33,13 @@ When our students leave college we want them to be fully equipped to handle the 
 * Students should be able to accurately use numbers to describe situations including units and other vocabulary.
 * Students should be critical thinkers and moderately capable in the areas of consumer math and statistics.
 
+If a college graduate hasn't obtained those skills by the time they graduate, then both the school and that student have failed. This low bar applies regardless of the major.
 
-
+In a recent article [All the mathematical methods I learned in my university math degree became obsolete in my lifetime](http://www.huffingtonpost.com/entry/all-the-mathematical-methods-i-learned-in-my-university_us_58693ef9e4b014e7c72ee248?timestamp=1483293018441) Keith Devlin describes the math skills needed for today's students in contrast to the skills needed 30 years ago. The ability to carry out procedures and computations is no longer the focus because computers can easily do it for us. Instead we focus more on conceptual understanding and exploiting the tools to solve problems.
 
 The solution to a math problem typically has three components.  
 
-1. __The Setup:__ This is the planning step. We take time to read and comprehend a problem and then translate the problem into a computation to perform or an algebraic expression to solve. Often we draw a picture to clarify the questoin or introduce variables for unknown quantities. Sometimes we will break a bigger problem into several sub-problems. By the end of this step we have transformed a paragraph of words into concrete math symbols and equations.
+1. __The Setup:__ This is the planning step. We take time to read and comprehend a problem and then translate the problem into a computation to perform or an algebraic expression to solve. Often we draw a picture to clarify the question or introduce variables for unknown quantities. Sometimes we will break a bigger problem into several sub-problems. By the end of this step we have transformed a paragraph of words into concrete math symbols and equations.
 2. __Solving:__ In this step we find the numerical answer to the question. Usually this involves some sort of algebraic manipulation and/or arithmetic calculation. 
 3. __Interpreting:__ The final part is where we write up the solution. A good interpretation will include units and an explanation of the conclusions reached along with any other information that was requested.
 
