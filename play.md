@@ -37,15 +37,6 @@ The solution to a math problem typically has three components.
 2. __Solving:__ In this step we find the numerical answer to the question. Usually this involves some sort of algebraic manipulation and/or arithmetic calculation. Often we complete a procedure of steps that we have memorized.
 3. __Interpreting:__ The final part is where we write up the solution. A good interpretation will include units and an explanation of the conclusions reached along with any other information that was requested.
 
-
-
-
-
-
-
-</div>
-
-<p>More text here.</p>
  
 
 
