@@ -97,8 +97,9 @@ function toggleDiv(divId) {
 
 
 <a href="javascript:toggleDiv('myContent');" style="background-color: #ccc; padding: 5px 10px;">Toggle Button</a>
-<div id="myContent" style="background-color: #aaa; padding: 5px 10px;">
-    The content in this div will hide and show (toggle) when the toggle is pressed.
+<div id="myContent" style="background-color: #aaa; padding: 5px 10px;" style="display: none;">
+    
+    <p>The content in this div will hide and show (toggle) when the toggle is pressed.</p>
     
     <p><div id="calculator" style="width: 800px; height: 400px; margin: auto;"></div></p>
 
