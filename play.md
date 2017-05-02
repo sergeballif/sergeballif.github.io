@@ -35,6 +35,7 @@ In his recent article ([All the mathematical methods I learned in my university 
 
 The solution to a math problem typically has three components.  
 
+<p>
 <b>Step 1: The Setup</b>: This is the planning step. We take time to read and comprehend a problem and then translate the problem into a computation to perform or an algebraic expression to solve. Often we draw a picture to clarify the question or introduce variables for unknown quantities. Sometimes we will break a bigger problem into several sub-problems. By the end of this step we have transformed a paragraph of words into concrete math symbols and equations.
 
 <b>Step 2: Solving</b>: 
@@ -42,6 +43,7 @@ The solution to a math problem typically has three components.
 
 <b>Step 3: Interpreting</b>: 
 : The final part is where we write up the solution. A good interpretation will include units and an explanation of the conclusions reached along with any other information that was requested.
+</p>
 
 All three steps are critical to doing meaningful math. In the past we devoted most of our time and energy to the solving Step 2 while fitting in the other steps when time permitted. Today however Step 2 is the one step that computers can do nearly instantaneously for us.  Keith Devlin described the focus of math today:
 
