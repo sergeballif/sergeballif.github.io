@@ -37,10 +37,14 @@ The solution to a math problem typically has three components.
 
 <p>
 <b>Step 1: The Setup</b>: This is the planning step. We take time to read and comprehend a problem and then translate the problem into a computation to perform or an algebraic expression to solve. Often we draw a picture to clarify the question or introduce variables for unknown quantities. Sometimes we will break a bigger problem into several sub-problems. By the end of this step we have transformed a paragraph of words into concrete math symbols and equations.
+</p>
 
+<p>
 <b>Step 2: Solving</b>: 
 : In this step we find the numerical answer to the question. Usually this involves some sort of algebraic manipulation and/or arithmetic calculation. Often we complete a procedure of steps that we have memorized.
+</p>
 
+<p>
 <b>Step 3: Interpreting</b>: 
 : The final part is where we write up the solution. A good interpretation will include units and an explanation of the conclusions reached along with any other information that was requested.
 </p>
