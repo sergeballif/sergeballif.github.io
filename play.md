@@ -46,9 +46,11 @@ __Step 3: Interpreting__
 : The final part is where we write up the solution. A good interpretation will include units and an explanation of the conclusions reached along with any other information that was requested.
 </p>
 
-All three steps are critical to doing meaningful math. In the past we devoted most of our time and energy to the solving Step 2 while fitting in the other steps when time permitted. Today however solving is the one step that computers can do nearly instantaneously for us. Keith Devlin described the focus of math today:
+All three steps are critical to doing meaningful math. In the past we devoted most of our time and energy to the solving Step 2 while fitting in the other steps when time permitted. Today however Step 2 is the one step that computers can do nearly instantaneously for us.  Keith Devlin described the focus of math today:
 
 >What is required today is a sufficiently deep understanding of all those procedures, and the underlying concepts they are built on, in order to know when, and how, to use those digitally-implemented tools effectively, productively, and safely.
+
+Desmos makes Step 2 easy and allows us to focus on Steps 1 and 3. Math class is much more meaningful and applicable when we can devote time to the setup and interpretation steps. 
 
 ### What tools fit best?
 
