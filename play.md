@@ -10,12 +10,9 @@ published: true
 mathjax: true
 featured: false
 comments: true
-title: What is Desmos?
+title: Leapfrogging Step 2 - How Desmos is Changing College Math
 desmos: true
 ---
-
-# Leapfrogging Step 2 - How Desmos is Changing College Math
-
 
 In my [previous post](https://sergeballif.github.io/personal/math/teaching/fun/a-brief-intro-to-desmos) I shared some of my favorite features of the Desmos Graphing Calculator. In this post I want to share how Desmos is changing the way math is taught and experienced in the college classroom. 
 
