@@ -35,9 +35,9 @@ In his recent article ([All the mathematical methods I learned in my university 
 
 The solution to a math problem typically has three components.  
 
-* __Step 1: The Setup___ This is the planning step. We take time to read and comprehend a problem and then translate the problem into a computation to perform or an algebraic expression to solve. Often we draw a picture to clarify the question or introduce variables for unknown quantities. Sometimes we will break a bigger problem into several sub-problems. By the end of this step we have transformed a paragraph of words into concrete math symbols and equations.
-* __Step 2: Solving__  In this step we find the numerical answer to the question. Usually this involves some sort of algebraic manipulation and/or arithmetic calculation. Often we complete a procedure of steps that we have memorized.
-* __Step 3: Interpreting__ The final part is where we write up the solution. A good interpretation will include units and an explanation of the conclusions reached along with any other information that was requested.
+* __Step 1: The Setup:__ This is the planning step. We take time to read and comprehend a problem and then translate the problem into a computation to perform or an algebraic expression to solve. Often we draw a picture to clarify the question or introduce variables for unknown quantities. Sometimes we will break a bigger problem into several sub-problems. By the end of this step we have transformed a paragraph of words into concrete math symbols and equations.
+* __Step 2: Solving:__  In this step we find the numerical answer to the question. Usually this involves some sort of algebraic manipulation and/or arithmetic calculation. Often we complete a procedure of steps that we have memorized.
+* __Step 3: Interpreting:__ The final part is where we write up the solution. A good interpretation will include units and an explanation of the conclusions reached along with any other information that was requested.
 
 
 All three steps are critical to doing meaningful math. In the past we devoted most of our time and energy to Step 2 while fitting in the other steps when time permitted. Today however Step 2 is the one step that computers can do nearly instantaneously for us.  Keith Devlin described the focus of math today:
