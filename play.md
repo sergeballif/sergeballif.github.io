@@ -77,7 +77,15 @@ The course covers three topics.
 
 We could never cover so many topics in a reasonable manner without having Desmos to rely on. Remember the typical student in this course is likely to have a strong math aversion, but we were able to expand the content and expectations in the course while increasing student satisfaction. 
 
+#### Elementary Algebra
 
+As part of our efforts to help students get through their college level math courses as early as possible we built a 1-credit remedial Elementary Algebra course on top of our 3-credit Intro to College Math course (essentially replacing a 3-credit remedial course that took an extra semester with a 1-credit remedial course taken concurrently with a college level course). This course has 50% of the grade taken from EdReady (an online adaptive learning program that the state of Nevada Higher Ed system invested in, that takes place outside of class time) and 50% of the grade from completion of Desmos activities. The class meet every Friday in a computer lab so that all students are able to complete the activities on a desktop computer during class. Read a summary post on this course and its activities [here](https://sergeballif.github.io/math/teaching/a-desmos-activity-based-course).
+
+### The Future
+
+Desmos offers all the advantages of a traditional calculator with very few downsides. Desmos is an ideal tool for the college classroom. Few of us carry a graphing calculator with us wherever we go, but Desmos is only a few clicks away.  In my past six semesters I have not encountered a single college student who doesn't have access to a laptop, tablet, or smart phone (though these devices could be checked out from the library if needed). 
+
+The focus of math education is changing to a more productive, applicable math. Strong computational skills and number sense will always important, but if you had to choose between a citizen who can interpret and evaluate data and models and a citizen who can calculate accurately and quickly, then you have an easy choice. I believe Desmos is the tool to help us make math meaningful and useful to our students and their future. 
 
 
 
