@@ -57,7 +57,11 @@ I wrote previously about my [favorite Desmos features](https://sergeballif.githu
 
 Many of our classes are built to be non-calculator classes. Perhaps a calculator is used for homework or to investigate ideas during class, while the quizzes and exams use no calculator. On such a test a calculator-ready answer is a good final answer. In these classes Desmos plays a small, but not insignificant, role in helping students explore and learn the material. We might use a few select Desmos activities, but the typical college schedule doesn't allow for as much exploration as a high school course might.
 
-We have structured two of our courses entirely around Desmos. I will describe those courses in some detail.
+I have used Desmos to partially flip my calculus class. Students work through preview activities prior to coming to class so that we can focus more class time on practicing. The Desmos activity builder lets me make a custom assignment for any occasion.
+
+Desmos even lets students take on the role of teacher. I sometimes assign my students in my upper level courses to create a lesson using the Desmos Activity Builder to teach a principle from the course.
+
+Our biggest use of Desmos is in the two courses that we have structured entirely around Desmos. I will describe those courses in some detail.
 
 #### Intro to College Math
 
