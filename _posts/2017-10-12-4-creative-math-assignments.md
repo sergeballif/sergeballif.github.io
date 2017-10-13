@@ -7,7 +7,7 @@ mathjax: true
 desmos: false
 featured: false
 comments: true
-title: 4 Creative Math Assignments
+title: 5 Creative Math Assignments
 ---
 ## 4 Creative Math Assignments
 
@@ -20,3 +20,5 @@ Turn students into teachers.
 ## Method Flowchart
 
 ## Topic Resume
+
+## Create a Desmos Lesson
