@@ -24,15 +24,18 @@ Turn students into teachers.
 A pocketmod is a little booklet made out of a single page that has been cut and folded. Teachers can use a pocketmod to create review sheets or worksheets. Students can create their own pocketmod study guides. 
 
 The sample below is a pocketmod worksheet that my wife uses to accompany one of her [Science Mom videos](https://www.youtube.com/watch?v=IsvHQon2IqQ "Science Mom's Guide to Water Part 1"). 
+
 <a href="https://sergeballif.github.io/images/science-mom-guidepocketmod.pdf" target="_blank">
 <img src="https://sergeballif.github.io/images/science-mom-guidepocketmod.png" alt="A teacher guide consisting of 8 mini pages" style="max-width:400px;">
 </a>
 
 Below is a review sheet I made as a sample for my students to show them how to create a pocketmod.
+
 <a href="https://sergeballif.github.io/images/derivatives-pocketmod.pdf" target="_blank">
 <img src="https://sergeballif.github.io/images/derivatives-pocketmod.png" alt="A derivative review consisting of 8 mini pages" style="max-width:400px;">
 </a>  
 
+Pocketmods can be handwritten. More advanced students can type them up. Feel free to clone [the project here](https://www.overleaf.com/read/mnjkcbfvfjdp) to take advantage of an existing template.
 
 ## Method Flowchart
 
