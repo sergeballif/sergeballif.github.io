@@ -7,9 +7,9 @@ mathjax: true
 desmos: false
 featured: false
 comments: true
-title: 5 Creative Math Assignments
+title: 5 creative math assignments that turn students into teachers
 ---
-## 4 Creative Math Assignments
+## 5 Creative Math Assignments
 
 Turn students into teachers.
 
