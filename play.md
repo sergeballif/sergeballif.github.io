@@ -16,7 +16,9 @@ desmos: true
 
 In my [previous post](https://sergeballif.github.io/personal/math/teaching/fun/a-brief-intro-to-desmos) I shared some of my favorite features of the Desmos Graphing Calculator. In this post I want to share how Desmos is changing the way math is taught and experienced in the college classroom. 
 
+<a href="https://sergeballif.github.io/images/science-mom-guidepocketmod.pdf">
 <img src="https://sergeballif.github.io/images/science-mom-guidepocketmod.png" alt="A teacher guide consisting of 8 pages" style="max-width:304px;">
+</a>
 
 ### Math for our day
 
