@@ -10,18 +10,18 @@ published: true
 mathjax: true
 featured: false
 comments: true
-title: Leapfrogging Step 2 - How Desmos is Changing College Math
+title: 5 unconventional assignments that turn students into teachers
 desmos: true
 ---
 
-## 5 Creative Math Assignments
+## Students need to be teachers.
 
 Turn students into teachers.
 
 ## Texting Lesson
 
 ## Pocketmod Summary
-A pocketmod is a little booklet made out of a single page that has been cut and folded. Teachers can use a pocketmod to create review sheets or worksheets. Students can create their own pocketmod study guides. 
+A pocketmod is a little booklet made out of a single page that has been cut and folded. Teachers can use a pocketmod to create review sheets or worksheets. Students can create their own pocketmod study guides. Imagine the effort students would pour into creating one of these if they were allowed to use their notes on the exam.
 
 The sample below is a pocketmod worksheet that my wife uses to accompany one of her [Science Mom videos](https://www.youtube.com/watch?v=IsvHQon2IqQ "Science Mom's Guide to Water Part 1"). 
 
