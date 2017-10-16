@@ -43,7 +43,7 @@ Pocketmods can be handwritten. More advanced students can type them up. Feel fre
 Resumes are a great way to introduce get a quick feel for a person. This assignment requires students to create a resume for an idea or a course. It takes a great deal of thought and care to craft a good resume. The example below is a sample resume I created for inverse functions.
 
 <a href="https://sergeballif.github.io/images/resume-assignment.pdf" target="_blank">
-<img src="https://sergeballif.github.io/images/resume-assignment.png" alt="A resume for inverse functions" style="max-width:100%;">
+<img src="https://sergeballif.github.io/images/resume-assignment.png" alt="A resume for inverse functions" style="max-width:100%;border: #000000 1px solid;">
 </a>  
 
 I have never actually used this assignment, but I think it would make a good final project. You can clone [the project here](https://www.overleaf.com/read/tjdyzhdtjxws) to use the same template.
