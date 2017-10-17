@@ -67,11 +67,13 @@ Resumes are a standard way to introduce and get a quick feel for a person. This 
 <img src="https://sergeballif.github.io/images/resume-assignment.png" alt="A resume for inverse functions" style="max-width:100%;border: #000000 1px solid;">
 </a>  
 
-I have never actually used this assignment, but I think it would make a good final project. You can clone [the project here](https://www.overleaf.com/read/tjdyzhdtjxws) to use the same template.
+I have never actually used this assignment; I just haven't found the right opportunity. However, I think it could make a good final project. You can clone [the project here](https://www.overleaf.com/read/tjdyzhdtjxws) to use the same template.
 
 ## Create a Desmos Lesson
 
-In many of my courses I require students to create a lesson using Desmos. They create an account at [teacher.desmos.com](https://teacher.desoms.com) and make their own lesson. By this point in the course they have been exposed to many Desmos activities, so they can identify what makes a strong and exciting lesson and what does not. Overall I have been a little disappointed with the quality of the lessons, but students seem to perform well on the topics they choose to teach.
+In many of my courses I require students to create a lesson using Desmos. They create an account at [teacher.desmos.com](https://teacher.desoms.com) and make their own lesson. By this point in the course they have been exposed to many Desmos activities, so they can identify what makes a strong and exciting lesson and what does not. Overall I have been a little disappointed with the quality of the lessons, but students seem to perform well on the topics they choose to teach. 
+
+Below you can see my instruction page for this assignment in my calculus class.
 
 <a href="https://sergeballif.github.io/images/math181miniproject6.pdf" target="_blank">
 <img src="https://sergeballif.github.io/images/math181miniproject6.png" alt="Instructions on how to complete a project involving creating a Desmos teaching activity." style="max-width:100%;border: #000000 1px solid;">
