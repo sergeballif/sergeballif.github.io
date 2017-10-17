@@ -16,14 +16,32 @@ desmos: true
 
 ## Students need to be teachers.
 
-Turn students into teachers.
+I'm of the strong opinion that nobody has mastered an idea that they can't explain and communicate to others. It's important to give students the opportunity to take on the role of hte teacher. I'm a big fan of group work and interactions. I want to see students discussing ideas and explaining concepts to each other. 
+
+In this post I am sharing some ideas for more formal assignments or projects that take students and place them on the other side of the desk. These assignments can be used for students at all levels, though they seem particularly well suited to strong students. Uses include
+
+* projects
+* exam replacements
+* study guides
+* notes to use on the actual exam
+* extra credit
 
 ## Texting Lesson
+One of my most popular teaching assignments has been to require students to stage a tutoring session via text-message.
+
+<a href="https://sergeballif.github.io/images/text-message-calculus.pdf" target="_blank">
+<img src="https://sergeballif.github.io/images/text-message-calculus.png" alt="a text message conversation of a tutoring session" style="max-width:100%;border: #000000 1px solid;">
+</a> 
+
+(This particular page is from a calculus book that I started writing. I don't know if it will ever be completed. I keep vacillating between thinking that the idea of _Text Message Calculus_ is brilliant and thinking that nobody would ever read it.)
+
+You can access the code for the project [here](https://www.overleaf.com/read/swrbcqnfwxqp). You will need to clone the project to be able to edit it. 
+
 
 ## Pocketmod Summary
 A pocketmod is a little booklet made out of a single page that has been cut and folded. 
 
-<img src="https://sergeballif.github.io/images/foldinginstructions.png" alt="an image showing how to fold and cut a pocketmod" style="max-width:100%;">
+<img src="https://sergeballif.github.io/images/foldinginstructions.png" alt="an image showing how to fold and cut a pocketmod" style="max-width:80%;">
 
 Teachers can use a pocketmod to create review sheets or worksheets. Students can create their own pocketmod study guides. Imagine the effort students would pour into creating one of these if they were allowed to use their notes on the exam.
 
