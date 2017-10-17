@@ -26,7 +26,7 @@ In this post I am sharing some ideas for more formal assignments or projects tha
 * extra credit
 
 ## Texting Lesson
-One of my most popular teaching assignments has been to require students to stage a tutoring session via text-message.
+One of my most popular teaching assignments has been to require students to stage a tutoring session via text-message. Students have no trouble coming up with fun dialog. They have to think out the problem from the perspective of the tutor and the tutee. I have been impressed with what my students have come up with.
 
 <a href="https://sergeballif.github.io/images/text-message-calculus.pdf" target="_blank">
 <img src="https://sergeballif.github.io/images/text-message-calculus.png" alt="a text message conversation of a tutoring session" style="max-width:100%;border: #000000 1px solid;">
