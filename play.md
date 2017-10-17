@@ -21,7 +21,11 @@ Turn students into teachers.
 ## Texting Lesson
 
 ## Pocketmod Summary
-A pocketmod is a little booklet made out of a single page that has been cut and folded. Teachers can use a pocketmod to create review sheets or worksheets. Students can create their own pocketmod study guides. Imagine the effort students would pour into creating one of these if they were allowed to use their notes on the exam.
+A pocketmod is a little booklet made out of a single page that has been cut and folded. 
+
+<img src="https://sergeballif.github.io/images/foldinginstructions.png" alt="an image showing how to fold and cut a pocketmod" style="max-width:100%;">
+
+Teachers can use a pocketmod to create review sheets or worksheets. Students can create their own pocketmod study guides. Imagine the effort students would pour into creating one of these if they were allowed to use their notes on the exam.
 
 The sample below is a pocketmod worksheet that my wife uses to accompany one of her [Science Mom videos](https://www.youtube.com/watch?v=IsvHQon2IqQ "Science Mom's Guide to Water Part 1"). 
 
@@ -40,7 +44,7 @@ Pocketmods can be handwritten. More advanced students can type them up. Feel fre
 ## Method Flowchart
 
 ## Topic Resume
-Resumes are a great way to introduce get a quick feel for a person. This assignment requires students to create a resume for an idea or a course. It takes a great deal of thought and care to craft a good resume. The example below is a sample resume I created for inverse functions.
+Resumes are a great way to introduce get a quick feel for a person. This assignment requires students to create a resume for an idea or a course. It takes a great deal of thought and care to craft a good resume. The added challenge of personifying a subject is guaranteed to stretch students to their limit. The example below is a sample resume I created for the topic _inverse functions_.
 
 <a href="https://sergeballif.github.io/images/resume-assignment.pdf" target="_blank">
 <img src="https://sergeballif.github.io/images/resume-assignment.png" alt="A resume for inverse functions" style="max-width:100%;border: #000000 1px solid;">
@@ -50,8 +54,11 @@ I have never actually used this assignment, but I think it would make a good fin
 
 ## Create a Desmos Lesson
 
+In many of my courses I require students to create a lesson using Desmos. They create an account at [teacher.desmos.com](https://teacher.desoms.com) and make their own lesson. By this point in the course they have been exposed to many Desmos activities, so they can identify what makes a strong and exciting lesson and what does not. Overall I have been a little disappointed with the quality of the lessons, but students seem to perform well on the topics they choose to teach.
 
-
+<a href="https://sergeballif.github.io/images/math181miniproject6.pdf" target="_blank">
+<img src="https://sergeballif.github.io/images/math181miniproject6.png" alt="Instructions on how to complete a project involving creating a Desmos teaching activity." style="max-width:100%;border: #000000 1px solid;">
+</a> 
 
 
 
