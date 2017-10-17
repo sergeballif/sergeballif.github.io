@@ -41,7 +41,7 @@ You can access the code for the project [here](https://www.overleaf.com/read/swr
 ## Pocketmod Summary
 A pocketmod is a little booklet made out of a single page that has been cut and folded. 
 
-<img src="https://sergeballif.github.io/images/foldinginstructions.png" alt="an image showing how to fold and cut a pocketmod" style="max-width:80%;">
+<img src="https://sergeballif.github.io/images/foldinginstructions.png" alt="an image showing how to fold and cut a pocketmod" style="max-width:600pt; width:100%;">
 
 Teachers can use a pocketmod to create review sheets or worksheets. Students can create their own pocketmod study guides. Imagine the effort students would pour into creating one of these if they were allowed to use their notes on the exam.
 
