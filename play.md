@@ -18,7 +18,7 @@ desmos: true
 
 I'm of the strong opinion that nobody has mastered an idea that they can't explain and communicate to others. It's important to give students the opportunity to take on the role of a teacher. For this reason I'm a big fan of group work and interactions. I want to see students discussing ideas and explaining concepts to each other. 
 
-In this post I am sharing some ideas for more formal assignments or projects that take students out of the comfort zone and place them on the other side of the desk. These assignments can be used for students at all levels, though they seem particularly well suited to strong students. Possible uses include
+In this post I am sharing some ideas for more formal assignments or projects that take students out of their comfort zone and place them on the other side of the desk. These assignments can be used for students at all levels, though they seem particularly well suited to strong students. Possible uses include
 * projects
 * exam replacements
 * study guides
@@ -59,7 +59,7 @@ Below is a review sheet I made as a sample for my students to show them how to c
 Pocketmods can be handwritten. More advanced students can type them up. Feel free to clone [the project here](https://www.overleaf.com/read/mnjkcbfvfjdp) to take advantage of an existing template.
 
 ## Topic Resume
-Resumes are a standard way to introduce and get a quick feel for a person. This assignment requires students to create a resume for an idea or a course. It takes a great deal of thought and care to craft a good resume. The added challenge of personifying a subject is guaranteed to stretch students to their limit. The example below is a sample resume I created for the topic _inverse functions_.
+Resumes are a standard way to introduce and get a quick feel for a person. This assignment requires students to create a resume for an idea or a course. It takes a great deal of thought and care to craft a good resume. The added challenge of personifying a subject is guaranteed to stretch students. The example below is a sample resume I created for the topic _inverse functions_.
 
 <a href="https://sergeballif.github.io/images/resume-assignment.pdf" target="_blank">
 <img src="https://sergeballif.github.io/images/resume-assignment.png" alt="A resume for inverse functions" style="max-width:100%;border: #000000 1px solid;">
