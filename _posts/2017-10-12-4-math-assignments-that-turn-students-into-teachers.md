@@ -19,13 +19,8 @@ headline: >-
 tags: 'teaching lessons, math'
 ---
 ---
-layout: page
-permalink: /play/index.html
+layout: post
 title: Serge Ballif
-tags: 
-  - Serge
-  - Ballif
-
 published: true
 mathjax: true
 featured: false
