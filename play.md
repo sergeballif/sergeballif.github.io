@@ -76,7 +76,7 @@ In many of my courses I require students to create a lesson using Desmos. They c
 Below you can see my instruction page for this assignment in my calculus class.
 
 <a href="https://sergeballif.github.io/images/math181miniproject6.pdf" target="_blank">
-<img src="https://sergeballif.github.io/images/math181miniproject6.png" alt="Instructions on how to complete a project involving creating a Desmos teaching activity." style="max-width:8.5in;border: #000000 1px solid;">
+<img src="https://sergeballif.github.io/images/math181miniproject6.png" alt="Instructions on how to complete a project involving creating a Desmos teaching activity." style="max-width:100%;border: #000000 1px solid;">
 </a> 
 
 
