@@ -25,6 +25,8 @@ In this post I am sharing some ideas for more formal assignments or projects tha
 * notes to use on the actual exam
 * extra credit
 
+I have listed four teaching assignments below. You can use them as a starting point for your own assignment or simply duplicate them exactly. Feel free to try them out, and please let me know how it goes.
+
 ## Texting Lesson
 One of my most popular teaching assignments has been to require students to stage a tutoring session via text-message. Students have no trouble coming up with fun dialog. They have to think out the problem from the perspective of the tutor and the tutee. I have been impressed with what my students have come up with.
 
@@ -74,7 +76,7 @@ In many of my courses I require students to create a lesson using Desmos. They c
 Below you can see my instruction page for this assignment in my calculus class.
 
 <a href="https://sergeballif.github.io/images/math181miniproject6.pdf" target="_blank">
-<img src="https://sergeballif.github.io/images/math181miniproject6.png" alt="Instructions on how to complete a project involving creating a Desmos teaching activity." style="max-width:100%;border: #000000 1px solid;">
+<img src="https://sergeballif.github.io/images/math181miniproject6.png" alt="Instructions on how to complete a project involving creating a Desmos teaching activity." style="max-width:8.5in;border: #000000 1px solid;">
 </a> 
 
 
