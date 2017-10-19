@@ -17,7 +17,7 @@ headline: >-
   These 4 assignments ask students to create their own lesson for their
   classmates.
 tags: math teaching lessons
-imagefeature: foldinginstructions.png
+imagefeature: squareresume.jpeg
 ---
 ## Students need to be teachers.
 
