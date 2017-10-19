@@ -18,17 +18,6 @@ headline: >-
   classmates.
 tags: 'teaching lessons, math'
 ---
----
-layout: post
-title: Serge Ballif
-published: true
-mathjax: true
-featured: false
-comments: true
-title: 4 unconventional assignments that turn students into teachers
-desmos: true
----
-
 ## Students need to be teachers.
 
 I'm of the strong opinion that nobody has mastered an idea that they can't explain and communicate to others. It's important to give students the opportunity to take on the role of a teacher. For this reason I'm a big fan of group work and interactions. I want to see students discussing ideas and explaining concepts to each other. 
