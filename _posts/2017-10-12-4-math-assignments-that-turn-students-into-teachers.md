@@ -16,7 +16,7 @@ description: >-
 headline: >-
   These 4 assignments ask students to create their own lesson for their
   classmates.
-tags: 'teaching lessons, math'
+tags: math teaching lessons
 ---
 ## Students need to be teachers.
 
